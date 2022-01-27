@@ -93,3 +93,4 @@
 - Promoting ideas that contradict the Quran, while claiming this book
 - Assignment of non-professionals to senior and key positions
     - 
+- Extreme tarrifs for decades on cars, with no global-level growth for internal cars' quality
