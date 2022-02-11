@@ -1,5 +1,9 @@
 # Temp thoughts
 
+Pain killers (analgesic) in this world are signs that there could be a world in which pain does not exist.
+
+---
+
 Though experiment:
 
 Ask two persons, to describe a house. In detail. List of rooms, dimensions of each place, where are the stuff located, the color of stuff, etc.   
