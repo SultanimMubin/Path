@@ -11,6 +11,7 @@
 - Spacing effect
 - Reductionism
 - Progression over perfection
+- Acronyms & initialisms
 
 ### Personal
 - Scattered (mine)
