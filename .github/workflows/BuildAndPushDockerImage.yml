@@ -9,6 +9,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+
+      # Base
+
       - name: Get /HolismHolding/Infra
         run: |
           sudo mkdir /HolismHolding
@@ -16,19 +19,25 @@ jobs:
           cd /HolismHolding
           git clone https://github.com/HolismHolding/Infra
 
+      - name: Create /Sultanimmubin directory
+        run: |
+          sudo mkdir /Sultanimmubin
+          sudo chmod 777 /Sultanimmubin
+
+      # Dependencies
+
+      # Main
+      
       - name: Get Sultanimmubin/Path using actions/checkout@v2
         uses: actions/checkout@v2
         with:
           repository: Sultanimmubin/Path
-          token: ${{ github.token }}
+          token: ${{ secrets.PAT }}
           path: Sultanimmubin/Path
-
       - name: Copy Sultanimmubin/Path to root
         run: |
-          sudo mkdir /Sultanimmubin
-          sudo chmod -R 777 /Sultanimmubin
-          cp -r $GITHUB_WORKSPACE/Sultanimmubin/Path /Sultanimmubin/Path
-
+          cp -r $GITHUB_WORKSPACE/Sultanimmubin/Path /Sultanimmubin/Path 
+      
       - name: Build production docker
         run: |
           cd /Sultanimmubin/Path
@@ -41,3 +50,7 @@ jobs:
       - name: Push the image
         run: |
           docker push ghcr.io/sultanimmubin/path:latest
+          
+      - name: Logout from GitHub Container Repository
+        run: |
+          docker logout
