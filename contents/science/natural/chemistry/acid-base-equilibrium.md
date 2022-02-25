@@ -30,12 +30,17 @@
 
 - ![Formula](https://latex.codecogs.com/svg.image?HA(aq)+H_2O(i)(\rightarrow)A^-(aq)+H_3O^+(aq))
 - ![Acid-ionization constant symbol](https://latex.codecogs.com/svg.image?K_a)
-- ![Acid-ionization constant formula](https://latex.codecogs.com/svg.image?K_a) K_a=\frac{[H_3O^+][A^-]}{[HA]}
+- ![Acid-ionization constant formula](https://latex.codecogs.com/svg.image?K_a=\frac{[H_3O^+][A^-]}{[HA]})
 - Large Ka = more products = stronger acid = lower pH
 - Small Ka = more reactants = weaker acid = higher pH
 - Many biological fluids (ex. blood) are buffer solution (because they need to keep a steady pH)
 - pH = negative log of hydronium concentration
+- 
 
 --- 
 
 [Source](https://youtu.be/jdmHjFp_35I)
+
+--- 
+
+done
