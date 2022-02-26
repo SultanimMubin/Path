@@ -13,3 +13,4 @@
 - ...
 - [Temperature and gas solubility](temperature-gas-solubility)
 - [Balancing Redox reactions](balancing-redox-reactions)
+- [Pseudo noble gas electron configuration](pseudo-noble-gas-electron-configuration)
