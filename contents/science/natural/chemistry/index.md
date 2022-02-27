@@ -18,3 +18,5 @@
 - [Lattice structures in ionic solids](lattice-structures-in-ionic-solids)
 - [Covalent bond energy & length](covalent-bond-energy-length)
 - [Limitations of VSEPR theory](limitations-of-vsepr)
+- ...
+- [Types of colloids](types-of-colloids)
