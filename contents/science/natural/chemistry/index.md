@@ -16,3 +16,4 @@
 - [Pseudo noble gas electron configuration](pseudo-noble-gas-electron-configuration)
 - [Complex ion formation](complex-ion-formation)
 - [Lattice structures in ionic solids](lattice-structures-in-ionic-solids)
+- [Covalent bond energy & length](covalent-bond-energy-length)
