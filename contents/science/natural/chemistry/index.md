@@ -12,6 +12,7 @@
 - [Molecular geometry visualization](molecular-geometry-visualization)
 - ...
 - [Concentration mass percent](concentration-mass-percent)
+- [Formulas of hydrated salts](formulas-of-hydrated-salts)
 - ...
 - [Temperature and gas solubility](temperature-gas-solubility)
 - [Balancing Redox reactions](balancing-redox-reactions)
