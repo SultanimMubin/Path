@@ -23,3 +23,4 @@
 - [Solubility product constant](solubility-product-constant)
 - [Predicting precipitation](predicting-precipitation)
 - [Selective percipitation](selective-percipitation)
+- [Common ion effect](common-ion-effect)
