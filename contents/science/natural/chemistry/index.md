@@ -11,6 +11,8 @@
 - [Temperature conversion](temperature-conversion)
 - [Molecular geometry visualization](molecular-geometry-visualization)
 - ...
+- [Concentration mass percent](concentration-mass-percent)
+- ...
 - [Temperature and gas solubility](temperature-gas-solubility)
 - [Balancing Redox reactions](balancing-redox-reactions)
 - [Pseudo noble gas electron configuration](pseudo-noble-gas-electron-configuration)
