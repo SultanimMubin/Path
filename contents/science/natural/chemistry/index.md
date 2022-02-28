@@ -22,3 +22,4 @@
 - [Types of colloids](types-of-colloids)
 - [Solubility product constant](solubility-product-constant)
 - [Predicting precipitation](predicting-precipitation)
+- [Selective percipitation](selective-percipitation)
