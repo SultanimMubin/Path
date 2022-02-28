@@ -15,6 +15,8 @@
 - [Formulas of hydrated salts](formulas-of-hydrated-salts)
 - [Electrolytes](electrolytes)
 - ...
+- [Standard conditions](standard-conditions)
+- ...
 - [Temperature and gas solubility](temperature-gas-solubility)
 - [Balancing Redox reactions](balancing-redox-reactions)
 - [Pseudo noble gas electron configuration](pseudo-noble-gas-electron-configuration)

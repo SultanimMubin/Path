@@ -12,7 +12,14 @@
 - molarity
 - mole
 - bleach
-- 
+- sodium
+- chlorite
+- hypochlorite
+- sodium hypochlorite
+- hydrochloric acid
+- stoichiometry
+- aqueous solution
+- hydroxide
 
 ---
 
@@ -28,3 +35,4 @@
 
 ---
 
+done
