@@ -37,7 +37,12 @@
 - DNA plasmid
 - virulance gene
 - zoonotic
-- 
+- urban plague
+- sylvatic plague
+- rodent
+- flea
+- droplet
+- antibiotics
 
 ---
 
@@ -47,7 +52,8 @@
 
 ---
 
-[Source]()
+[Source](https://youtu.be/-R8Jj-SpWZk)
 
 ---
 
+done

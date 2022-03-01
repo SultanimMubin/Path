@@ -14,3 +14,7 @@
 - [Nucleophiles, Electrophiles, Leaving Groups, and the SN2 Reaction](nucleophiles-electrophiles-leaving-groups-sn2-reaction)
 - [SN1 reaction](sn1-reaction)
 - [E2 reaction](e2-reaction)
+
+## Practice problems
+
+- [Four-reaction pathway](practice-problem-four-reaction-pathway)
