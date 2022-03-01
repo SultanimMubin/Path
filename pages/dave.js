@@ -1106,10 +1106,18 @@ var videos = [
     'sZ1OR_0yQJY'
 ]
 
-const Dave = () => {
-    const randomVideo = videos[Math.floor(Math.random() * videos.length)];
+const Dave = ({ videoCode }) => {
 
-    return <a target='_blank' href={`https://youtube.com/watch?v=${randomVideo}`}>Random Video ({randomVideo})</a>
+    return <a target='_blank' href={`https://youtube.com/watch?v=${videoCode}`}>Random Video ({videoCode})</a>
 }
 
 export default Dave
+
+export async function getServerSideProps({ params, res }) {
+    const randomVideo = videos[Math.floor(Math.random() * videos.length)];
+    return {
+        props: {
+            videoCode: randomVideo
+        }
+    }
+}
