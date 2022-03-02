@@ -2,6 +2,8 @@
 
 - [Element, compound, mixture](element-compound-mixture)
 - ...
+- [Valence bond, hybrid orbital, molecular orbital](valence-bond-hybrid-bond-molecular-orbital)
+- ...
 - [Acid-Base equilibrium](acid-base-equilibrium)
 - [Acid-Base titration](acid-base-titration)
 - [Oxidation-Reduction reaction](oxidation-reduction-reaction)
