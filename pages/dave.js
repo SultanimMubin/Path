@@ -562,7 +562,6 @@ var videos = [
     '6CCF7ChhZ1s',
     'gU9fFlM8m6M',
     'zqxl3CdZDLM',
-    'KBLxV0QrwWo',
     '6xNivaal14c',
     'VpUzoY2nbfE',
     '2vESqp8mL5I',
