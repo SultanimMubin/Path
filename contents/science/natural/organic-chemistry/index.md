@@ -15,6 +15,4 @@
 - [SN1 reaction](sn1-reaction)
 - [E2 reaction](e2-reaction)
 
-## Practice problems
-
-- [Four-reaction pathway](practice-problem-four-reaction-pathway)
+## [Practice problems](practice-problems/index)
