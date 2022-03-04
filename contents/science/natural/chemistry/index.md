@@ -1,6 +1,7 @@
 ﻿# Chemistry
 
 - [Element, compound, mixture](element-compound-mixture)
+- 5 [History of atomic theory](history-of-atomic-theory)
 - ...
 - [Valence bond, hybrid orbital, molecular orbital](valence-bond-hybrid-bond-molecular-orbital)
 - ...
