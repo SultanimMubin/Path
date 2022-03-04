@@ -6,6 +6,7 @@
 - [Calculus](calculus/index)
 - [Geometry](geometry/index)
 - [Linear Algebra](linear-algebra/index)
+- [Others](others/index)
 - [Trigonometry](trigonometry/index)
 
 ***
