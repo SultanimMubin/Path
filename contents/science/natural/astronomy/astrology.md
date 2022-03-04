@@ -1,5 +1,6 @@
 # Astrology
 
+- cancer
 - astrology
 - celestial object
 - ecliptic
@@ -28,6 +29,7 @@
 - evidence
 - natal astrology
 - natal chart
+- assortment
 - sun sign
 - astrological sign
 - equition
