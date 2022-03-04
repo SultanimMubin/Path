@@ -2,6 +2,6 @@
 
 - [Pythagoreanism](pythagoreanism)
 - [Point, like, plane](point-line-plane)
-- [Angle](angle)
+- 3 [Angle](angle)
 - [Triangle](triangle)
 - [Congruence & Similarity](congruence-and-similarity)

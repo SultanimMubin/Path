@@ -1,40 +1,55 @@
-﻿
-<h1>زاویه</h1>
+﻿# Angle
 
-<ul>
-    <li>line</li>
-    <li>Intersection (Euclidean geometry)</li>
-    <li>angle</li>
-    <li>ray (geometry)</li>
-    <li>coterminal</li>
-    <li>vertex</li>
-    <li>point</li>
-    <li>degree</li>
-    <li>acute angle</li>
-    <li>right angle</li>
-    <li>obtuse angle</li>
-    <li>vertical angle</li>
-    <li>adjacent angle</li>
-    <li>complementary angles</li>
-    <li>supplementary angles</li>
-    <li>perpendicular</li>
-    <li>parallel</li>
-    <li>internal and external angles</li>
-    <li>interior angles</li>
-    <li>exterior angles</li>
-    <li>alternate interior angles</li>
-    <li>alternate exterior angles</li>
-    <li>alternate interior angles theorem</li>
-    <li>alternate exterior angles theorem</li>
-    <li>same-side interior angles theorem</li>
-    <li>transversal (geometry)</li>
-    <li>corresponding angles</li>
-    <li>shape</li>
-    <li>line segment</li>
-    <li>edge (geometry)</li>
-    <li>triangle</li>
-</ul>
+### Concepts
 
-<p>
-    done
-</p>
+- line
+- Intersection (Euclidean geometry)
+- dimension
+- angle
+- ray (geometry)
+- coterminal
+- vertex
+- point
+- degree
+- acute angle
+- right angle
+- square
+- obtuse angle
+- vertical angle
+- adjacent angle
+- complementary angles
+- supplementary angles
+- perpendicular
+- parallel
+- internal and external angles
+- interior angles
+- exterior angles
+- alternate interior angles
+- alternate exterior angles
+- alternate interior angles theorem
+- alternate exterior angles theorem
+- same-side interior angles theorem
+- transversal (geometry)
+- corresponding angles
+- shape
+- like terms
+- line segment
+- side
+- edge (geometry)
+- triangle
+
+---
+
+### Notes
+
+- angle = how wide? how open?
+- acute angle => cute and tiny
+- 
+
+---
+
+[Source](https://youtu.be/dA94zyaLuhk)
+
+---
+
+done
