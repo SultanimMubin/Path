@@ -1,3 +1,22 @@
-﻿<h1>زیست شناسی</h1>
+﻿# Biology
 
-<partial name="/Views/NaturalSciences/Biology/Menu.cshtml" />
+- [Cell cycle](cell-cycle)
+- [Meiosis](meiosis)
+- [Mendelian inheritance](mendelian-inheritance)
+- [Chromosome](chromosome)
+- [Gene expression](gene-expression)
+- [Virus](virus)
+- [Bacteria](bacteria)
+- [Archea and protists](archaea-and-protists)
+- [Cellular differentiation](cellular-differentiation)
+- [Darwin](darwin)
+- [Population](population)
+- [Tree of life](tree-of-life)
+- [Biotechnology](biotechnology)
+- [Anaerobic respiration](anaerobic-respiration)
+- [Apoptosis](apoptosis)
+- [Complex inheritance](complex-inheritance)
+- [X-linked inheritance](x-linked-inheritance)
+- [Genetic linkage](genetic-linkage)
+- ...
+- 32 [Types of sexual selection](types-of-sexual-selection)
