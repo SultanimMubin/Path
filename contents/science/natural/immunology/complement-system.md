@@ -1,0 +1,149 @@
+# The Complement System: Classical, Lectin, and Alternative Pathways
+
+### Concepts
+
+- innate immune system
+- barrier surfaces
+- line of defense
+- bacteria
+- in vitro
+- heat-treated blood
+- guinea pig
+- cholera
+- Jules Bordet
+- heat-stable
+- heat-labile
+- immunologist
+- Paul Ehrlich
+- antibody
+- homolog
+- mammalian
+- complement proteins
+- invertebrates
+- starfish
+- sea urchain
+- sea squirt
+- protein
+- zymogen
+- enzyme
+- inactive state
+- biochemical change
+- cleavage
+- cleavage and activation
+- molecular domino effect
+- pathogen
+- nomenclature
+- complement cascade
+- anaphylatoxin
+- functional protein
+- convertase
+- order of binding
+- inconsistency
+- neutrophile
+- monocyte
+- antigen
+- classical pathway
+- antige-antibody complex
+- lectin pathway
+- MBL
+- MASP
+- MBL-MASP
+- alternative pathway
+- hydrolysis
+- pathway
+- effector function
+- protease
+- infection
+- microbe
+- IgG
+- immunoglobulin G
+- acute-phase protein
+- conformational change
+- autocatalytic activation
+- covalent bond
+- jawed vertabrates
+- lower-order organism
+- lectin
+- carbohydrate group
+- homeostasis
+- host
+- pattern-recognition receptor
+- cell wall
+- bacterial cell wall
+- yeast cell
+- microbial sugar
+- mannose-binding lectin
+- ficolin
+- liver
+- multimeric protein
+- binding site
+- sugar group
+- fucose
+- mannose
+- N-acytelglucosamine
+- polysaccharides
+- acelytation
+- serine
+- plasma protein
+- spontaneous hydrolysis
+- serum
+- phagocyte
+- opsonization
+- macrophage
+- phagocytose object
+- nucleation
+- membrane attack complex
+- pore
+- hydrophobic residue
+- terminal protein
+- plymerization
+- solute
+- water lyzozyme
+- ATP
+- potasium
+- amino acid
+- plasma membrane
+- intracellular space
+- hydrophilic
+- ion
+- parasite
+- Neisseria
+- genetic defense
+- susceptibility
+- muscle contraction
+- smooth muscle cell
+- blood vessel
+- vacular permeability
+- endothelial cell
+- expression
+- adhesion molecules
+- immune cell
+- infected tissue
+- anaphylactic shock
+- regulation
+- Factor D
+- thioester
+- C1 inhibitor
+- decay-accelerating factor
+- vitronectin
+- membrane-bound protein
+- inflammatory response
+
+---
+
+### Notes
+
+- heat-stable = antibody, heat-labile = complement
+- complement system = proteins
+    - name starts with C (Complement)
+    - they cleave into 2 sections
+        - a
+        - b
+
+---
+
+[Source](https://youtu.be/Uc4nq4Lazo4)
+
+---
+
+done
