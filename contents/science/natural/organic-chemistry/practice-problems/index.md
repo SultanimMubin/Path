@@ -4,3 +4,4 @@
 - 27 [Electrophilic aromatic substitution multi-step pathway](electrophilic-aromatic-substitution)
 - 30 [Four-reaction pathway](practice-problem-four-reaction-pathway)
 - 39 [Practice exam 3](exam-3)
+- 52 [Synthesis challenge 2](synthesis-challenge-2)
