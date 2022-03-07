@@ -1,45 +1,145 @@
-﻿<h1>ویروس</h1>
+﻿# Viruses: Molecular Hijackers
 
-<ul>
-    <li>unicellular organism</li>
-    <li>virus</li>
-    <li>DNA</li>
-    <li>RNA</li>
-    <li>cell membrane</li>
-    <li>organelle</li>
-    <li>nucleus</li>
-    <li>nucleoid</li>
-    <li>cytoskeleton</li>
-    <li>history of virology</li>
-    <li>viral envelope</li>
-    <li>glycoprotein</li>
-    <li>capsid</li>
-    <li>viral tegument</li>
-    <li>protein subunit</li>
-    <li>tobaco mosaic virus</li>
-    <li>icosahedral</li>
-    <li>nucleoprotein</li>
-    <li>neuraminidase</li>
-    <li>hemagglutinin</li>
-    <li>bacteriophage</li>
-    <li>DNA virus</li>
-    <li>capsomere</li>
-    <li>linear chromosome</li>
-    <li>circular chromosome</li>
-    <li>cell surface receptor</li>
-    <li>bacterial genome</li>
-    <li>endocytosis</li>
-    <li>lytic cycle</li>
-    <li>lysogenic cycle</li>
-    <li>prophage</li>
-    <li>recombinant DNA</li>
-    <li>exocytose</li>
-    <li>retrovirus</li>
-    <li>reverse transcriptase</li>
-    <li>viral matrix protein</li>
-    <li>viroid</li>
-    <li>prion</li>
-    <li>pathology</li>
-</ul>
+### Concepts
 
-<p>done</p>
+- cellular process
+- unicellular organism
+- virus
+- living organism
+- E. coli bacterium
+- bacteria
+- bacterium
+- metabolism
+- reproduction
+- stimuli
+- growth
+- biologist
+- inert
+- biomolecule
+- genetic material
+- protein casing
+- DNA
+- RNA
+- cell membrane
+- organelle
+- nucleus
+- nucleoid
+- cytoskeleton
+- host cell
+- injection
+- cellular machinery
+- desease
+- plant
+- sap
+- microscope
+- transmission
+- filteration
+- infectious agent
+- test tube
+- cultivation
+- Petri dish
+- history of virology
+- viral structure
+- genome
+- protein
+- envelope protein
+- envelope
+- viral envelope
+- glycoprotein
+- capsid
+- viral tegument
+- rod-shaped virus
+- lelical
+- protein subunit
+- tobaco mosaic virus
+- icosahedral
+- Adenovirus
+- fiber
+- hexon
+- penton base
+- membraneous envelope
+- influenza
+- ribonucleoprotein
+- nucleoprotein
+- neuraminidase
+- hemagglutinin
+- spike
+- bacteriophage
+- base plate
+- long tail fibers
+- double stranded
+- single stranded
+- linear molecule
+- circular molecule
+- protein shell
+- DNA virus
+- subunit
+- capsomere
+- cell membrane
+- ribosome
+- enzyme
+- cellular component
+- recognition
+- surface receptor
+- specificity
+- virion
+- species
+- linear chromosome
+- circular chromosome
+- cell surface receptor
+- bacterial genome
+- viral genome
+- endocytosis
+- viral DNA
+- mRNA
+- transcription
+- translation
+- lytic cycle
+- terminated
+- population
+- lysogenic cycle
+- prophage
+- recombinant DNA
+- daughter cell
+- lysis
+- exocytose
+- HIV
+- retrovirus
+- reverse transcriptase
+- lipid membrane
+- matrix (capsid)
+- viral matrix protein
+- viroid
+- prion
+- infectious protein particle
+- Alzheimer's desease
+- Parkinson's desease
+- chance mutation
+- proliferation
+- evolutionary flux
+- anomylous virus
+- pathology
+
+---
+
+### Notes
+
+- Criteria for being alive:
+    - perform metabolism
+    - capacity for reproduction
+    - response to stimuli
+    - cellular composition
+    - complex growth
+- Complexity level
+    - biomolecules (proteins, DNA)
+    - viruses
+    - living organisms (bacteria)
+- What is the origin of viruses?
+
+---
+
+[Source](https://youtu.be/wUgEhfo_qxU)
+
+---
+
+done

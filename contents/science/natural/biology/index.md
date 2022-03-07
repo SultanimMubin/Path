@@ -5,7 +5,7 @@
 - [Mendelian inheritance](mendelian-inheritance)
 - [Chromosome](chromosome)
 - [Gene expression](gene-expression)
-- [Virus](virus)
+- 12 [Virus](virus)
 - [Bacteria](bacteria)
 - [Archea and protists](archaea-and-protists)
 - [Cellular differentiation](cellular-differentiation)
