@@ -7,6 +7,7 @@
 
 ...
 
+- 18 [Jupiter](jupiter)
 - 31 [Astrology](astrology)
 - ...
 - 39 [Types of binary star systems](types-of-binary-star-systems)
