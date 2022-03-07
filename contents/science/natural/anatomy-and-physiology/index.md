@@ -1,4 +1,4 @@
-# Physiology
+# Anatomy & Physiology
 
 - [Introduction](introduction)
 - [Homeostasis](homeostasis)

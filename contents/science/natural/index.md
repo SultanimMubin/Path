@@ -1,6 +1,6 @@
 ﻿# Natural Sciences
 
-- [Anatomy](anatomy/index)
+- [Anatomy & Physiology](anatomy-and-physiology/index)
 - [Astronomy](astronomy/index)
 - [Biochemistry](biochemistry/index)
 - [Biology](biology/index)
@@ -13,7 +13,6 @@
 - [Modern physics](modern-physics/index)
 - [Neurology](neurology/index)
 - [Organic chemistry](organic-chemistry/index)
-- [Physiology](physiology/index)
                 
 <!-- 
 immunology
