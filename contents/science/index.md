@@ -19,6 +19,7 @@
     - To see a molecule, Google it as `molview molecule_name`
 - Periodic table
     - Simply google **periodic table**
+- [Omni Calculator](https://www.omnicalculator.com/)
 
 ---
 
