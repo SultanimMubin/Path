@@ -7,6 +7,7 @@
 
 ...
 
+- 16 [Earth](earth)
 - 18 [Jupiter](jupiter)
 - 21 [Neptune](neptune)
 - 31 [Astrology](astrology)
