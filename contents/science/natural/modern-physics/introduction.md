@@ -3,10 +3,10 @@
 #### concepts
 
 - Huygens
-- Newton
+- Issac Newton
 - Coulomb
 - Faraday
-- Maxwell
+- James Clerk Maxwell
 - classical mechanics
 - classical electromagnetism
 - math
@@ -31,12 +31,15 @@
 - subatomic particles
 - paradigm shift
 - relativistic mechanics
+- classical physics
+- modern physics
 - quantum mechanics
 - QFT
 - phenomenon
 - observation
+- relativity
 
-***
+---
 
 #### notes
 
@@ -46,10 +49,10 @@
     - fast
     - heavy
 
-***
+---
 
 [Source](https://youtu.be/H0m97YJavH4)
 
-***
+---
 
 done
