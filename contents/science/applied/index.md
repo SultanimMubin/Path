@@ -1,3 +1,3 @@
-﻿<h1>علوم کاربردی</h1>
+﻿# Applied sciences
 
-<partial name="/Views/AppliedSciences/Menu.cshtml" />
+- [Pharmacology](pharmacology/index)
