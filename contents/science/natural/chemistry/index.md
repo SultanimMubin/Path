@@ -36,3 +36,5 @@
 - [Predicting precipitation](predicting-precipitation)
 - [Selective percipitation](selective-percipitation)
 - [Common ion effect](common-ion-effect)
+
+### [Practice Problems](practice-problems/index)
