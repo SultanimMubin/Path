@@ -15,6 +15,7 @@
 - [SN1 reaction](sn1-reaction)
 - [E2 reaction](e2-reaction)
 - 34 [Micheal Addition](micheal-addition)
+- 67 [Recrystalization](recrystalization)
 - 86 [Carbenes: Cyclopropanation, C-H insertion, Bamford-Stevens reaction](carbenes-2)
 
 ## [Practice problems](practice-problems/index)
