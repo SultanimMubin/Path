@@ -37,5 +37,6 @@
 - [Predicting precipitation](predicting-precipitation)
 - [Selective percipitation](selective-percipitation)
 - [Common ion effect](common-ion-effect)
+- 78 [Conductivity and semiconductors](conductivity-and-semiconductors)
 
 ### [Practice Problems](practice-problems/index)
