@@ -41,6 +41,112 @@
 - surface area
 - axon hillock
 - nerve fiber
+- terminal branch
+- conduction
+- secretory regions
+- neurotransmitters
+- impulse
+- excite
+- inhibit
+- myelinated fiber
+- neurofibril
+- motochondrion
+- channel protein
+- electrical insulator
+- electrical conduction speed
+- collateral
+- anotomical feature
+- unipolar neurons
+- bipolar neurons
+- multipolar neurons
+- process (neuron)
+- proximal branch
+- distal branch
+- central process
+- CNS
+- central nervous system
+- peripheral process
+- sensory receptor
+- afferont neuron
+- sensory neuron
+- efforont neuron
+- motor neuron
+- gland
+- interneuron
+- receptive region
+- stimulus
+- trigger zone
+- membrane potential
+- electric potential
+- opposite charges
+- attraction
+- work
+- potential energy
+- charge separation
+- ion
+- plasma membrane
+- potential difference
+- current flow
+- resistor
+- charged particle
+- nonpolar
+- formal charge
+- ion channel
+- non-gated channel
+- gated channel
+- chemically-gated channel
+- binding
+- voltage-gated channel
+- mechanically-gated channel
+- difusion
+- electrochemical gradient
+- electrical current
+- resting neuron
+- resting membrane potential
+- reference electrode
+- recording microelectrode
+- sodium ion
+- potassium ion
+- concentration
+- sodim-potassium pumpo
+- ATP
+- transportation
+- ADP
+- degradation enzyme
+- graded-potential
+- locallized membrane potential
+- ligand-gated ion channel
+- action potential
+- depolarization
+- threshold
+- repolarization
+- hyperpolarization
+- synaptic space
+- synapse
+- effector cell
+- axodendritic synapse
+- postsynaptic neuron
+- axosomatic synapse
+- axoaxonal synapse
+- presynaptic neuron
+- quantitative
+- sensory input
+- motor output
+- PNS
+- peripheral nervous system
+- spinal chord
+- afforant
+- efforant
+- somatic nervous system
+- autonomic nervous system
+- skeletal muscle
+- concious control
+- voluntary motion
+- involuntary motion
+- smooth muscle
+- cardiac muscle
+- sympathetic nervous system
+- parasympathetic nervous system
 
 ---
 
@@ -54,3 +160,4 @@
 
 ---
 
+done

@@ -5,3 +5,4 @@
 - [Rate of change](rate-of-change)
 - [Derivative](derivative)
 - 11 [Higher derivatives](higher-derivatives)
+- 32 [Estimating sums](estimating-sums)
