@@ -17,5 +17,6 @@
 - 34 [Micheal Addition](micheal-addition)
 - 67 [Recrystalization](recrystalization)
 - 86 [Carbenes: Cyclopropanation, C-H insertion, Bamford-Stevens reaction](carbenes-2)
+- 95 [Gabriel amine synthesis](gabriel-amine-synthesis)
 
 ## [Practice problems](practice-problems/index)
