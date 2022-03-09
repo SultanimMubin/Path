@@ -25,7 +25,7 @@
 - ...
 - [Temperature and gas solubility](temperature-gas-solubility)
 - [Balancing Redox reactions](balancing-redox-reactions)
-- [Pseudo noble gas electron configuration](pseudo-noble-gas-electron-configuration)
+- 61 [Pseudo noble gas electron configuration](pseudo-noble-gas-electron-configuration)
 - [Complex ion formation](complex-ion-formation)
 - [Lattice structures in ionic solids](lattice-structures-in-ionic-solids)
 - [Covalent bond energy & length](covalent-bond-energy-length)
