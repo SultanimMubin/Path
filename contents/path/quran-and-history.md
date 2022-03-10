@@ -1,0 +1,2 @@
+- Ibrahim, babel, sun and moon and kawkab => venus?
+- Yusuf => king, moses => pharaoh
