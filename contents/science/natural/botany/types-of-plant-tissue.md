@@ -52,7 +52,85 @@
 - chloroplast
 - organelle
 - cuticle
-- 
+- evolutionary advantage
+- aquatic plant
+- land plant
+- trichome
+- vascular bundle
+- sheeth
+- xylem
+- phlem
+- palisade mesophyll
+- spondgy mesophyll
+- stoma
+- guard cell
+- nutrient
+- herbivore
+- insect
+- stomata
+- stomatal pore
+- periderm
+- semi-permeable
+- cork
+- cork cambium
+- phelloderm
+- bark
+- secondary phleom
+- vascular cambium
+- secondary xylem
+- rhytidome
+- root
+- stem
+- vacular tissue
+- vascular plant
+- mosse
+- growth strategy
+- shrub
+- plant evolution
+- dead cells
+- tracheids
+- vessel element
+- perforation plate
+- mineral
+- root hair
+- pericycle
+- endodermis
+- cortex
+- transport tube
+- xylem conduit
+- potential gradient
+- C-T mechanism
+- cohesion-tension mechanism
+- capillary action
+- cohesive
+- adhesive
+- capillary tube
+- transpiration
+- surface tension
+- evaporation
+- absorption
+- soil-plant-atmosphere continuoum
+- companion cell
+- sieve cell
+- cell wall ingrowths
+- sieve tube element
+- sieve plate
+- plasmodesmata
+- pore
+- membrane
+- sap
+- sucrose
+- hydrostatic pressure
+- osmosis
+- translocation
+- leaf cell
+- source
+- sink
+- root cell
+- concentration gradient
+- artery
+- vein
+- circulatory system
 
 ---
 
@@ -63,3 +141,5 @@
 [Source](https://youtu.be/M-qDzKG3RB0)
 
 ---
+
+done
