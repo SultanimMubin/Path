@@ -1,0 +1,163 @@
+# Bone
+
+### Concepts
+
+- connective tissue
+- structure
+- skeletal cartilage
+- skeleton
+- tension
+- compression
+- chondrocyte
+- lacunae
+- cell
+- cavity
+- extracellular matrix
+- ground substance
+- fiber
+- hyaline cartilage
+- elastic cartilage
+- fibrocartilage
+- collagen
+- ribs
+- laryx
+- epiglottis
+- vertabrae
+- axial bones
+- appendicular bones
+- head
+- torso
+- spine
+- rib cage
+- skull
+- appendage
+- limb
+- amrs
+- legs
+- pelvis
+- shoulders
+- long bone
+- short bone
+- flat bone
+- irregular bone
+- ankle
+- wrist
+- sternum
+- shoulder blade
+- hip bones
+- lever
+- mineral storage
+- calcium
+- phosphate
+- bloodstream
+- fat
+- hormone
+- blood cell
+- osseus tissue
+- organ
+- nervouse tissue
+- blood vessel
+- gross anatomy
+- naked eye
+- compact bone
+- spongy bone
+- bone marrow
+- joint
+- tubular
+- diaphysis
+- medullary cavity
+- yellow bone marrow
+- epipheses
+- red bone marrow
+- periosteum
+- epiphyseal line
+- articular cartilage
+- epiphysieal plate
+- cartilage disc
+- irregular connective tissue
+- osteogenic
+- primitive stem cell
+- nerve fiber
+- endosteum
+- lamellae
+- canaliculi openings
+- trabeculae
+- bone markings
+- bone projections
+- bone depressions
+- bone openings
+- fossae
+- foramina
+- grooves
+- microscopy
+- anatomy
+- oesteogenic cell
+- lacuna
+- osteocyte
+- osteoclast
+- osteoblast
+- canaliculli
+- stem cell
+- flattened cell
+- squamouse cell
+- bone matrix
+- protein
+- bone growth
+- mitotic
+- cube
+- cell communication
+- bone lining cell
+- nuclei
+- enzyme
+- resorption
+- concentric lamellae
+- osteon
+- circumferrential lamellae
+- periosteal artery
+- periosteal vein
+- interstitial lamellae
+- perforating canal
+- lymphatic vessel
+- trabeculae
+- tree trunk
+- bone salt
+- crystal
+- lamella
+- torsion
+- canaliculus
+- chemical composition
+- osteoid
+- secretion
+- tensile strength
+- organic compound
+- inorganic compound
+- hydroxyapatite
+- calcium phosphate
+
+---
+
+### Notes
+
+- bone
+    - axial
+        - skull
+        - spine
+        - rib cage
+    - appendicular
+        - arms
+        - shoulders
+        - legs
+        - pelvis
+- bone
+    - long
+    - short
+    - flat
+    - irregular
+
+---
+
+[Source](https://youtu.be/2vESqp8mL5I)
+
+---
+
+done

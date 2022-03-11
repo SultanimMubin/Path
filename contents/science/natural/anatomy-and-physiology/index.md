@@ -41,6 +41,7 @@
 
 ### third course (Professor Dave Explains)
 
+- 5 [Bone](bone)
 - 11 [Nervous tissue](nervous-tissue)
 
 [Source](https://www.youtube.com/playlist?list=PLybg94GvOJ9HVbNobTmFnOxXRn1dIpffc)
