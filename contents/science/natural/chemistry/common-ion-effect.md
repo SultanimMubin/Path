@@ -4,21 +4,37 @@
 
 - solubility
 - percipitation
+- percipitate
 - the common ion effect
 - Le Chatelier's principle
+- equilibria
 - equilibrium
+- component
+- shif
+- side
+- substance
 - sliver
 - iodide
+- silver iodide
 - aquouse
 - potasium
+- common ion
+- ion
+- solution
+- quantitative
 - cadmium
-- solfide
+- sulfide
+- cadmium sulfide
+- Ksp
 - solubility product
 - boromide
+- cadmium bromide
 - molar solubility
 - compound
 - ICE box
+- expression
 - concentration
+- solving for X
 - equilibrium concentration
 
 ---
