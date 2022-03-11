@@ -1,5 +1,6 @@
 # Organic chemistry practice problems
 
+- 19 [Three-step synthesis](three-step-synthesis)
 - 20 [Three reaction pathway](three-reaction-pathway)
 - 27 [Electrophilic aromatic substitution multi-step pathway](electrophilic-aromatic-substitution)
 - 30 [Four-reaction pathway](practice-problem-four-reaction-pathway)
