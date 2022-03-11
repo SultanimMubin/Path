@@ -16,6 +16,7 @@
 - [E2 reaction](e2-reaction)
 - 34 [Micheal Addition](micheal-addition)
 - 67 [Recrystalization](recrystalization)
+- 84 [The Haloform Reaction](haloform-reaction)
 - 86 [Carbenes: Cyclopropanation, C-H insertion, Bamford-Stevens reaction](carbenes-2)
 - 95 [Gabriel amine synthesis](gabriel-amine-synthesis)
 
