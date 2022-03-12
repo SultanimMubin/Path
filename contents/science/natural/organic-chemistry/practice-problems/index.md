@@ -1,5 +1,6 @@
 # Organic chemistry practice problems
 
+- 14 [Acidity of carboxylic acids](acidity-of-carboxylic-acid)
 - 19 [Three-step synthesis](three-step-synthesis)
 - 20 [Three reaction pathway](three-reaction-pathway)
 - 27 [Electrophilic aromatic substitution multi-step pathway](electrophilic-aromatic-substitution)

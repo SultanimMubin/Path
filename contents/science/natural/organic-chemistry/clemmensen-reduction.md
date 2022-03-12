@@ -14,7 +14,28 @@
 - alkane
 - mechanism
 - hypothesis
-- 
+- protonation
+- carbonyl
+- heterogenous
+- Friedel–Crafts reaction
+- benzene
+- alkylation
+- alkyl group
+- alkyl chloride
+- catalyst
+- linear fragment
+- carbocation
+- intermediate
+- aluminum
+- bond
+- hydride shift
+- isopropyl
+- acylation
+- acyl chloride
+- aluminum trichloride
+- molecule
+- two-step process
+- ring
 
 ---
 
@@ -25,3 +46,5 @@
 [Source](https://youtu.be/xtPHYsHQIiE)
 
 ---
+
+done
