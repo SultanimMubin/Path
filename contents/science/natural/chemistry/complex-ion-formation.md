@@ -36,6 +36,7 @@
 - electron transfer
 - proton transfer
 - complex ion formation
+- cancel out
 
 ---
 
