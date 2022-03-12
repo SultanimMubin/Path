@@ -12,6 +12,7 @@
 - complex ions
 - ligand (ion)
 - central atom
+- complex
 - silver chloride
 - lattice energy
 - solid phase
@@ -31,6 +32,7 @@
 - aluminum three ion
 - nitrate ion
 - reactive side
+- phase change
 - electron transfer
 - proton transfer
 - complex ion formation
