@@ -1,0 +1,156 @@
+# Research methods of biopsychology
+
+### Concepts
+
+- brain
+- learning
+- emotion
+- experiment
+- information
+- instrument
+- research method
+- biopsychology
+- nervous system
+- human behavior
+- visualization
+- brain activity
+- computed tomography
+- CT scan
+- x-ray
+- three-dimensional image
+- cross-section
+- positron emission tomography
+- PET scan
+- coincidence processing unit
+- annhilation
+- image reconstruction
+- sinogram
+- listmode data
+- radioactive compound
+- active neuron
+- cerebral blood flow
+- injection
+- brain function
+- task
+- magnetic resonance imaging
+- MRI
+- hydrogen
+- atom
+- magnetic field
+- functional MRI
+- oxygen
+- increased oxygen usage
+- BOLD image
+- blood-oxygen-level-dependent
+- structural
+- functional
+- diffusion tensor imaging
+- DTI
+- water molecule
+- white matter
+- resolution
+- motion
+- psychophisyology
+- electroencephalogram
+- EEG
+- electrode
+- scalp
+- non-invasive
+- electrical brain activity
+- cortex
+- conduction
+- voltage difference
+- wave
+- brain wave
+- state of conciousness
+- waveform
+- cognitive activity
+- brain disorder
+- pharmacological manipulation
+- alpha wave
+- beta wave
+- theta wave
+- delta wave
+- frequence
+- cycles per second
+- hertz
+- relaxed state
+- state of concentration
+- meditation
+- light sleep
+- high amplitude wave
+- deep sleep
+- anesthesia
+- sensory evoked potential
+- stimulus
+- perception
+- signal
+- noise
+- signal averaging
+- noise-cancelled EEG
+- magnetoencephalography
+- MEG
+- stereotaxic surgery
+- implantation
+- amygdala
+- behavioral effect
+- lision study
+- drug administration
+- brain manipulation
+- neurotransmitter
+- molecule
+- 2-deoxyglucose
+- isotope
+- radioactive isotope
+- carbon-14
+- hydrogen-3
+- glucose
+- hydroxyl
+- matabolism
+- autoradiography
+- tumor cell
+- glucose uptake
+- genetic engineering
+- overexpression
+- gene
+- excess protein
+- gene replacement
+- disorder
+- optogenetics
+- neuronal activation
+- neuronal inhibition
+- receptor mediated intracellular signaling
+- promoter region
+- opsin gene
+- virus carrier
+- optic fiber
+- optic canula
+- cranioplastic cement
+- skull
+- light-activated ion channel
+- neurological disorder
+- psychological test
+- arithmetics
+- memory
+- spatial reasoning
+- aggressiveness
+- defensiveness
+- sexual behavior
+- anxiety
+- maze navigation
+- quantitative
+
+---
+
+### Notes
+
+- biological aspect => nervous system is studied
+- psychological aspect => human behavior is studied
+
+---
+
+[Source](https://youtu.be/la-yAfS0kOU)
+
+---
+
+done
