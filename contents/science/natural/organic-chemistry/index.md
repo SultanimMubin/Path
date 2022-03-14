@@ -21,5 +21,6 @@
 - 86 [Carbenes: Cyclopropanation, C-H insertion, Bamford-Stevens reaction](carbenes-2)
 - 92 [Pericyclic reactions 2](pericyclic-reactions-2)
 - 95 [Gabriel amine synthesis](gabriel-amine-synthesis)
+- 103 [Fries rearrangement](fries-rearrangement)
 
 ## [Practice problems](practice-problems/index)
