@@ -2,25 +2,34 @@
 
 ### Concepts
 
+- formula
 - hydrated salt
 - sodium
 - chloride
+- sodium chloride
+- salt
 - ionic compound
 - magnesium
 - bromide
+- magnisium bromide
 - calcium
 - floride
+- calcium floride
 - formal charge
 - formally charged ions
 - hydrate
 - lattice structure
 - formula unit
+- molecule
 - carbonate
 - kinetic energy
 - water vapor
 - anhydrous
+- mass
 - mole
 - molar mass
+- magnisium carbonate
+- coefficient
 - empirically determined
 - ionic solid
 - compound geometry

@@ -18,7 +18,7 @@
 - [Molecular geometry visualization](molecular-geometry-visualization)
 - ...
 - [Concentration mass percent](concentration-mass-percent)
-- [Formulas of hydrated salts](formulas-of-hydrated-salts)
+- 51 [Formulas of hydrated salts](formulas-of-hydrated-salts)
 - [Electrolytes](electrolytes)
 - ...
 - [Standard conditions](standard-conditions)
