@@ -17,6 +17,7 @@
 - 34 [Micheal Addition](micheal-addition)
 - 47 [Clemmensen reduction](clemmensen-reduction)
 - 67 [Recrystalization](recrystalization)
+- 72 [Assining R/S on Fischer projections](assigning-r-s-on-fischer-projections)
 - 84 [The Haloform Reaction](haloform-reaction)
 - 86 [Carbenes: Cyclopropanation, C-H insertion, Bamford-Stevens reaction](carbenes-2)
 - 92 [Pericyclic reactions 2](pericyclic-reactions-2)
