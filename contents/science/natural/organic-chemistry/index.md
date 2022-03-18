@@ -20,6 +20,7 @@
 - 72 [Assining R/S on Fischer projections](assigning-r-s-on-fischer-projections)
 - 84 [The Haloform Reaction](haloform-reaction)
 - 86 [Carbenes: Cyclopropanation, C-H insertion, Bamford-Stevens reaction](carbenes-2)
+- 91 [Pericyclic reactions 1](pericyclic-reactions-1)
 - 92 [Pericyclic reactions 2](pericyclic-reactions-2)
 - 95 [Gabriel amine synthesis](gabriel-amine-synthesis)
 - 103 [Fries rearrangement](fries-rearrangement)
