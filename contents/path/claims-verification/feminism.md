@@ -20,3 +20,8 @@ One who asks this, should first answer this question:
 Why should a man work and provide?
 
 If it's accepted that a father is not responsible for provision, then it can be accepted that a mother is not responsible for cooking.
+
+### Difficult occupations
+
+Why there is no feminist bricklayer?
+Why no feminist complains and nags about being a garbage man?
