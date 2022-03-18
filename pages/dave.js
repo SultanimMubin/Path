@@ -143,7 +143,6 @@ var videos = [
     'sqiVox2aRxU',
     'RqCqUEu9nY4',
     'Uvvf4LcZceU',
-    'Dd-FAyHdpxI',
     'OBsBtuh-wAk',
     'JNdfoO_HBEc',
     'h8c21WIst0U&t=149s',
