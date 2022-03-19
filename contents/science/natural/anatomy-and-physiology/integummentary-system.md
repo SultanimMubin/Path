@@ -1,0 +1,154 @@
+# The Integumentary System
+
+### Concepts
+
+- integumentary system
+- epithelial tissue
+- connective tissue
+- tissue
+- system
+- skin
+- glands
+- nail
+- hair
+- structure
+- function
+- organ
+- line of defense
+- bacteria
+- epidermis
+- dermis
+- fibrous connective tissue
+- vascularized
+- nutrient
+- bloodstream
+- avascular
+- difusion
+- tissue fluid
+- hypodermis
+- subcutaneous layer
+- adipose tissue
+- stratified squamouse epithelium
+- keratinized
+- cell type
+- stratum basale
+- keratinocyte
+- dead skin
+- keratin
+- melanocyte
+- tactile cell
+- melanoin
+- sensory receptor
+- touch
+- stratum spinosum
+- prickly
+- filament
+- desmosome
+- pricly cells
+- dendritic cell
+- ingestion
+- immune system
+- activation
+- stratum granulosum
+- keratinization
+- dermal capillary
+- organelle
+- stratum lucidum
+- tonofilament
+- stratum cornium
+- horny layer
+- anucleated cell
+- plasma membrane
+- vascular
+- innervated
+- nerve
+- hair follicile
+- papillary layer
+- reticular layer
+- aerolar connective tissue
+- collagen
+- elastic fiber
+- defensive cell
+- dermal papillae
+- dermal ridge
+- gripping
+- fingertip
+- fingerprint
+- dense fibrous connective tissue
+- blood vessel
+- piment molecule
+- eumelanin
+- pheomelanin
+- skin color
+- UV radiation
+- carotene
+- hemaglobin
+- oxygenated
+- skin appendage
+- eyelash
+- nose hair
+- hard keratin
+- hair bulb
+- hair papilla
+- hair root
+- arrector pili
+- sebaceous gland
+- cuticle (hair)
+- cortex (hair)
+- medula (hair)
+- nerve ending
+- protrusion
+- peripheral connective tissue sheath
+- glassy membrane
+- epithelial root sheeth
+- hair matrix
+- goose bump
+- defense mechanism
+- vellus hair
+- terminal hair
+- scalp
+- free edge (nail)
+- nail body
+- eponychium
+- nail fold
+- nail matrix
+- proxiaml root (nail)
+- hyponchium
+- nail bed
+- sweat gland
+- sudoriferous glands
+- eccrine sweat gland
+- merocrine sweat gland
+- coiled
+- tube
+- secretion
+- pore
+- salt
+- metabolic waste
+- apocrine sweat gland
+- fat
+- protein
+- body odor
+- ceruminous gland
+- mammary gland
+- earwax
+- breast milk
+- sebaceaous gland
+- oil gland
+- sebum
+- alveolar gland
+- lipid
+- body temperature
+- stimuli
+
+---
+
+### Notes
+
+---
+
+[Source](https://youtu.be/p4hnFf_jmvU)
+
+---
+
+done

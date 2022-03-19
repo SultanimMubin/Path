@@ -42,6 +42,7 @@
 
 ### third course (Professor Dave Explains)
 
+- 4 [The Integumentary System](integumentary-system)
 - 5 [Bone](bone)
 - 11 [Nervous tissue](nervous-tissue)
 
