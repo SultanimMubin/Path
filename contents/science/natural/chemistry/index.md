@@ -41,3 +41,5 @@
 - 78 [Conductivity and semiconductors](conductivity-and-semiconductors)
 
 ### [Practice Problems](practice-problems/index)
+
+### [IIT/JEE Chemistry practice](iit-jee-problems/index)
