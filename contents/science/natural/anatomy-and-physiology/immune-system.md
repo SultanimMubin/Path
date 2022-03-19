@@ -1,0 +1,163 @@
+# The Immune System: Innate Defenses and Adaptive Defenses
+
+### Concepts
+
+- the immune system
+- pathogen
+- bacteria
+- virus
+- macroscopic
+- being
+- cullular activity
+- innate defense system
+- adaptive defense system
+- external membrane
+- skin
+- mucous membrane
+- internal defense
+- antimicrobial protein
+- phagocyte
+- invader
+- antibody
+- surface barrier
+- mucosae
+- stratum corneum
+- epithelial cells
+- keratinized
+- wound
+- infection
+- natural opening
+- body cavity
+- acidity
+- pH
+- lysozyme
+- microorganism
+- defensin
+- peptide
+- the inflammatory response
+- phagocytosis
+- receptor
+- vesicle
+- lysosome
+- hydrolase
+- enzyme
+- digestion
+- exocytosis
+- macrophage
+- white blood cell
+- natural killer cell
+- lymph
+- cancer cell
+- apoptosis
+- programmed cell death
+- dendritic cell
+- tissue
+- physical trauma
+- histamine
+- extracellular fluid
+- cytokine
+- neutrophil
+- mast cell
+- boundary tissue
+- specificity
+- inflammatory chemical
+- arteriole
+- dialation
+- capillary
+- leaking
+- vasodilation
+- vascular permeability
+- nerve ending
+- lymphatic vessel
+- lymph node
+- clotting
+- red bone marrow
+- leukocytosis
+- margination
+- site of injury
+- diapedesis
+- chemotaxis
+- gradient
+- antigen
+- memory
+- lymphcyte
+- polysaccharide
+- lipid
+- surface protein
+- antigenic determinant
+- antigen-binding site
+- enzyme-substrate interaction
+- B lymphocyte
+- T lymphocyte
+- antigen-presenting cell
+- hematopoiesis
+- hematopoietic stem cell
+- immunocompotent
+- surface receptor
+- recognition
+- membrane-bound antibody
+- self-tolerance
+- humoral immune response
+- cellular immune response
+- endocytosis
+- replication
+- proliferation
+- differentiation
+- plasma cell
+- memory B-cell
+- primary immune response
+- future invasion
+- secondary immune response
+- vaccine
+- natural
+- artificial
+- inactive pathogen
+- active humoral immunity
+- passive humoral immunity
+- injection
+- gamma globulin
+- polypeptide chain
+- disulfide bond
+- heavy chain
+- light chain
+- hinge region
+- kink
+- c region
+- constant
+- v region
+- variable
+- Ig
+- immunoglobulin
+- IgM
+- IgA
+- IgD
+- IgG
+- IgE
+- monomer
+- dimer
+- pentamer
+- tagging
+- infectious disease
+- T cell
+- CD4
+- CD8
+- glycoprotein
+- forieng agent
+- antigen-presenting cell
+- angigen-presentation
+- co-stimulation
+
+---
+
+### Notes
+
+- antigen = antibody generating
+- immunoglobulin = another name for antibody
+
+---
+
+[Source](https://youtu.be/9_uTdCHp7vI)
+
+---
+
+done
