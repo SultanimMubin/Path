@@ -13,6 +13,7 @@
 - [Modern physics](modern-physics/index)
 - [Neurology](neurology/index)
 - [Organic chemistry](organic-chemistry/index)
+- [Zoology](zoology/index)
                 
 <!-- 
 immunology

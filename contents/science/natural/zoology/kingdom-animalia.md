@@ -1,0 +1,175 @@
+# Major Divisions of Kingdom Animalia and the Problem With Animal Phyla
+
+### Concepts
+
+- the tree of life
+- biology
+- domain
+- kingdom
+- phylum
+- class
+- order
+- family
+- genus
+- species
+- phylogeny
+- taxonomy
+- living organism
+- classification
+- taxa
+- specificity
+- Eukarya
+- Animalia
+- Chordata
+- Mammalia
+- Carnivora
+- Candiae
+- Vulpes
+- Vulpes vulpes
+- red fox
+- Ursidae
+- Ursus
+- Ursus americanus
+- American black bear
+- genera
+- bacteria
+- archea
+- prokaryotes
+- unicellular
+- microbiology
+- eukaryotes
+- Plantae
+- Fungi
+- Protista
+- protist
+- polyphyletic
+- mycology
+- botany
+- cladogram
+- Bilateria
+- Nephrozoa
+- Xenacoelomorpha
+- Deuterostomia
+- Protostomia
+- Ecdysozoa
+- Spiralia
+- hypothesis
+- extant
+- Gonzolo Giribet
+- Gregory D. Edgecombe
+- synthesis
+- Ctenophora
+- Porifera
+- Brachiozoa
+- Mesozoa
+- Dicyemida
+- Orthonectida
+- Pentastomida
+- Arthropoda
+- polytomy
+- ancestry
+- sponge
+- Basal (phylogenetics)
+- clade
+- orangutan
+- superfamily
+- subfamily
+- tribe
+- chimp
+- gorilla
+- gibbon
+- Pan
+- Pongo
+- Hylobates
+- Homonini
+- Gorillini
+- Homoninae
+- Ponginae
+- Homonidae
+- Hylobatidae
+- Hominoidea
+- sister clade
+- comb jelly
+- Profera-sister hypothesis
+- Ctenaphora-sister hypothesis
+- poriferans
+- choanoflagellates
+- placozonas
+- cnidarinas
+- embryology
+- embryological development
+- echinoderm
+- starfish
+- sea urchin
+- Acoelomorpha
+- Xenoturbellida
+- differentiation
+- cellular layer
+- egg cell
+- fertilization
+- sperm cell
+- radial cleavage
+- zygote
+- mesoderm
+- coelum
+- blastopore
+- embryo
+- second mouths
+- anus
+- mouth
+- digestive tube
+- shark
+- stingray
+- primates
+- segmented worm
+- mollusks
+- arthropods
+- spiral cleavage
+- archenteron
+- first mouths
+- monophyletic
+- cuticle
+- shedding
+- nematodes
+- tardigrades
+- velvet worms
+- annelids
+- platyhelminths
+- morphology
+- nine animal phyla
+- insects
+- arachnids
+- crustaceans
+- mollusca
+- snails
+- slugs
+- cephalopods
+- bivalves
+- backbone
+- snakes
+- whales
+- Playthelminthes
+- free-living
+- parasitic
+- flat worms
+- roundworms
+- Annelida
+- earthworms
+- corals
+- jellyfish
+- Echinodermata
+- sea stars
+- sea cucumbers
+- evolutionary context
+
+---
+
+### Notes
+
+---
+
+[Source](https://youtu.be/APkHKOf9rG4)
+
+---
+
+done
