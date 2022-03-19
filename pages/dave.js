@@ -175,7 +175,6 @@ var videos = [
     '8YjMLz5imfM',
     'XbAjOpy3axg',
     'Up_qu1lT_UA',
-    'vmVdPgkudC8',
     'wR1yUlJ9CPg',
     '3Zp5S8ODu9k',
     'Meaifz6z5Js',
