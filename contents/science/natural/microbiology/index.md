@@ -2,6 +2,7 @@
 
 - [The Plague, Yersinia pestis](the-plague-yersinia-pestis)
 - 2 [Microorganisms and humans](microorganisms-and-humans)
+- 9 [Anthrax](anthrax)
 - 10 [Lyme disease](lyme-disease)
 - 12 [Multidrug-resistance tuberculosis](multidrug-resistance-tuberculosis)
 - 22 [Routes of viral transmission](routes-of-viral-transmission)
