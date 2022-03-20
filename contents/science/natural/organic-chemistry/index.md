@@ -16,6 +16,7 @@
 - [E2 reaction](e2-reaction)
 - 34 [Micheal Addition](micheal-addition)
 - 47 [Clemmensen reduction](clemmensen-reduction)
+- 54 [Reactions of epoxides](reactions-of-epoxides)
 - 67 [Recrystalization](recrystalization)
 - 72 [Assining R/S on Fischer projections](assigning-r-s-on-fischer-projections)
 - 84 [The Haloform Reaction](haloform-reaction)
