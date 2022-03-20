@@ -1,0 +1,158 @@
+# The Composition and Function of Blood
+
+### Concepts
+
+- blood
+- substance
+- bleeding
+- circulatory system
+- fluid
+- pump
+- connective tissue
+- connective tissue proper
+- cartilage
+- bone
+- blood
+- fluid tissue
+- fibrous protein
+- plasma
+- platelets
+- red blood cell
+- white blood cell
+- formed element (blood)
+- centrifuge
+- erythrocyte
+- buffy coat
+- leukocyte
+- oxygen
+- distrubution
+- digestive tract
+- nutrient
+- hormone
+- endocrine organs
+- carbon dioxide
+- organ
+- disposing
+- exhale
+- pH
+- regulation
+- tissue
+- temperature
+- infection
+- ion
+- gas
+- albumin
+- osmotic pressure
+- globulin
+- thyroxine
+- organelle
+- cell division
+- stem cell
+- bone marrow
+- anucleate
+- nucleus
+- heme
+- hemaglobin
+- lung
+- cell
+- structural function
+- protective function
+- globin
+- subunit
+- beta chain
+- alpha chain
+- polypeptide
+- iron
+- protein
+- hematopoiesis
+- red bone marrow
+- hematopoietic stem cell
+- capillary
+- erythropoiesis
+- macrophage
+- phagocytic
+- the immune system
+- pathogen
+- heart
+- liver
+- gut
+- granulocyte
+- agranulocyte
+- granule
+- neutrophile
+- bacteria
+- eosinophil
+- parasitic worm
+- basophil
+- histamine
+- WBC
+- inflammation
+- lymphocyte
+- virus
+- tumor
+- antibody
+- monocyte
+- intruder
+- leukopoiesis
+- chemical messanger
+- megakaryocyte
+- fibrin clot
+- activated platelet
+- mitotic cycle
+- cytokinesis
+- multilobed nucleus
+- sinosoid
+- thrombocyte
+- hemostasis
+- vascular spasm
+- coagulation
+- blood clotting
+- platelet plug
+- smooth muscle
+- fibrin
+- mesh
+- fibrinolysis
+- multipotential stem cell
+- hemocytoblast
+- myeloid
+- common myeloid progenitor
+- lymphoid
+- common lymphoid progenitor
+- mast cell
+- myeloblast
+- small lymphocyte
+- T lymphocyte
+- B lymphocyte
+- plasma cell
+- blood type
+- glycoprotein
+- glycolipid
+- plasma membrane
+- agglutinogen
+- antigen
+- A antigen
+- B antigen
+- blood transfusion
+- universal recipient
+- universal donor
+- Rh blood group
+- Rh factor
+- positive
+- negative
+
+---
+
+### Notes
+
+- is, does
+- each hemoglobin can bind to 4 oxygen molecules (4 iron atoms)
+- each red blood cell contains 250 million hemoglobins
+- each red blood cell can carry a billion oxygen molecules
+
+---
+
+[Source](https://youtu.be/yj7bfZKlIp8)
+
+---
+
+done
