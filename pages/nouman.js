@@ -6464,6 +6464,12 @@ const Nouman = ({ videoCode }) => {
         document.location.reload()
     }
 
+    const handleDuration = duration => {
+        if (duration > 600) {
+            onEnd()
+        }
+    }
+
     return <div>
         <a
             target='_blank'
@@ -6472,6 +6478,7 @@ const Nouman = ({ videoCode }) => {
         <YouTube
             videoId={videoCode}
             opts={opts}
+            onStateChange={e => handleDuration(e.target.getDuration())}
             onEnd={() => onEnd()}
         />
     </div>
