@@ -147,7 +147,6 @@ var videos = [
     'JNdfoO_HBEc',
     'h8c21WIst0U&t=149s',
     'zLc_s7NM8pw',
-    '4XqbniWANdE&t=8s',
     'LWbQvERL75g',
     'BTUJyazbJ2Y',
     'LBB39u8dNw0',
