@@ -1,3 +1,4 @@
+import { useState, useEffect } from 'react'
 import YouTube from 'react-youtube';
 
 // https://archive.org/details/AyatByAyatQuranByNoumanAliKhan_986
@@ -6452,21 +6453,41 @@ var videos = [
 
 const Nouman = ({ videoCode }) => {
 
-    const opts = {
-        height: '390',
-        width: '640',
-        playerVars: {
-            autoplay: 1,
-        },
-    };
+    const [_window, setWindow] = useState(null)
+
+    const [opts, setOpts] = useState(null)
+
+    useEffect(() => {
+        setWindow(window)
+        setOpts({
+            height: '390',
+            width: '640',
+            playerVars: {
+                autoplay: 1,
+                origin: window.location.origin
+            },
+        })
+    }, [])
 
     const onEnd = () => {
         document.location.reload()
     }
 
-    const handleDuration = duration => {
-        if (duration > 600) {
+    const handleDuration = e => {
+        if (e.target.getDuration() > 600) {
             onEnd()
+        }
+        else {
+            var playingInterval = setInterval(() => {
+                console.log('trying to play the video ...')
+                if (e.target.getPlayerState() === 1) {
+                    clearInterval(playingInterval)
+                }
+                else {
+                    e.target.playVideo()
+                }
+            }, 100)
+            window.e = e
         }
     }
 
@@ -6475,12 +6496,14 @@ const Nouman = ({ videoCode }) => {
             target='_blank'
             href={`https://youtube.com/watch?v=${videoCode}`}
         >Random Video ({videoCode})</a>
-        <YouTube
-            videoId={videoCode}
-            opts={opts}
-            onStateChange={e => handleDuration(e.target.getDuration())}
-            onEnd={() => onEnd()}
-        />
+        {
+            _window && opts && <YouTube
+                videoId={videoCode}
+                opts={opts}
+                onStateChange={e => handleDuration(e)}
+                onEnd={() => onEnd()}
+            />
+        }
     </div>
 }
 
