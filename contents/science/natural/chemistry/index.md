@@ -31,8 +31,8 @@
 - [Lattice structures in ionic solids](lattice-structures-in-ionic-solids)
 - [Covalent bond energy & length](covalent-bond-energy-length)
 - [Limitations of VSEPR theory](limitations-of-vsepr)
-- 66 - [s-p mixing in molecular orbital](s-p-mixing-molecular-orbital)
-- ...
+- 66 [s-p mixing in molecular orbital](s-p-mixing-molecular-orbital)
+- 69 [Viscosity, Cohesive and Adhesive Forces, Surface Tension, and Capillary Action](viscosity-cohesive-adhesive-forces-surface-tension-capillary-action)
 - [Types of colloids](types-of-colloids)
 - [Solubility product constant](solubility-product-constant)
 - [Predicting precipitation](predicting-precipitation)
