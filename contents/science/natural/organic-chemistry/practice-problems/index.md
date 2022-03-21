@@ -8,4 +8,5 @@
 - 29 [Electrophilic aromatic substitution retrosynthesis](electrophilic-aromatic-substitution-retrosynthesis)
 - 30 [Four-reaction pathway](practice-problem-four-reaction-pathway)
 - 39 [Practice exam 3](exam-3)
+- 47 [Practice exam 11](exam-11)
 - 52 [Synthesis challenge 2](synthesis-challenge-2)
