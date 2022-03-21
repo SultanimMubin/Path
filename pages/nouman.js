@@ -6450,7 +6450,9 @@ var videos = [
 
 const Nouman = ({ videoCode }) => {
 
-    return <a target='_blank' href={`https://youtube.com/watch?v=${videoCode}`}>Random Video ({videoCode})</a>
+    return <div>
+        <a target='_blank' href={`https://youtube.com/watch?v=${videoCode}`}>Random Video ({videoCode})</a>
+    </div>
 }
 
 export default Nouman
