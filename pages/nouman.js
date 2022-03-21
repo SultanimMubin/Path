@@ -1,3 +1,5 @@
+import YouTube from 'react-youtube';
+
 // https://archive.org/details/AyatByAyatQuranByNoumanAliKhan_986
 var videos = [
     "2rKtr8KfwsU&t=4s",
@@ -6450,8 +6452,28 @@ var videos = [
 
 const Nouman = ({ videoCode }) => {
 
+    const opts = {
+        height: '390',
+        width: '640',
+        playerVars: {
+            autoplay: 1,
+        },
+    };
+
+    const onEnd = () => {
+        document.location.reload()
+    }
+
     return <div>
-        <a target='_blank' href={`https://youtube.com/watch?v=${videoCode}`}>Random Video ({videoCode})</a>
+        <a
+            target='_blank'
+            href={`https://youtube.com/watch?v=${videoCode}`}
+        >Random Video ({videoCode})</a>
+        <YouTube
+            videoId={videoCode}
+            opts={opts}
+            onEnd={() => onEnd()}
+        />
     </div>
 }
 
