@@ -2,12 +2,9 @@
 
 - [Element, compound, mixture](element-compound-mixture)
 - 5 [History of atomic theory](history-of-atomic-theory)
-- ...
 - 14 [Quantum mechanics of the Electrons](quantum-mechanics-of-the-electrons)
 - 15 [Quantum numbers, atomic orbitals, and electron configuration](quantum-numbers-atomic-orbitals-electron-configuration)
-- ...
 - [Valence bond, hybrid orbital, molecular orbital](valence-bond-hybrid-bond-molecular-orbital)
-- ...
 - [Acid-Base equilibrium](acid-base-equilibrium)
 - [Acid-Base titration](acid-base-titration)
 - [Oxidation-Reduction reaction](oxidation-reduction-reaction)
@@ -16,16 +13,14 @@
 - [Accuracy & precision](accuracy-and-precission)
 - [Temperature conversion](temperature-conversion)
 - [Molecular geometry visualization](molecular-geometry-visualization)
-- ...
 - [Concentration mass percent](concentration-mass-percent)
+- 46 [Nomenclature of Oxyacids](nomenclature-of-oxyacids)
+- 49 [Conservation of matter](conservation-of-matter)
 - 51 [Formulas of hydrated salts](formulas-of-hydrated-salts)
 - [Electrolytes](electrolytes)
-- ...
 - [Standard conditions](standard-conditions)
-- ...
 - [Temperature and gas solubility](temperature-gas-solubility)
 - [Balancing Redox reactions](balancing-redox-reactions)
-- 49 [Conservation of matter](conservation-of-matter)
 - 61 [Pseudo noble gas electron configuration](pseudo-noble-gas-electron-configuration)
 - 62 [Complex ion formation](complex-ion-formation)
 - [Lattice structures in ionic solids](lattice-structures-in-ionic-solids)
