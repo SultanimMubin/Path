@@ -24,6 +24,7 @@
 - 91 [Pericyclic reactions 1](pericyclic-reactions-1)
 - 92 [Pericyclic reactions 2](pericyclic-reactions-2)
 - 95 [Gabriel amine synthesis](gabriel-amine-synthesis)
+- 101 [Schmidt Reaction](schmidt-reaction)
 - 103 [Fries rearrangement](fries-rearrangement)
 
 ## [Practice problems](practice-problems/index)
