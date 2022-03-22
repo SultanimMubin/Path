@@ -3,8 +3,9 @@
 [Flowchart of finding the truth](flowchart)
 
 ### Pillars
-- World is deisgned
-- Designer is one
+- Intelligent design
+- Life & death
+- Individuality
 
 ### Main topics
 

@@ -5,6 +5,7 @@
 - [Quantization of Energy Part 2: Photons, Electrons, and Wave-Particle Duality](quantization-energy-photon-electron-wave-particle-duality)
 - [The double slit experiment](double-slit-experiment)
 - 12 [General relativity: the curvature of spacetime](general-relativity-spacetime-curvature)
+- 18 [Position and Momentum Operators in Quantum Mechanics](position-momentum-operators)
 - 19 [Wavefunction](wavefunction)
 - 21 [Particle in box, 1: Solving the Shrodinger Equation](particle-in-box-1)
 
