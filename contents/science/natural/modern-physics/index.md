@@ -8,6 +8,7 @@
 - 18 [Position and Momentum Operators in Quantum Mechanics](position-momentum-operators)
 - 19 [Wavefunction](wavefunction)
 - 21 [Particle in box, 1: Solving the Shrodinger Equation](particle-in-box-1)
+- 25 [The Quantum Harmonic Oscillator Part 1: The Classical Harmonic Oscillator](quantum-harmonic-oscillator-1)
 
 ---
 

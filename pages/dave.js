@@ -231,7 +231,6 @@ var videos = [
     'wrtLyLwt51o',
     'ZnU3M5C2Hcw',
     '3oLq1VQ6Axg',
-    'ASYI5B0Q6m8',
     'E3yo_T-JmEg',
     'IShS60Azqjg',
     'EakBZqmmfMQ',
