@@ -24,7 +24,6 @@
 - operation
 - trinomial
 - convention
-- 
 
 ---
 

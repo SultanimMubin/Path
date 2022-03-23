@@ -14,6 +14,7 @@
 - [Nucleophiles, Electrophiles, Leaving Groups, and the SN2 Reaction](nucleophiles-electrophiles-leaving-groups-sn2-reaction)
 - [SN1 reaction](sn1-reaction)
 - [E2 reaction](e2-reaction)
+- 33 [Aldol condensation](aldol-condensation)
 - 34 [Micheal Addition](micheal-addition)
 - 47 [Clemmensen reduction](clemmensen-reduction)
 - 54 [Reactions of epoxides](reactions-of-epoxides)
