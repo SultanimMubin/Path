@@ -1,6 +1,6 @@
 # Microbiology
 
-- [The Plague, Yersinia pestis](the-plague-yersinia-pestis)
+- 1 [Introduction to the Microbial World](introduction)
 - 2 [Microorganisms and humans](microorganisms-and-humans)
 - 9 [Anthrax](anthrax)
 - 10 [Lyme disease](lyme-disease)
@@ -11,3 +11,5 @@
 - 26 [Chikenpox and Shingles](chikenpox-and-shingles)
 - 31 [Measles](measles)
 - 34 [Human Papillomavirus (HPV)](hpv)
+
+- [The Plague, Yersinia pestis](the-plague-yersinia-pestis)
