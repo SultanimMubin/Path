@@ -95,3 +95,5 @@
     - 
 - Extreme tarrifs for decades on cars, with no global-level growth for internal cars' quality
 - Promoting nationalism (putting Iran in the center of public attention) while claiming the folloeership of Quran
+
+- Finding proxy on almost everyone's phone, which means their decision is not what people want, specially for a site like YouTube
