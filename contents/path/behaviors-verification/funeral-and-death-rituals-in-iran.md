@@ -9,7 +9,8 @@
 - hitting the deceased one or the tomb with fingers
 - considering special days for visiting the cemetry
 - reciting Ziarate Ashoora, almost always
-- 
+- considering last week of the year (last friday or last thursday)
+  - how a zoroastrian notion of Eid is related to Islam?
 
 ### Opposite of the Quran
 - talqin, specially all those imams
