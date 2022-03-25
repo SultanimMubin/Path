@@ -6463,6 +6463,7 @@ const Nouman = ({ videoCode }) => {
             height: '390',
             width: '640',
             playerVars: {
+                autoplay: 1,
                 origin: window.location.origin
             },
         })
@@ -6476,18 +6477,18 @@ const Nouman = ({ videoCode }) => {
         if (e.target.getDuration() > 600) {
             onEnd()
         }
-        else {
-            var playingInterval = setInterval(() => {
-                console.log('trying to play the video ...')
-                if (e.target.getPlayerState() === 1) {
-                    clearInterval(playingInterval)
-                }
-                else {
-                    e.target.playVideo()
-                }
-            }, 100)
-            window.e = e
-        }
+        // else {
+        //     var playingInterval = setInterval(() => {
+        //         console.log('trying to play the video ...')
+        //         if (e.target.getPlayerState() === 1) {
+        //             clearInterval(playingInterval)
+        //         }
+        //         else {
+        //             e.target.playVideo()
+        //         }
+        //     }, 100)
+        //     window.e = e
+        // }
     }
 
     return <div>
