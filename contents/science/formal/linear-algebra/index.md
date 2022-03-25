@@ -6,3 +6,4 @@
 - 8 [Inverse matrices](inverse-matrices)
 - 11 [Subspaces and span](subspaces-and-span)
 - 12 [Linear independenc](linear-independence)
+- 13 [Basis and dimension](basis-and-dimension)

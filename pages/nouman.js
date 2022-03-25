@@ -6453,57 +6453,55 @@ var videos = [
 
 const Nouman = ({ videoCode }) => {
 
-    const [_window, setWindow] = useState(null)
-
-    const [opts, setOpts] = useState(null)
-
-    useEffect(() => {
-        setWindow(window)
-        setOpts({
-            height: '390',
-            width: '640',
-            playerVars: {
-                autoplay: 1,
-                origin: window.location.origin
-            },
-        })
-    }, [])
-
     const onEnd = () => {
         document.location.reload()
     }
 
     const handleStateChange = e => {
+        window.e = e
         if (e.target.getDuration() > 600) {
             onEnd()
         }
-        // else {
-        //     var playingInterval = setInterval(() => {
-        //         console.log('trying to play the video ...')
-        //         if (e.target.getPlayerState() === 1) {
-        //             clearInterval(playingInterval)
-        //         }
-        //         else {
-        //             e.target.playVideo()
-        //         }
-        //     }, 100)
-        //     window.e = e
-        // }
     }
+
+    const toggleAutoplay = e => {
+        
+    }
+
+    useEffect(() => {
+        const interval = setInterval(() => {
+            console.log('trying to play ...')
+            if (window && window.e) {
+                window.e.target.playVideo()
+                clearInterval(interval)
+            }
+        }, 500)
+    }, [])
 
     return <div>
         <a
+            className="ml-10 block my-4"
             target='_blank'
             href={`https://youtube.com/watch?v=${videoCode}`}
         >Random Video ({videoCode})</a>
         {
-            _window && opts && <YouTube
+            <YouTube
                 videoId={videoCode}
-                opts={opts}
+                opts={{
+                    height: '390',
+                    width: '640',
+                    playerVars: {
+                        autoplay: 1,
+                    },
+                }}
                 onStateChange={e => handleStateChange(e)}
                 onEnd={() => onEnd()}
             />
         }
+        <div className="mt-10 ml-10">
+            <input type='checkbox' id='autoplay' onChange={e => toggleAutoplay()} />
+            <label className="ml-2" htmlFor='autoplay'>Autoplay?</label>
+        </div>
     </div>
 }
 
