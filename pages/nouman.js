@@ -6463,7 +6463,6 @@ const Nouman = ({ videoCode }) => {
             height: '390',
             width: '640',
             playerVars: {
-                autoplay: 1,
                 origin: window.location.origin
             },
         })
@@ -6473,7 +6472,7 @@ const Nouman = ({ videoCode }) => {
         document.location.reload()
     }
 
-    const handleDuration = e => {
+    const handleStateChange = e => {
         if (e.target.getDuration() > 600) {
             onEnd()
         }
@@ -6500,7 +6499,7 @@ const Nouman = ({ videoCode }) => {
             _window && opts && <YouTube
                 videoId={videoCode}
                 opts={opts}
-                onStateChange={e => handleDuration(e)}
+                onStateChange={e => handleStateChange(e)}
                 onEnd={() => onEnd()}
             />
         }

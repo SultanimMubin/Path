@@ -1,7 +1,14 @@
 import Head from 'next/head';
 import '../styles/all.scss';
+import { app } from '../Base/App'
+import { useEffect } from 'react';
 
 function MyApp({ Component, pageProps }) {
+
+    useEffect(() => {
+        window.app = app;
+    }, []);
+
     return (
         <>
             <Head>
