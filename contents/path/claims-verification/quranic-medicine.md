@@ -7,3 +7,4 @@
      - eat from meat of sacrificed animal of Haj
      - fish as the food of Moosa (while in search for that slave of Allah)
      - minha ta'kulun is said many times about an'am
+     - lahmi tayri mimma yashtahun
