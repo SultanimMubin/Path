@@ -20,6 +20,7 @@
 - 47 [Clemmensen reduction](clemmensen-reduction)
 - 54 [Reactions of epoxides](reactions-of-epoxides)
 - 67 [Recrystalization](recrystalization)
+- 68 [Nucleophilic Aromatic Substitution](nucleophilic-aromatic-substitution)
 - 72 [Assining R/S on Fischer projections](assigning-r-s-on-fischer-projections)
 - 83 [Cleavage of Carbon-Carbon Bonds With Periodic Acid](carbon-carbon-bond-cleavage-periodic-acid)
 - 84 [The Haloform Reaction](haloform-reaction)
