@@ -1,0 +1,131 @@
+# Core Principles and Concepts of Dendrochronology
+
+### Concepts
+
+- tree
+- Leonardo de Vinci
+- Pliny the Elder
+- tree ring structure
+- science
+- dendrochronology
+- principle
+- concept
+- process
+- natural world
+- tree growth sampling
+- modeling
+- dating
+- chronology
+- term
+- definition
+- tree ring chronology
+- growth
+- record of tree growth
+- area
+- catalog
+- calibration
+- independent
+- environmental variable
+- tree growth
+- sessile organism
+- environmental change
+- species
+- lifetime
+- inhabitation
+- vocabulary
+- uniformitarianism
+- crossdating
+- limiting factors
+- aggregate tree growth
+- replication
+- autocorrelation
+- standardization
+- natural law
+- universe
+- variance
+- geology
+- assumption
+- Earth
+- uniform
+- dendrochronologist
+- past climates
+- climate
+- time
+- meteorological data
+- environmental events
+- historical record
+- human activity
+- anthropogenic emissions
+- carbon dioxide
+- atmospheric
+- concentration
+- natural range
+- proxy data
+- ice core
+- elevated level
+- biological organism
+- internal process
+- surrounding environment
+- ring count
+- annual date
+- analysis
+- pattern
+- barcode
+- tree core
+- skeleton plotting
+- straight line
+- graph paper
+- vertical line
+- skeleton plot
+- list method
+- memorization method
+- marker method
+- researcher
+- growth restrain
+- environmental factor
+- percipitation
+- sunlight
+- temperature
+- insect damage
+- soil nutrients
+- wildfire
+- growth trend
+- principle of aggregate tree growth model
+- factor
+- annual ring width
+- variable
+- statistical analysis
+- sampling
+- principle of replication
+- rignt width pattern matching
+- lifespan
+- internal biological process
+- macromolecule
+- drought
+- metabolism
+- physiological process
+- location
+- time-period
+- growing condition
+- lagging effect
+- complicated
+- procedure
+- validity
+- reliability
+- research
+- dense forest
+- splines
+- negative exponantial curve
+- wood
+
+---
+
+### Notes
+
+---
+
+[Source](https://youtu.be/bU-TXV-N-hk)
+
+---
+
+done

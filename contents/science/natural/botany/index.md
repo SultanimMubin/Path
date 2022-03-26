@@ -4,3 +4,4 @@
 - 4 [Plant Anatomy and Structure](plant-anatomy-and-structure)
 - [Gymnosperms](gymnosperms)
 - 9 [Lycophytes: Early Vascular Plants](lychophytes-early-vascular-plants)
+- 17 [Core Principles and Concepts of Dendrochronology](core-principles-concepts-dendrochronology)
