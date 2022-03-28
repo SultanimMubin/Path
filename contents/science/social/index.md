@@ -1,3 +1,4 @@
 ﻿# Social sicences
 
 - [Arabic grammar](arabic-grammar/index)
+- [Economics](economics/index)

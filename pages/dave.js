@@ -4,7 +4,6 @@ var videos = [
     'APkHKOf9rG4',
     'DcxL7hhVruk',
     'lRkZ5KfdaGw',
-    'cLK-lEUfwj0&t=229s',
     '2CBRoGOFNhI',
     'l29vbExLSak',
     'o106KpGUMx0',
