@@ -5,6 +5,7 @@
 - 14 [Quantum mechanics of the Electrons](quantum-mechanics-of-the-electrons)
 - 15 [Quantum numbers, atomic orbitals, and electron configuration](quantum-numbers-atomic-orbitals-electron-configuration)
 - 16 [The Periodic Table: Atomic Radius, Ionization Energy, and Electronegativity](periodic-table-atomic-radius-ionization-energy-electronegativity)
+- 24 [Heat Capacity, Specific Heat, and Calorimetry](heat-capacity-specific-heat-calorimetry)
 - 35 [Valence bond, hybrid orbital, molecular orbital](valence-bond-hybrid-bond-molecular-orbital)
 - 37 [Acid-Base equilibrium](acid-base-equilibrium)
 - 38 [Acid-Base titration](acid-base-titration)
