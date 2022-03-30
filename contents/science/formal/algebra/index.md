@@ -11,3 +11,4 @@
 - 27 [Manipulating Functions Algebraically and Evaluating Composite Functions](manipulating-functions-algebraically)
 - 33 [Graphing conic sections: circles](graphing-conic-sections-circles)
 - 43 [Logarithms, 3](logarithms-3)
+- 45 [Complex Numbers: Operations, Complex Conjugates, and the Linear Factorization Theorem](complex-numbers)
