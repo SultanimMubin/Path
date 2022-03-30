@@ -17,6 +17,7 @@
 - 43 [Temperature conversion](temperature-conversion)
 - 44 [Molecular geometry visualization](molecular-geometry-visualization)
 - 46 [Nomenclature of Oxyacids](nomenclature-of-oxyacids)
+- 48 [Writing Chemical Equations in Words](writing-chemical-equations-in-words)
 - 49 [Conservation of matter](conservation-of-matter)
 - 50 [Concentration mass percent](concentration-mass-percent)
 - 51 [Formulas of hydrated salts](formulas-of-hydrated-salts)
