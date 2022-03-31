@@ -1,0 +1,158 @@
+# Photosynthesis: Light Reactions and the Calvin Cycle
+
+### Concepts
+
+- photosynthesis
+- cellular respiration
+- food
+- ATP
+- plant
+- venus flytrap
+- sun
+- sunlight
+- carbon dioxide
+- water
+- nourishment
+- glucose
+- cullular process
+- photo
+- synthesis
+- molecule
+- metabolism
+- energy
+- the food chain
+- organism
+- light reactions
+- solar energy
+- photon
+- chemical energy
+- NADPH
+- The Clavin cycle
+- G3p
+- chloroplast
+- thylakoid membrane
+- starch grain
+- vacuole
+- tonoplast
+- mitochondrion
+- mitochondria
+- peroxisome
+- plasmodesmata
+- plasma membrane
+- cell wall
+- cytoplasm
+- golgi vesicles
+- golgi body
+- golgi apparatus
+- rough endoplasmic reticulum
+- filamentous
+- cytoskeleton
+- small membraneous vesicle
+- smooth endoplasmic reticulum
+- nucleus
+- nuclear pore
+- nuclear envelope
+- nucleolus
+- organelle
+- plant cell
+- chloroplast envelope
+- outer membrane
+- intermembrane space
+- inner membrane
+- granum
+- thylakoid
+- thylakoid space
+- lumen
+- stromal thylakoid
+- lamellae
+- fret
+- granal thylakoid
+- nucleoid
+- DNA rings
+- ribosome
+- plastoglobulus
+- starch granule
+- sac
+- suspension
+- column
+- piment molecule
+- chlorophyll a
+- chlorophyll b
+- functional group
+- porphyrin ring
+- methyl
+- aldehyde
+- wavelength
+- ground state
+- electron
+- excited state
+- photosystem
+- reaction center complex
+- exceited electron
+- electron transfer
+- primary electron acceptor
+- enzyme
+- oxidized chlorophyll
+- redux reaction
+- photosystem II
+- oxygen evolving complex
+- plastoquinone
+- ferredoxin-NADP reductase
+- cytochrome
+- plastocyanin
+- ferrodoxin
+- photosystem I
+- compound
+- electron transport chain
+- byproduct
+- ATP synthase
+- ADP
+- proton gradient
+- nicotinimade adenine dinucleotide phosphate
+- NADP+
+- equation
+- reactant
+- product
+- organic molecule
+- anabolic pathway
+- citric acid cycle
+- catabolic
+- anabolic
+- phase
+- carbon fixation
+- RuBP
+- Ribuluse 1,5-biphosphate
+- RuBisCo
+- catalysis
+- atmosphere
+- five-carbon sugar
+- ribulose bisphosphate
+- unsatable
+- 3-phosphoglycerate
+- central metabolic pathway
+- reduction
+- phosphorylation
+- phosphate
+- glyceraldehyde 3-phosphate
+- 1,3-bisphosphoglycerate
+- organic compound
+- ribulose 5-phosphate
+
+---
+
+### Notes
+
+- photosynthesis
+    - stage 1: light reactions
+    - stage 2: the calvin cycle
+        - phase 1: carbon fixation
+        - phase 2: reduction
+        - phase 3: regeneration of ribulose
+
+---
+
+[Source](https://youtu.be/dAF5FngVa7A)
+
+---
+
+done
