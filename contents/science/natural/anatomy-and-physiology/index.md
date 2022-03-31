@@ -44,6 +44,7 @@
 
 - 4 [The Integumentary System](integumentary-system)
 - 5 [Bone](bone)
+- 7 [Joints: Structure and Types of Motion](joints)
 - 11 [Nervous tissue](nervous-tissue)
 - 16 [The composition and function of blood](composition-and-function-of-blood)
 

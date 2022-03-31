@@ -1,0 +1,141 @@
+# Joints: Structure and Types of Motion
+
+### Concepts
+
+- joint
+- bone
+- structure
+- function
+- extent of mobility
+- synarthroses
+- amphiarthroses
+- diarthroses
+- skeletal system
+- fibrous joints
+- synovial joints
+- cartilaginous joints
+- mobility
+- dense fibrous connective tissue
+- joint cavity
+- suture
+- syndesmose
+- gomphose
+- skull
+- suture line
+- interlocking fiber
+- periosteum
+- ossify
+- synostoses
+- interosseus membrane
+- ulna
+- radius
+- ligament
+- band of fibrous tissue
+- root of tooth
+- socket (tooth)
+- periodontal ligament
+- alveolar socket
+- mouth
+- cartilage
+- synchondrosis
+- hyaline cartilage
+- epiphyseal plate
+- long bone
+- bone growth
+- rib
+- manubrium
+- costal cartilage
+- sternum
+- symphesis
+- fibroucartilage
+- shock absorber
+- compressable
+- vertebrae
+- pelvis
+- fluid
+- limb
+- articular cartilage
+- synovial membrane
+- articular capsule
+- synovial fluid
+- bone surface
+- viscous
+- hyaluranic acid
+- secretion
+- cell
+- lubricant
+- friction
+- reinforcing ligament
+- nerve
+- blood vessel
+- menisci
+- meniscus
+- gastrocneminus busra
+- synovial cavity
+- knee
+- quadricep
+- suprapatellar fat pad
+- suprapatellar bursa
+- prepatellar bursa
+- patellar tendon
+- infrapatellar fat pad
+- superficial bursa
+- infrapatellar bursa
+- fibrous sac
+- tendon sheeth
+- terminology
+- muscle
+- muscle contraction
+- origin (join)
+- brachilias
+- insertion (join)
+- immovable bone
+- movable bone
+- axis
+- plane of space
+- nonaxial movement
+- slipping movement
+- uniaxial movement
+- biaxial movement
+- multiaxial movement
+- gliding
+- angular
+- rotation
+- intercarpal joints
+- intertarsal joints
+- carpal
+- tarsal
+- ankel
+- wrist
+- flexion
+- angular movement
+- waist
+- extension (movement)
+- hyperextension
+- abduction
+- adduction
+- midline plate
+- circumduction
+- lateral rotation
+- medial rotation
+- internal rotation
+- external rotation
+- supination
+- pronation
+- dorsiflexion
+- plantar flexion
+- protraction
+- retraction
+- mandible
+
+---
+
+### Notes
+
+---
+
+[Source](https://youtu.be/8hqyQIyenxA)
+
+---
+
+done
