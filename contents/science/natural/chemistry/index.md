@@ -40,6 +40,7 @@
 - 73 [Selective percipitation](selective-percipitation)
 - 74 [Common ion effect](common-ion-effect)
 - 78 [Conductivity and semiconductors](conductivity-and-semiconductors)
+- 79 [Spectrophotometry and Beer's Law](spectrophotometry-beer-law)
 
 ### [Practice Problems](practice-problems/index)
 
