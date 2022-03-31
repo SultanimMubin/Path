@@ -21,6 +21,7 @@
 - 34 [Micheal Addition](micheal-addition)
 - 47 [Clemmensen reduction](clemmensen-reduction)
 - 54 [Reactions of epoxides](reactions-of-epoxides)
+- 66 [Separating Liquids by Distillation](separating-liquids-distillation)
 - 67 [Recrystalization](recrystalization)
 - 68 [Nucleophilic Aromatic Substitution](nucleophilic-aromatic-substitution)
 - 72 [Assining R/S on Fischer projections](assigning-r-s-on-fischer-projections)
