@@ -11,5 +11,6 @@
 - 26 [Chikenpox and Shingles](chikenpox-and-shingles)
 - 31 [Measles](measles)
 - 34 [Human Papillomavirus (HPV)](hpv)
+- 43 [Widefield and Confocal Fluorescence Microscopy](widefield-confocal-fluorescence-microscopy)
 
 - [The Plague, Yersinia pestis](the-plague-yersinia-pestis)
