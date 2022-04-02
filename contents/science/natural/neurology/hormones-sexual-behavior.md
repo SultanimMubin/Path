@@ -1,0 +1,159 @@
+# Hormones and Sexual Behavior
+
+### Concepts
+
+- sex
+- anatomy
+- physiology
+- horomone
+- endocrine system
+- biopsychology
+- secretion
+- molecule
+- gland
+- sex drive
+- sexual behavior
+- orchestration
+- hypothalamus
+- anterior pituitary gland
+- thyroid
+- adrenal cortex
+- testis
+- conception (child)
+- adulthood
+- sexual characteristics
+- primary sexual characteristics
+- secondary sexual characteristics
+- behavioral characteristics
+- female
+- male
+- mature
+- regulation
+- reproductive behavior
+- neuroendocrine system
+- pineal gland
+- pituitary gland
+- parathyroid gland
+- thymus
+- pancreas
+- adrenal glands
+- ovaries
+- placenta
+- structure
+- gonad
+- amino acid
+- peptide
+- protein
+- steroid
+- amino acid derivative
+- sex hormone
+- bloodstream
+- cell
+- plasma membrane
+- receptor
+- nucleus
+- nonpolar
+- cellular response
+- gene expression
+- transcription factor
+- DNA
+- mRNA
+- androgen
+- estrogen
+- testostrone
+- estradiol
+- reductive
+- hypothalamic-pituitary-gonadal axis
+- progestrone
+- gonadotropin
+- LH
+- luteinizing hormone
+- FSH
+- follicile-stimulating hormone
+- hormone level
+- menstrual cycle
+- GnRH
+- gonadotropin releasing hormone
+- hypothalamopituitary portal system
+- nonhormonal chemicals
+- psychosocial input
+- direct neural regulation
+- experience
+- arousal
+- neural signal
+- hormone release
+- environmental factor
+- human development
+- sexual dimorphism
+- animal
+- species
+- physical feature
+- sex organ
+- fertilization
+- egg cell
+- sperm cell
+- biology
+- zygote
+- chromosome
+- gamete
+- sex chromosome
+- fetus
+- chromosomal difference
+- Y chromosome
+- X chromosome
+- SRY gene
+- Sry protein
+- gene expression
+- external genitalia
+- penis
+- vagina
+- puberty
+- GH
+- growth hormone
+- adrenocorticotoropic hormone (ACTH)
+- gonadal hormone
+- adrenal hormone
+- maturation
+- genitals
+- masculinization
+- feminization
+- sexual differentiation
+- brain
+- political correctness
+- scientific fact
+- objectivly anatomically difference
+- regional size
+- sexually dimorphic nucleus
+- neural cells
+- glial cells
+- synapse
+- cultural factor
+- mechanism
+- sexuality
+- cortex
+- ventral striatum
+- amygdala
+- sexual experience
+- emotion
+- feeling
+- structural difference
+- social salience detection
+- mate selection
+- anticipation
+- sexual activity
+- reward
+- stimuli
+- sexual orientation
+- gender identity
+
+---
+
+### Notes
+
+---
+
+[Source](https://youtu.be/7XwzKmwueyw)
+
+---
+
+done

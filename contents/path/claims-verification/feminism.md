@@ -6,6 +6,10 @@
 - [Forbes, list of rich people](https://www.forbes.com/real-time-billionaires/)
 - [FIDE world rankings](https://en.wikipedia.org/wiki/FIDE_world_rankings)
 
+### Anatomical/physiological proofs
+
+- SDN (sexually dimorphic nucleus)
+
 ### One is not born woman, but becomes woman
 
 This sentence is wrong. One is born with either XX, or XY chromosomes. Thus one IS BORN that way.
