@@ -6,4 +6,5 @@
 - 26 [Enthalpy of Combustion](enthalpy-of-combustion)
 - 29 [Thermodynamics](thermodynamics)
 - 33 [Ranking acidity](ranking-acidity)
+- 34 [Equilibrium Constants]()
 - 35 [Gaseous equilibria](gaseous-equilibria)
