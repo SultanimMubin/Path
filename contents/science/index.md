@@ -20,6 +20,7 @@
 - Periodic table
     - Simply google **periodic table**
 - [Omni Calculator](https://www.omnicalculator.com/)
+- [Nanome](https://nanome.ai/)
 
 ---
 
