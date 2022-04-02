@@ -25,6 +25,7 @@
 - 67 [Recrystalization](recrystalization)
 - 68 [Nucleophilic Aromatic Substitution](nucleophilic-aromatic-substitution)
 - 72 [Assining R/S on Fischer projections](assigning-r-s-on-fischer-projections)
+- 77 [Oxidation of Alkenes Using Potassium Permanganate](oxidation-alkenes-potassium-permanganate)
 - 83 [Cleavage of Carbon-Carbon Bonds With Periodic Acid](carbon-carbon-bond-cleavage-periodic-acid)
 - 84 [The Haloform Reaction](haloform-reaction)
 - 86 [Carbenes: Cyclopropanation, C-H insertion, Bamford-Stevens reaction](carbenes-2)
