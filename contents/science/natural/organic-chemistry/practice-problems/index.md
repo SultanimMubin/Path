@@ -10,4 +10,5 @@
 - 30 [Four-reaction pathway](practice-problem-four-reaction-pathway)
 - 39 [Practice exam 3](exam-3)
 - 47 [Practice exam 11](exam-11)
+- 49 [Mechanism Challenge 1](mechanism-challenge-1)
 - 52 [Synthesis challenge 2](synthesis-challenge-2)

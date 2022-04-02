@@ -17,3 +17,4 @@
 - Scattered (mine)
   -  Fill your brain like a scattered paint, not like water in glass
 -  Horizontal & vertical (reach & depth) (mine)
+- Reducing word's weight
