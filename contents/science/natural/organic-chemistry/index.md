@@ -31,6 +31,7 @@
 - 86 [Carbenes: Cyclopropanation, C-H insertion, Bamford-Stevens reaction](carbenes-2)
 - 91 [Pericyclic reactions 1](pericyclic-reactions-1)
 - 92 [Pericyclic reactions 2](pericyclic-reactions-2)
+- 93 [Pericyclic reactions 3](pericyclic-reactions-3)
 - 95 [Gabriel amine synthesis](gabriel-amine-synthesis)
 - 100 [Cannizzaro Reaction](cannizzaro-reaction)
 - 101 [Schmidt Reaction](schmidt-reaction)
