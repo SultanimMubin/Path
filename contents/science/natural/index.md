@@ -11,6 +11,7 @@
 - [Immunology](immunology/index)
 - [Microbiology](microbiology/index)
 - [Modern physics](modern-physics/index)
+- [Mycoloty](mycology/index)
 - [Neurology](neurology/index)
 - [Organic chemistry](organic-chemistry/index)
 - [Zoology](zoology/index)

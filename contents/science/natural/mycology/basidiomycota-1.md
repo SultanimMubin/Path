@@ -1,0 +1,140 @@
+# Basidiomycota Part 1: Ustilaginomycotina and Pucciniomycotina (Smuts and Rusts)
+
+### Concepts
+
+- taxonomy
+- life
+- domain
+- Eukarya
+- kingdom
+- Fungi
+- Phylum
+- Basidiomycota
+- class
+- agarycomycetes
+- order
+- agaricales
+- family
+- amanitaceae
+- genus
+- amanita
+- species
+- muscaria
+- basidiomycete
+- fly agaric
+- amanita muscaria
+- fly agaric mushroom
+- binomial nomenclature
+- mushroom
+- scientific name
+- phyla
+- fungal
+- ascomycota
+- chytridiomycota
+- blastocladiomycota
+- mucuromycota
+- zoopagomycota
+- glomeromycota
+- cryptomycota
+- club fungi
+- subphyla
+- ustilaginomycotina
+- pucciniomycotina
+- agariomycotina
+- smuts
+- disease
+- plant
+- ustilaginomycete
+- ustilaginales
+- poaceae
+- grass
+- barley
+- wheat
+- sugar cane
+- potatoes
+- cash crop
+- fruit
+- seed
+- galls
+- spore
+- ustilago maydis
+- edible smut
+- corn smut
+- haploid yeast
+- conjugation
+- dikaryotic hypha
+- gelatinouc matrix
+- germination
+- mitosis
+- sterigma
+- basidium
+- basidiospore
+- teliospore
+- haploid
+- nucleus
+- chromosome
+- set of chromosomes
+- biology
+- dikaryotic
+- nuclei
+- cell
+- a locus
+- b locus
+- allele
+- genetic
+- yeast cell
+- conjugation tube
+- mycelium
+- filamentus
+- filamentous dikaryotic mycelium
+- plant tissue
+- plant pathogen
+- exobasidiomycete
+- monillielomycete
+- malasseziomycete
+- grass species
+- tilletia indica
+- karnal bunt
+- parasitization
+- kernel
+- putrid odor
+- flour
+- dermatomycoses
+- fungal skin infection
+- mallasezia
+- dandruff
+- rusts
+- parasite
+- mycoparasite
+- rust fungi
+- pucciniomycete
+- pucciniales
+- fruiting body
+- ecosystem
+- infection
+- coevolution
+- host plant
+- gymnosporangium virginiana
+- Cedar Apple rust
+- juniper tree
+- apple tree
+- life cycle
+- host organism
+- heteroecious
+- autoecious
+- macrocyclic
+- urediniospore
+- pycniospore
+- aeciospore
+
+---
+
+### Notes
+
+---
+
+[Source](https://youtu.be/tR87_75CBtg)
+
+---
+
+up to 6:50
