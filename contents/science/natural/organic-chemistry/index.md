@@ -21,6 +21,7 @@
 - 34 [Micheal Addition](micheal-addition)
 - 47 [Clemmensen reduction](clemmensen-reduction)
 - 54 [Reactions of epoxides](reactions-of-epoxides)
+- 58 [Protective groups](protective-groups)
 - 66 [Separating Liquids by Distillation](separating-liquids-distillation)
 - 67 [Recrystalization](recrystalization)
 - 68 [Nucleophilic Aromatic Substitution](nucleophilic-aromatic-substitution)
