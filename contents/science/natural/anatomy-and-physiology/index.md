@@ -42,6 +42,7 @@
 
 ### third course (Professor Dave Explains)
 
+- 3 [Types of Tissue Part 2: Connective Tissue](connective-tissue)
 - 4 [The Integumentary System](integumentary-system)
 - 5 [Bone](bone)
 - 7 [Joints: Structure and Types of Motion](joints)
