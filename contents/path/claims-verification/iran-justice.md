@@ -97,3 +97,4 @@
 - Promoting nationalism (putting Iran in the center of public attention) while claiming the folloeership of Quran
 
 - Finding proxy on almost everyone's phone, which means their decision is not what people want, specially for a site like YouTube
+- extremely low efficiency in bureaus
