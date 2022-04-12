@@ -10,6 +10,7 @@
 - 23 [The common cold (Rhinovirus)](the-common-cold-rhinovirus)
 - 26 [Chikenpox and Shingles](chikenpox-and-shingles)
 - 31 [Measles](measles)
+- 32 [Rabies (Genus Lyssavirus)](rabies)
 - 34 [Human Papillomavirus (HPV)](hpv)
 - 43 [Widefield and Confocal Fluorescence Microscopy](widefield-confocal-fluorescence-microscopy)
 
