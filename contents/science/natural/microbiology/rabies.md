@@ -1,0 +1,154 @@
+# Rabies (Genus Lyssavirus)
+
+### Concepts
+
+- rabies
+- yellow bile
+- black bile
+- phlem
+- blood
+- pharmacist
+- veterenarian
+- surgen
+- disease
+- tablet
+- BCE
+- saliva
+- remedy
+- herb
+- incantation
+- amputation
+- Louis Pasteur
+- killed-rabies vaccine
+- mad dog
+- rabies virus
+- genus
+- lyssavirus
+- family
+- rhabdoviridae
+- pathogen
+- ribonucleoproten complex
+- RNP
+- glycoprotein
+- matrix (virus)
+- lipid bilayer
+- phosphprotein
+- nucleocaspid protein
+- genome
+- protein
+- encoding
+- virion
+- spike
+- surface
+- hellical nucloecapsid
+- envelope
+- coiled
+- symmetry
+- cylinder
+- structure
+- negative ssRNA
+- single-stranded RNA
+- base (DNA)
+- ribonuclease digestion
+- transcription
+- phosphatidyl serine receptor
+- adsorption G protein
+- G protein
+- replication
+- host cell
+- attachment
+- penetration
+- fusing
+- endosome
+- endocytosis
+- plasma membrane
+- membrane-bound vesicle
+- cytoplasm
+- transcription mRNA
+- viral protein
+- progeny (cell)
+- enzyme
+- machinary
+- translation
+- genome replication
+- budding
+- transmission
+- infection
+- introduction (virus)
+- bite
+- aerosolized virus
+- inhaling
+- organ transplant
+- tissue
+- innoculation
+- mucosal membrane
+- scratch
+- muscle tissue
+- incubation phase
+- bite site
+- symptom
+- phase
+- incubation period
+- wound
+- fatal
+- survival
+- clinical
+- vaccination
+- brain
+- spinal cord
+- nerve
+- prodrome phase
+- CNS
+- central nervous system
+- fever
+- headache
+- itching
+- malaise
+- gastrointestinal
+- fatigue
+- anorexia
+- brain stem
+- hippocampus
+- neurologic phase
+- nerve cell
+- coma
+- death
+- hydrophobia
+- seizure
+- disorientation
+- hallucination
+- paralysis
+- respiratory failure
+- skin
+- head
+- neck
+- eye
+- nose
+- salivary gland
+- comatose
+- zoonotic
+- classic (virus)
+- endemic
+- urban settings
+- raccoon
+- skunk
+- bat
+- fox
+- farm animal
+- Latin America
+- diagnosis
+- antibody
+- antibody test
+- post-exposure prophylaxis
+
+---
+
+### Notes
+
+---
+
+[Source](https://youtu.be/OvRxDQdAtGc)
+
+---
+
+done
