@@ -15,6 +15,7 @@
 - 13 [SN1 reaction](sn1-reaction)
 - 14 [E2 reaction](e2-reaction)
 - 15 [E1 reaction](e1-reaction)
+- 16 [Choosing Between SN1/SN2/E1/E2 Mechanisms](choosing-sn1-sn2-e1-e2)
 - 17 [E2 on Cyclic Systems](e2-on-cyclic-systems)
 - 20 [Carbocation Rearrangement - Hydride and Methanide Shifts](carbocation-rearrangement)
 - 33 [Aldol condensation](aldol-condensation)
