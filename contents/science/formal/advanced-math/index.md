@@ -1,7 +1,8 @@
 # Advanced Math
 
-- [Multiple Integrals](multiple-integral)
-- [Partial Derivatives](partial-derivative)
-- [Vector fields, divergence, and curl](vector-fields-divergence-curl)
-- [Line integrals](line-integrals)
-- [Green's theorem](green-theorem)
+- 1 [Multiple Integrals](multiple-integral)
+- 2 [Partial Derivatives](partial-derivative)
+- 3 [Vector fields, divergence, and curl](vector-fields-divergence-curl)
+- 4 [Line integrals](line-integrals)
+- 5 [Green's theorem](green-theorem)
+- 6 [Surface integrals](surface-integral)
