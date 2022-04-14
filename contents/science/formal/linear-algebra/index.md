@@ -10,3 +10,4 @@
 - 11 [Subspaces and span](subspaces-and-span)
 - 12 [Linear independenc](linear-independence)
 - 13 [Basis and dimension](basis-and-dimension)
+- 14 [Change of basis](change-of-basis)
