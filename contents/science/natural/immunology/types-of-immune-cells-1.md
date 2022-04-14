@@ -1,0 +1,141 @@
+# Types of Immune Cells Part 1: Immune Cell Function
+
+### Concepts
+
+- immune system
+- hematopoeitic stem cell
+- myeloid stem cell
+- lymphoid stem cell
+- megakaryoblast
+- proerythroblast
+- myeloblast
+- monoblast
+- megakaryocyte
+- reticulocyte
+- platelet
+- erythrocyte
+- basophil
+- neutrophil
+- eosinophil
+- monocyte
+- macrophage
+- lymphoblast
+- natural killer cell
+- large granular lymphocyte
+- small lymphocyte
+- T lymphocyte
+- B lymphocyte
+- plasma cell
+- cell type
+- function
+- system
+- digestive system
+- circulatory system
+- organ
+- white blood cell
+- bloodstream
+- tissue
+- sign
+- infection
+- tissue damage
+- mobilization
+- counterattack
+- sentience
+- chemical stimuli
+- dynamic
+- complex
+- cell
+- recognition
+- self
+- non-self
+- bacterium
+- virus
+- cancerous
+- inflammation
+- bacteria
+- signal
+- blood vessel
+- phagocyte
+- healing
+- chemical message
+- protein
+- secretion
+- cytokine
+- chemokine
+- effector function
+- deployment
+- mechanism
+- pathogen
+- infected cell
+- stimulation
+- wound
+- cellular debris
+- immune response coordination
+- regulation
+- antigen
+- self-molecule
+- joint cell
+- autoimmune disease
+- immnune reaction
+- receptor
+- innate immunity
+- adaptive immunity
+- activation
+- antigen-presenting cell
+- costimulatory signal
+- MHC
+- TCR
+- naive T cell
+- effector T cell
+- costimulation
+- check and balance
+- host tissue
+- process
+- endothelial cell
+- fibroblast
+- mast cell
+- granulocyte
+- T cell
+- B cell
+- immune memory
+- vaccination
+- tonsil
+- thymus
+- mammary plexus
+- thoracic duct
+- lymph node
+- large intestine
+- appendix
+- spleen
+- small intestine
+- lymphatic vessel
+- bone marrow
+- lyphatic system
+- tissue fluid
+- arteriole
+- tissue cell
+- lymphatic capillary
+- venule
+- spatial distribution
+- lymphoid tissue
+- identity
+- unique
+- effector function
+
+---
+
+### Notes
+
+- immune cell functions:
+    - recognition
+    - reaction
+    - regulation
+    - rememberance
+
+---
+
+[Source](https://youtu.be/n7oklTRgIL4)
+
+---
+
+done
