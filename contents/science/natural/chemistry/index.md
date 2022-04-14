@@ -10,6 +10,7 @@
 - 18 [Naming Ionic Compounds](naming-ionic-compounds)
 - 24 [Heat Capacity, Specific Heat, and Calorimetry](heat-capacity-specific-heat-calorimetry)
 - 25 [Phase Changes, Heats of Fusion and Vaporization, and Phase Diagrams](phase-change)
+- 26 [Solution Chemistry and Net Ionic Equations](solution-chemistry)
 - 35 [Valence bond, hybrid orbital, molecular orbital](valence-bond-hybrid-bond-molecular-orbital)
 - 37 [Acid-Base equilibrium](acid-base-equilibrium)
 - 38 [Acid-Base titration](acid-base-titration)
