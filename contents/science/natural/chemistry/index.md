@@ -7,6 +7,7 @@
 - 15 [Quantum numbers, atomic orbitals, and electron configuration](quantum-numbers-atomic-orbitals-electron-configuration)
 - 16 [The Periodic Table: Atomic Radius, Ionization Energy, and Electronegativity](periodic-table-atomic-radius-ionization-energy-electronegativity)
 - 17 [The Chemical Bond: Covalent vs. Ionic and Polar vs. Nonpolar](chemical-bond)
+- 18 [Naming Ionic Compounds](naming-ionic-compounds)
 - 24 [Heat Capacity, Specific Heat, and Calorimetry](heat-capacity-specific-heat-calorimetry)
 - 25 [Phase Changes, Heats of Fusion and Vaporization, and Phase Diagrams](phase-change)
 - 35 [Valence bond, hybrid orbital, molecular orbital](valence-bond-hybrid-bond-molecular-orbital)
