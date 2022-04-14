@@ -6,6 +6,7 @@
 - 19 [Molecular properties](molecular-properties)
 - 26 [Enthalpy of Combustion](enthalpy-of-combustion)
 - 29 [Thermodynamics](thermodynamics)
+- 30 [Spontaneity](spontaneity)
 - 33 [Ranking acidity](ranking-acidity)
 - 34 [Equilibrium Constants](equilibrium-constants)
 - 35 [Gaseous equilibria](gaseous-equilibria)
