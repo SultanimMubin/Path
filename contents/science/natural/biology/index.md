@@ -21,4 +21,5 @@
 - 24 [X-linked inheritance](x-linked-inheritance)
 - 25 [Genetic linkage](genetic-linkage)
 - 26 [Alteration of Chromosome Number and Structure](alteration-of-chromosome-number-structure)
+- 27 [Gel Electrophoresis](gel-electrophoresis)
 - 32 [Types of sexual selection](types-of-sexual-selection)
