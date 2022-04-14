@@ -158,6 +158,29 @@
         </tr>
         <tr>
             <td rowspan=3>
+                تَفَاعُلْ
+                <br/>
+                VI
+            </td>
+            <td>تَفَاعَلَ</td>
+            <td>يَتَفَاعَلُ</td>
+            <td>تَفَاعُلاً</td>
+            <td>مُتَفَاعِلٌ</td>
+        </tr>
+        <tr>
+            <td>تُفُوْعِلَ</td>
+            <td>يُتَفَاعَلُ</td>
+            <td>تَفَاعُلاً</td>
+            <td>مُتَفَاعَلٌ</td>
+        </tr>
+        <tr>
+            <td>تَفَاعَلْ</td>
+            <td>لا تَتَفَاعَلْ</td>
+            <td>مُتَفَاعَلٌ</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan=3>
                 اِفْتِعالْ
                 <br/>
                 VIII
@@ -239,6 +262,17 @@
     - Intransitive
 - دَرَسَ = thougth, تَدَرَّسَ = learned with intensity and repetition
 - قَطَعَ = cut (in the past), تَقَطَّعَ = got cut (with intensity)
+
+---
+
+### تَفَاعُلْ (VI)
+
+- Usually between two parties
+    - reciprocal of form III
+- Sometimes "pretending to X"
+- تَسَاءَلَ = asked each other
+- تَلَاوَمَ = blamed each other
+- تَعَاوَنَ = helped each other
 
 ---
 
