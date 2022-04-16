@@ -18,6 +18,7 @@
 - 16 [Choosing Between SN1/SN2/E1/E2 Mechanisms](choosing-sn1-sn2-e1-e2)
 - 17 [E2 on Cyclic Systems](e2-on-cyclic-systems)
 - 20 [Carbocation Rearrangement - Hydride and Methanide Shifts](carbocation-rearrangement)
+- 26 [Oxymercuration-Demercuration](oxymercuration-demercuration)
 - 33 [Aldol condensation](aldol-condensation)
 - 34 [Micheal Addition](micheal-addition)
 - 47 [Clemmensen reduction](clemmensen-reduction)
