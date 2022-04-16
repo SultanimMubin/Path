@@ -34,6 +34,7 @@
 - 91 [Pericyclic reactions 1](pericyclic-reactions-1)
 - 92 [Pericyclic reactions 2](pericyclic-reactions-2)
 - 93 [Pericyclic reactions 3](pericyclic-reactions-3)
+- 94 [Pericyclic reactions 4](pericyclic-reactions-4)
 - 95 [Gabriel amine synthesis](gabriel-amine-synthesis)
 - 100 [Cannizzaro Reaction](cannizzaro-reaction)
 - 101 [Schmidt Reaction](schmidt-reaction)
