@@ -36,6 +36,7 @@
 - 93 [Pericyclic reactions 3](pericyclic-reactions-3)
 - 94 [Pericyclic reactions 4](pericyclic-reactions-4)
 - 95 [Gabriel amine synthesis](gabriel-amine-synthesis)
+- 99 [Mannich Reaction](mannich-reaction)
 - 100 [Cannizzaro Reaction](cannizzaro-reaction)
 - 101 [Schmidt Reaction](schmidt-reaction)
 - 103 [Fries rearrangement](fries-rearrangement)
