@@ -42,6 +42,10 @@ const Flowchart = () => {
             {
                 title: "Life & death",
                 subtitle: "I find definitions. And I learn from them."
+            },
+            {
+                title: "Individuality",
+                subtitle: "I am separate from you. You are separate from me."
             }
         ],
         {
