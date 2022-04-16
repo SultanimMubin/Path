@@ -22,6 +22,7 @@
 - 25 [Genetic linkage](genetic-linkage)
 - 26 [Alteration of Chromosome Number and Structure](alteration-of-chromosome-number-structure)
 - 27 [Gel Electrophoresis](gel-electrophoresis)
+- 28 [Gene Expression Analysis](gene-expression-analysis)
 - 32 [Types of sexual selection](types-of-sexual-selection)
 
 ### [Source 2](https://www.youtube.com/playlist?list=PLwL0Myd7Dk1F0iQPGrjehze3eDpco1eVz)
