@@ -1,6 +1,7 @@
 ﻿# Chemistry
 
-- [Element, compound, mixture](element-compound-mixture)
+- 2 [Element, compound, mixture](element-compound-mixture)
+- 3 [Measurement and Significant Figures](measurement-significant-figures)
 - 4 [Scientific Notation and Dimensional Analysis](scientific-notation-dimensional-analysis)
 - 5 [History of atomic theory](history-of-atomic-theory)
 - 14 [Quantum mechanics of the Electrons](quantum-mechanics-of-the-electrons)
