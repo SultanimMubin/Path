@@ -2,6 +2,7 @@
 
 - 1 [Significant figures](significant-figures)
 - 3 [Isotopic abundance & atomic mass](isotopic-abundance-atomic-mass)
+- 4 [Balancing equations](balancing-equations)
 - [Electronegativity, ionic radii](electronegativity-ionic-radii)
 - 6 [Limiting reagent and percent yield](limiting-reagent-percent-yield)
 - 7 [Empirical and molecular formulas](empirical-and-molecular-formulas)
