@@ -11,3 +11,4 @@
 - 12 [Linear independenc](linear-independence)
 - 13 [Basis and dimension](basis-and-dimension)
 - 14 [Change of basis](change-of-basis)
+- 21 [Complex, Hermitian, and Unitary Matrices](complex-hermitian-unitary-matrices)
