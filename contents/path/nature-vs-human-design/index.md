@@ -39,6 +39,7 @@
     - Chance
     - Time
     - Survival of the fittest
+- Human future has no impact on this list. Because humans consider themselves intelligent at this point in time. We need **intelligence** for comparison, which is abundant already.
 
 [comment]: <> (
     meutor neuron done
