@@ -37,6 +37,7 @@
 - 93 [Pericyclic reactions 3](pericyclic-reactions-3)
 - 94 [Pericyclic reactions 4](pericyclic-reactions-4)
 - 95 [Gabriel amine synthesis](gabriel-amine-synthesis)
+- 96 [Strecker Amino Acid Synthesis](strecker-amino-acid-synthesis)
 - 98 [Vilsmeier Reaction](vilsmeier-reaction)
 - 99 [Mannich Reaction](mannich-reaction)
 - 100 [Cannizzaro Reaction](cannizzaro-reaction)
