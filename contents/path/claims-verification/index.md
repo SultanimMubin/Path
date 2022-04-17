@@ -1,4 +1,4 @@
-# Claims' defects
+# Claims' verification
 
 - [Suffering as a proof of rightness](suffering-rightness)
 - Evolution
@@ -13,34 +13,34 @@
 
 <ul>
     <li>
-        <a href="/path/claims-defects/non-favorable-rewards">پاداش های نامطلوب</a>
+        <a href="/path/claims-verification/non-favorable-rewards">پاداش های نامطلوب</a>
     </li>
     <li>
-        <a href="/path/claims-defects/eternal-pleasure-criticism">نقد جاودانگی لذت</a>
+        <a href="/path/claims-verification/eternal-pleasure-criticism">نقد جاودانگی لذت</a>
     </li>
     <li>
-        <a href="/path/claims-defects/psychology">روانشناسی</a>
+        <a href="/path/claims-verification/psychology">روانشناسی</a>
     </li>
     <li>
-        <a href="/path/claims-defects/arabic-language">زبان عربی</a>
+        <a href="/path/claims-verification/arabic-language">زبان عربی</a>
     </li>
     <li>
-        <a href="/path/claims-defects/iran-justice">عدالت ایران</a>
+        <a href="/path/claims-verification/iran-justice">Justic in Iran</a>
     </li>
     <li>
-        <a href="/path/claims-defects/the-war-to-end-all-wars">جنگی برای پایان دادن به تمام جنگ‌ها</a>
+        <a href="/path/claims-verification/the-war-to-end-all-wars">جنگی برای پایان دادن به تمام جنگ‌ها</a>
     </li>
     <li>
-        <a href="/path/claims-defects/morality-without-judgement">اخلاقیات بدون قضاوت</a>
+        <a href="/path/claims-verification/morality-without-judgement">اخلاقیات بدون قضاوت</a>
     </li>
     <li>
-        <a href="/path/claims-defects/why-suicide">چرا خودکشی؟</a>
+        <a href="/path/claims-verification/why-suicide">چرا خودکشی؟</a>
     </li>
     <li>
-        <a href="/path/claims-defects/kid-and-playground">بچه و زمین بازی</a>
+        <a href="/path/claims-verification/kid-and-playground">بچه و زمین بازی</a>
     </li>
     <li>
-        <a href="/path/claims-defects/risalah-and-quran">رساله و قرآن</a>
+        <a href="/path/claims-verification/risalah-and-quran">رساله و قرآن</a>
     </li>
     <li>
         حجاب اجباری
@@ -49,10 +49,10 @@
         <span>شیعه</span>
         <ul>
             <li>
-                <a href="/path/claims-defects/shia/allah-or-husayn">الله یا حسین</a>
+                <a href="/path/claims-verification/shia/allah-or-husayn">الله یا حسین</a>
             </li>
             <li>
-                <a href="/path/claims-defects/shia/purchasing-heaven">خرید بهشت</a>
+                <a href="/path/claims-verification/shia/purchasing-heaven">خرید بهشت</a>
             </li>
             <li>
                 در خطر بودن اسلام
@@ -69,14 +69,14 @@
         <span>رسانه</span>
         <ul>
             <li>
-                <a href="/path/claims-defects/media/deleting-comment">پاک کردن کامنت</a>
+                <a href="/path/claims-verification/media/deleting-comment">پاک کردن کامنت</a>
             </li>
             <li>
-                <a href="/path/claims-defects/media/tampering-shows-weakness">تحریف، نشانه ضعف</a>
+                <a href="/path/claims-verification/media/tampering-shows-weakness">تحریف، نشانه ضعف</a>
             </li>
         </ul>
     </li>
     <li>
-        <a href='/path/claims-defects/women-are-not-sex-objects'>Women are not sex objects</a>
+        <a href='/path/claims-verification/women-are-not-sex-objects'>Women are not sex objects</a>
     </li>
 </ul>
