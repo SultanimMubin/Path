@@ -9,6 +9,7 @@
 - 16 [Earth](earth)
 - 18 [Jupiter](jupiter)
 - 21 [Neptune](neptune)
+- 24 [Edwin Hubble, Doppler Shift, and the Expanding Universe](edwin-hubble-doppler-shift-expanding-universe)
 - 28 [Astrobiology: The Search for Extraterrestrial Life](astrobiology)
 - 31 [Astrology](astrology)
 - 38 [Sizes of stars](sizes-of-stars)
