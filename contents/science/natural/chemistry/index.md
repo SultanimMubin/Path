@@ -23,6 +23,7 @@
 - 44 [Molecular geometry visualization](molecular-geometry-visualization)
 - 45 [Calculating Percent Error](percent-error)
 - 46 [Nomenclature of Oxyacids](nomenclature-of-oxyacids)
+- 47 [Nomenclature of Hydrated Salts](nomenclature-hydrated-salts)
 - 48 [Writing Chemical Equations in Words](writing-chemical-equations-in-words)
 - 49 [Conservation of matter](conservation-of-matter)
 - 50 [Concentration mass percent](concentration-mass-percent)
