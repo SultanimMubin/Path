@@ -5,6 +5,7 @@
 - 8 [Molecular formulas](molecular-formulas)
 - 18 [Intermolecular forces](intermolecular-forces)
 - 19 [Molecular properties](molecular-properties)
+- 20 [Hybridization](hybridization)
 - 26 [Enthalpy of Combustion](enthalpy-of-combustion)
 - 29 [Thermodynamics](thermodynamics)
 - 30 [Spontaneity](spontaneity)
