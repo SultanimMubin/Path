@@ -1,7 +1,8 @@
 ﻿# Algebra
 
-- [Variable](variable)
-- [Number Properties](number-properties)
+- 1 [Variable](variable)
+- 2 [Number Properties](number-properties)
+- 3 [Algebraic Equations and Their Solutions](algebraic-equations-solutions)
 - 7 [Square root, cube root, other roots](square-root-cube-root)
 - 10 [Polynomials](polynomials)
 - 12 [Multiplying binomials, FOIL method](multiplying-binomials-foil-method)
