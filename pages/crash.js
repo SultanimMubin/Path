@@ -1430,3 +1430,5 @@ export async function getServerSideProps({ params, res }) {
         }
     }
 }
+
+export { videos as CrashVideos }
