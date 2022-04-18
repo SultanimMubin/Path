@@ -30,6 +30,7 @@
 - 51 [Formulas of hydrated salts](formulas-of-hydrated-salts)
 - 52 [Electrolytes](electrolytes)
 - 56 [Standard conditions](standard-conditions)
+- 57 [Molar Gas Volume: Stoichiometry With Gases](molar-gas-volume)
 - 59 [Temperature and gas solubility](temperature-gas-solubility)
 - 60 [Balancing Redox reactions](balancing-redox-reactions)
 - 61 [Pseudo noble gas electron configuration](pseudo-noble-gas-electron-configuration)
