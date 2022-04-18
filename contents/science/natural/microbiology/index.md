@@ -6,6 +6,7 @@
 - 9 [Anthrax](anthrax)
 - 10 [Lyme disease](lyme-disease)
 - 12 [Multidrug-resistance tuberculosis](multidrug-resistance-tuberculosis)
+- 13 [Legionnaires’ Disease: Legionella pneumophila](legionella-pneumophila)
 - 18 [Rocky Mountain Spotted Fever: Rickettsia rickettsii](rickettsia-rickettsii)
 - 22 [Routes of viral transmission](routes-of-viral-transmission)
 - 23 [The common cold (Rhinovirus)](the-common-cold-rhinovirus)
