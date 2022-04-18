@@ -1,4 +1,4 @@
-const videos = [
+export const videos = [
     "m_9S5cBNvTs",
     "qygFjt2_LG4",
     "T_vLXgj2pvo",
@@ -1431,4 +1431,4 @@ export async function getServerSideProps({ params, res }) {
     }
 }
 
-export { videos as CrashVideos }
+// export { videos as CrashVideos }

@@ -1,4 +1,4 @@
-const videos = [
+export const videos = [
     "kKiz8Wzcfc8",
     "LNLz7mswPkQ",
     "tM0bGaaQ2jY",
@@ -414,4 +414,4 @@ export async function getServerSideProps({ params, res }) {
     }
 }
 
-export { videos as CognitoVideos }
+// export { videos as CognitoVideos }

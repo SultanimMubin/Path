@@ -1,10 +1,14 @@
-import { CognitoVideos } from "./cognito";
-import { DaveVideos } from "./dave";
-import { CrashVideos } from "./crash";
+import { videos as CognitoVideos } from "./cognito";
+import Dave, { videos as DaveVideos } from "./dave";
+import { videos as CrashVideos } from "./crash";
 
-const Cognito = ({ videoCode }) => {
+const Cognito = ({ videoCode, from }) => {
 
-    return <a target='_blank' href={`https://youtube.com/watch?v=${videoCode}`}>Random Video ({videoCode})</a>
+    return <div>
+        <a target='_blank' href={`https://youtube.com/watch?v=${videoCode}`}>Random Video ({videoCode})</a>
+        <br />
+        <div>from {from} videos</div>
+    </div>
 }
 
 export default Cognito
@@ -14,7 +18,8 @@ export async function getServerSideProps({ params, res }) {
     const randomVideo = all[Math.floor(Math.random() * all.length)];
     return {
         props: {
-            videoCode: randomVideo
+            videoCode: randomVideo,
+            from: all.length
         }
     }
 }

@@ -1,4 +1,4 @@
-const videos = [
+export const videos = [
     'NEILW-Pl2vY',
     'ocB9V8Dnb3o',
     'APkHKOf9rG4',
@@ -932,4 +932,4 @@ export async function getServerSideProps({ params, res }) {
     }
 }
 
-export { videos as DaveVideos } 
+// export { videos as DaveVideos } 
