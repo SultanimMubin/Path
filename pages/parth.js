@@ -119,3 +119,19 @@ export const videos = [
     "sCJOIXVGs-k",
     "4aaV7uu1-rg"
 ]
+
+const Parth = ({ videoCode }) => {
+
+    return <a target='_blank' href={`https://youtube.com/watch?v=${videoCode}`}>Random Video ({videoCode})</a>
+}
+
+export default Parth
+
+export async function getServerSideProps({ params, res }) {
+    const randomVideo = videos[Math.floor(Math.random() * videos.length)];
+    return {
+        props: {
+            videoCode: randomVideo
+        }
+    }
+}
