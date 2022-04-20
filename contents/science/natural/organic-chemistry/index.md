@@ -23,6 +23,7 @@
 - 34 [Micheal Addition](micheal-addition)
 - 47 [Clemmensen reduction](clemmensen-reduction)
 - 54 [Reactions of epoxides](reactions-of-epoxides)
+- 55 [Hemiacetals, Acetals, and Imines](hemiacetals-acetals-imines)
 - 58 [Protective groups](protective-groups)
 - 66 [Separating Liquids by Distillation](separating-liquids-distillation)
 - 67 [Recrystalization](recrystalization)
