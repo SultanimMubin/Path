@@ -1,6 +1,7 @@
 # Other math videos
 
 - 6 [Decimals: Notation and Operations](decimals-notation-operations)
+- 8 [Converting Between Fractions, Decimals, and Percentages](converting-fractions-decimals-percentages)
 - 14 [Exponents](exponents)
 - 21 [Analyzing Sets of Data: Range, Mean, Median, and Mode](range-mean-median-mode)
 - 96 [Polar coordinates](polar-coordinates)
