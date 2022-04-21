@@ -6,6 +6,7 @@
 - 4 [The double slit experiment](double-slit-experiment)
 - 5 [Quantum Mechanics and the Schrödinger Equation](quantum-mechanics-schrodinger-equation)
 - 6 [The Heisenberg Uncertainty Principle Part 1: Position/Momentum and Schrödinger's Cat](uncertainty-principle)
+- 10 [Special Relativity Part 3: Length Contraction](length-contraction)
 - 12 [General relativity: the curvature of spacetime](general-relativity-spacetime-curvature)
 - 18 [Position and Momentum Operators in Quantum Mechanics](position-momentum-operators)
 - 19 [Wavefunction](wavefunction)
