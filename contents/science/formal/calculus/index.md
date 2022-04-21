@@ -8,3 +8,4 @@
 - 9 [Derivatives of Logarithmic and Exponential Functions](derivatives-of-logarithmic-and-exponential-functions)
 - 11 [Higher derivatives](higher-derivatives)
 - 32 [Estimating sums](estimating-sums)
+- 35 [Taylor and Maclaurin Series](taylor-maclaurin-series)
