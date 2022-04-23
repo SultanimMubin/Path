@@ -22,6 +22,7 @@
 - 33 [Aldol condensation](aldol-condensation)
 - 34 [Micheal Addition](micheal-addition)
 - 47 [Clemmensen reduction](clemmensen-reduction)
+- 53 [Mass Spectrometry](mass-spectrometry)
 - 54 [Reactions of epoxides](reactions-of-epoxides)
 - 55 [Hemiacetals, Acetals, and Imines](hemiacetals-acetals-imines)
 - 58 [Protective groups](protective-groups)
