@@ -46,5 +46,6 @@
 - 100 [Cannizzaro Reaction](cannizzaro-reaction)
 - 101 [Schmidt Reaction](schmidt-reaction)
 - 103 [Fries rearrangement](fries-rearrangement)
+- 104 [Wolff-Kishner Reduction](wolff-kishner-reduction)
 
 ## [Practice problems](practice-problems/index)
