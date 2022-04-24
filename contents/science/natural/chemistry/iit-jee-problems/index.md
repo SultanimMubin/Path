@@ -10,6 +10,7 @@
 - 26 [Enthalpy of Combustion](enthalpy-of-combustion)
 - 29 [Thermodynamics](thermodynamics)
 - 30 [Spontaneity](spontaneity)
+- 31 [Acids and bases](acids-and-bases)
 - 33 [Ranking acidity](ranking-acidity)
 - 34 [Equilibrium Constants](equilibrium-constants)
 - 35 [Gaseous equilibria](gaseous-equilibria)
