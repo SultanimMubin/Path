@@ -6,3 +6,4 @@
 - 4 [Line integrals](line-integrals)
 - 5 [Green's theorem](green-theorem)
 - 6 [Surface integrals](surface-integral)
+- 7 [Stokes's Theorem](stoke-theorem)
