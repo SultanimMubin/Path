@@ -7,5 +7,6 @@
 - 6 [Derivatives of Polynomial Functions](derivatives-polynomial-functions)
 - 9 [Derivatives of Logarithmic and Exponential Functions](derivatives-of-logarithmic-and-exponential-functions)
 - 11 [Higher derivatives](higher-derivatives)
+- 12 [Related Rates in Calculus](related-rates)
 - 32 [Estimating sums](estimating-sums)
 - 35 [Taylor and Maclaurin Series](taylor-maclaurin-series)
