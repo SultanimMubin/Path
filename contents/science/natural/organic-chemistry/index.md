@@ -34,6 +34,7 @@
 - 83 [Cleavage of Carbon-Carbon Bonds With Periodic Acid](carbon-carbon-bond-cleavage-periodic-acid)
 - 84 [The Haloform Reaction](haloform-reaction)
 - 86 [Carbenes: Cyclopropanation, C-H insertion, Bamford-Stevens reaction](carbenes-2)
+- 90 [Heterocycles Part 2: Pyridine](pyridine)
 - 91 [Pericyclic reactions 1](pericyclic-reactions-1)
 - 92 [Pericyclic reactions 2](pericyclic-reactions-2)
 - 93 [Pericyclic reactions 3](pericyclic-reactions-3)
