@@ -13,4 +13,5 @@
 - 33 [Graphing conic sections: circles](graphing-conic-sections-circles)
 - 36 [Graphing Conic Sections Part 4: Hyperbolas](graphing-conic-sections-hyperbolas)
 - 43 [Logarithms, 3](logarithms-3)
+- 44 [Solving Exponential and Logarithmic Equations](solving-exponential-logarithmic-equations)
 - 45 [Complex Numbers: Operations, Complex Conjugates, and the Linear Factorization Theorem](complex-numbers)
