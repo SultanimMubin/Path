@@ -1,5 +1,6 @@
 # Organic chemistry practice problems
 
+- 10 [E2 on Cyclic Systems and Cyclohexane Chairs](e2-cyclic-systems-cyclohexane-chairs)
 - 13 [Ozonolysis reactions](ozonolysis-reactions)
 - 14 [Acidity of carboxylic acids](acidity-of-carboxylic-acid)
 - 18 [Vicinal Dihalide Synthesis](vicinal-dihalide-synthesis)
