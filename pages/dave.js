@@ -251,7 +251,6 @@ export const videos = [
     'QmO-jUp_lcI',
     'kPGtqXjREGQ',
     'bcaJWb3sGL4',
-    'BRE-chl-9EY',
     'CokrncnNaLE',
     'nLAVTQwXc48',
     'k-S6dqqwEf4',
