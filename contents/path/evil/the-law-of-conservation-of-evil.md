@@ -1,6 +1,7 @@
 # Conservation of evil examples
 
 - Hober process => increasing food supply => increasing population almost 5 folds
+- 
 
 ### Problems of the modern world
 
@@ -13,4 +14,4 @@
 - overpopulation (density)
 - weaker bodies
 - lower tolerances
-- 
+- Great Pacific garbage patch
