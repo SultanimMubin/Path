@@ -26,6 +26,13 @@
 
 ## Sources
 
+- [Professor Dave Explains](https://www.youtube.com/c/ProfessorDaveExplains)
+- [Ameoba Sisters](https://www.youtube.com/c/AmoebaSisters)
+- [Crash Course](https://www.youtube.com/c/crashcourse)
 - [Cognito](https://cognitoedu.org/dashboard)
    - [YouTube](https://youtube.com/c/Cognitoedu)
+- [Fermilab](https://www.youtube.com/c/fermilab)
+
+
+- [Michel van Biezen](https://www.youtube.com/c/MichelvanBiezen)
 - [IPA chart](https://www.ipachart.com/)
