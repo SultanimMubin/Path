@@ -6,6 +6,7 @@
 - 4 [Stellar classification](stellar-classification)
 - 11 [History of Astronomy Part 2: Early Measurements of the Earth](early-measurements-earth)
 - 12 [History of Astronomy Part 3: Copernicus and Heliocentrism](copernicus-heliocentrism)
+- 13 [History of Astronomy Part 4: Kepler's Laws and Beyond](kepler-laws)
 - 16 [Earth](earth)
 - 18 [Jupiter](jupiter)
 - 21 [Neptune](neptune)
