@@ -26,6 +26,7 @@
 - 54 [Reactions of epoxides](reactions-of-epoxides)
 - 55 [Hemiacetals, Acetals, and Imines](hemiacetals-acetals-imines)
 - 58 [Protective groups](protective-groups)
+- 63 [Separating Components of a Mixture by Extraction](extration-separation)
 - 66 [Separating Liquids by Distillation](separating-liquids-distillation)
 - 67 [Recrystalization](recrystalization)
 - 68 [Nucleophilic Aromatic Substitution](nucleophilic-aromatic-substitution)
