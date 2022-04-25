@@ -8,5 +8,6 @@
 - 7 [Empirical and molecular formulas](empirical-and-molecular-formulas)
 - 16 [Hess's law](hess-law)
 - 22 [Gravimetric analysis](gravimetric-analysis)
+- 23 [Molar Mass of a Gas](molar-mass-gas)
 - 27 [Initial rates and rate laws](initial-rates-and-rate-laws)
 - 37 [Galvanic cells and reduction potential](galvanic-cells-and-reduction-potential)
