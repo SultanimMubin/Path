@@ -2,6 +2,7 @@
 
 - 1 [Introduction to the Microbial World](introduction)
 - 2 [Microorganisms and humans](microorganisms-and-humans)
+- 5 [Bacterial Infections in Humans](bacterial-infections)
 - 6 [Food Poisoning: Shiga Toxin-Producing E. coli](food-poisoning)
 - 9 [Anthrax](anthrax)
 - 10 [Lyme disease](lyme-disease)
