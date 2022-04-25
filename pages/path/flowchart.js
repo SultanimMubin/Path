@@ -31,12 +31,12 @@ const Flowchart = () => {
         },
         {
             title: "Observation, thought, impartiality",
-            subtitle: "I should spend time and energy. Laziness is no excuse for finding the truth. To gain, once must spend."
+            subtitle: "I should spend time and energy. Laziness is no excuse for finding the truth. To gain, once must spend. And I should be faire and unbiased."
         },
         [
             {
                 title: "Nature vs human design",
-                subtitle: "I am an engineer. I will compare what I see in the nature, with what we humans have created. I make a list. Then abductively decide wheather the world is designed or not.",
+                subtitle: "I am an engineer. I will compare what I see in the nature with what we humans have created. I make a list. Then abductively decide wheather the world is designed or not.",
                 url: "/path/nature-vs-human-design/index"
             },
             {
