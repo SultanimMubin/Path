@@ -15,6 +15,7 @@
 - 31 [Measles](measles)
 - 32 [Rabies (Genus Lyssavirus)](rabies)
 - 34 [Human Papillomavirus (HPV)](hpv)
+- 40 [The History of Microscopy](history-of-microscopy)
 - 43 [Widefield and Confocal Fluorescence Microscopy](widefield-confocal-fluorescence-microscopy)
 
 - [The Plague, Yersinia pestis](the-plague-yersinia-pestis)
