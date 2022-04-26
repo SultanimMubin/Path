@@ -21,6 +21,7 @@
 - 21 [Addition Reactions](addition-reactions)
 - 26 [Oxymercuration-Demercuration](oxymercuration-demercuration)
 - 33 [Aldol condensation](aldol-condensation)
+- 37 [Claisen Condensation and Dieckmann Condensation](claisen-condensation-dieckmann-condensation)
 - 34 [Micheal Addition](micheal-addition)
 - 47 [Clemmensen reduction](clemmensen-reduction)
 - 53 [Mass Spectrometry](mass-spectrometry)

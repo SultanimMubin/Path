@@ -49,7 +49,6 @@ export const videos = [
     'SYRTIDY8VOE',
     'XnkKTxf1LHc',
     'qhyIGt9wrD8',
-    'Fgk9bplNEF8',
     '-MP_H_D-MYk',
     'DsW31fbva-M',
     'kUR98x1tH0c',

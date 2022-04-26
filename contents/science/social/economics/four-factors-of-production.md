@@ -62,6 +62,7 @@
         - opportunity
         - financial risk
         - hope of profit
+- time => part of labor
 
 ---
 
