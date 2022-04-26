@@ -14,7 +14,7 @@
 - bromine
 - alkene
 - product
-- anti confirmation
+- anti conformation
 - leaving group
 - Newman projection
 - hydrogen

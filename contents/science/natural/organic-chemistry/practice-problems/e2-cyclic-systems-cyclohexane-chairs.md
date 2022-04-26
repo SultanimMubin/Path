@@ -16,7 +16,7 @@
 - product
 - trans isomer
 - e2 elimination reaction
-- cyclohexane chair confirmation
+- cyclohexane chair conformation
 - leaving group
 - beta proton
 - antiperiplanar
@@ -27,7 +27,7 @@
 - cis isomer
 - equatorial
 - anti
-- confirmation
+- conformation
 - stability
 - bulky group
 - steric hinderance
@@ -40,7 +40,7 @@
 - substrate
 - chair flip
 - diaxial interaction
-- chair confirmation
+- chair conformation
 - macroscopic scale
 
 ---
