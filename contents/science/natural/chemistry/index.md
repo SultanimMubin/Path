@@ -4,6 +4,7 @@
 - 3 [Measurement and Significant Figures](measurement-significant-figures)
 - 4 [Scientific Notation and Dimensional Analysis](scientific-notation-dimensional-analysis)
 - 5 [History of atomic theory](history-of-atomic-theory)
+- 7 [Balancing Chemical Equations](balancing-chemical-equations)
 - 14 [Quantum mechanics of the Electrons](quantum-mechanics-of-the-electrons)
 - 15 [Quantum numbers, atomic orbitals, and electron configuration](quantum-numbers-atomic-orbitals-electron-configuration)
 - 16 [The Periodic Table: Atomic Radius, Ionization Energy, and Electronegativity](periodic-table-atomic-radius-ionization-energy-electronegativity)
