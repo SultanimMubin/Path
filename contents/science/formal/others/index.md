@@ -5,6 +5,7 @@
 - 7 [Working With Percentages](percentages)
 - 8 [Converting Between Fractions, Decimals, and Percentages](converting-fractions-decimals-percentages)
 - 14 [Exponents](exponents)
+- 17 [Least Common Multiple (LCM)](lcm)
 - 21 [Analyzing Sets of Data: Range, Mean, Median, and Mode](range-mean-median-mode)
 - 96 [Polar coordinates](polar-coordinates)
 - 135 [Vectors](vectors)
