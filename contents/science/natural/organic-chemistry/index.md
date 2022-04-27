@@ -19,6 +19,7 @@
 - 17 [E2 on Cyclic Systems](e2-on-cyclic-systems)
 - 20 [Carbocation Rearrangement - Hydride and Methanide Shifts](carbocation-rearrangement)
 - 21 [Addition Reactions](addition-reactions)
+- 22 [Hydrohalogenation, Hydration, Dihalogenation](hydrohalogenation-hydration-dihalogenation)
 - 26 [Oxymercuration-Demercuration](oxymercuration-demercuration)
 - 33 [Aldol condensation](aldol-condensation)
 - 37 [Claisen Condensation and Dieckmann Condensation](claisen-condensation-dieckmann-condensation)
