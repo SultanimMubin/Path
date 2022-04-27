@@ -10,4 +10,5 @@
 - 22 [Gravimetric analysis](gravimetric-analysis)
 - 23 [Molar Mass of a Gas](molar-mass-gas)
 - 27 [Initial rates and rate laws](initial-rates-and-rate-laws)
+- 36 [Balancing Redox Reactions](balancing-redox-reactions)
 - 37 [Galvanic cells and reduction potential](galvanic-cells-and-reduction-potential)
