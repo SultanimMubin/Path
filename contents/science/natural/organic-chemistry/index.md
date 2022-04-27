@@ -21,6 +21,7 @@
 - 21 [Addition Reactions](addition-reactions)
 - 22 [Hydrohalogenation, Hydration, Dihalogenation](hydrohalogenation-hydration-dihalogenation)
 - 26 [Oxymercuration-Demercuration](oxymercuration-demercuration)
+- 27 [Hydroboration-Oxidation](hydroboration-oxidation)
 - 33 [Aldol condensation](aldol-condensation)
 - 37 [Claisen Condensation and Dieckmann Condensation](claisen-condensation-dieckmann-condensation)
 - 34 [Micheal Addition](micheal-addition)
