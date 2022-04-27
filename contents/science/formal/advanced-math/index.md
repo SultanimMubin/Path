@@ -7,3 +7,4 @@
 - 5 [Green's theorem](green-theorem)
 - 6 [Surface integrals](surface-integral)
 - 7 [Stokes's Theorem](stoke-theorem)
+- 8 [The Divergence Theorem](divergence-theorem)
