@@ -33,6 +33,6 @@
    - [YouTube](https://youtube.com/c/Cognitoedu)
 - [Fermilab](https://www.youtube.com/c/fermilab)
 
-
+- [3 blue 1 brown](https://www.youtube.com/c/3blue1brown)
 - [Michel van Biezen](https://www.youtube.com/c/MichelvanBiezen)
 - [IPA chart](https://www.ipachart.com/)
