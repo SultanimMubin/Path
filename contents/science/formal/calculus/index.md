@@ -9,4 +9,5 @@
 - 11 [Higher derivatives](higher-derivatives)
 - 12 [Related Rates in Calculus](related-rates)
 - 32 [Estimating sums](estimating-sums)
+- 33 [Alternating Series, Types of Convergence, and the Ratio Test](alternating-series)
 - 35 [Taylor and Maclaurin Series](taylor-maclaurin-series)
