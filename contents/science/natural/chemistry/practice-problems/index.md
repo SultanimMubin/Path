@@ -12,3 +12,4 @@
 - 27 [Initial rates and rate laws](initial-rates-and-rate-laws)
 - 36 [Balancing Redox Reactions](balancing-redox-reactions)
 - 37 [Galvanic cells and reduction potential](galvanic-cells-and-reduction-potential)
+- 38 [Cell Potential, Equilibrium Constants, and Free Energy Change](cell-potential)
