@@ -4,6 +4,7 @@
 - 10 [E2 on Cyclic Systems and Cyclohexane Chairs](e2-cyclic-systems-cyclohexane-chairs)
 - 13 [Ozonolysis reactions](ozonolysis-reactions)
 - 14 [Acidity of carboxylic acids](acidity-of-carboxylic-acid)
+- 15 [Reducing agents](reducing-agents)
 - 18 [Vicinal Dihalide Synthesis](vicinal-dihalide-synthesis)
 - 19 [Three-step synthesis](three-step-synthesis)
 - 20 [Three reaction pathway](three-reaction-pathway)
