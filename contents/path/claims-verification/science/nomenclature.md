@@ -20,3 +20,7 @@ Cervical (regional)
 Thoracic (regional)
 Lumbar (Analogical)
 Sacrum (Faith-based)
+
+---
+
+zeroth law of thermodynamics
