@@ -1,0 +1,266 @@
+# The Central Nervous System: The Brain and Spinal Cord
+
+### Concepts
+
+- brain
+- nervous tissue
+- structure
+- neuron
+- the nervous system
+- central nervous system
+- peripheral nervous system
+- spinal chord
+- neuronal connections
+- mechanism
+- conciousness
+- primary somatosensory cortex
+- primary motor cortex
+- premotor cortex
+- frontal eye field
+- prefrontal cortex
+- Broca's area
+- auditory association area
+- auditory cortex
+- Wernicke's area
+- visual cortex
+- visual association area
+- somatosensory association cortex
+- cognition
+- biopshychology
+- early brain development
+- embryo
+- neural tube
+- anterior
+- rostral end
+- primary brain vesicles
+- forebrain
+- midbrain
+- hindbrain
+- prosencephalon
+- mesencephalon
+- rhombencephalon
+- posterior
+- caudal end
+- secondary brain vesicles
+- telencephalon
+- diencephalon
+- mesencephalon
+- metencephalon
+- myelencephalon
+- endbrain
+- interbrain
+- afterbrain
+- spinal brain
+- cerebrum
+- eye cup
+- thalamus
+- hypothalamus
+- epithalamus
+- pons
+- cerebellum
+- medulla oblangata
+- cerebral hemisphere
+- sprout
+- lateral region
+- lateral view
+- brain stem
+- fold (brain)
+- skull
+- volume
+- gyrification
+- lateral ventricle
+- interventicular foramen
+- third ventricle
+- cerebral aqueduct
+- fourth venctricle
+- central canal
+- hollow cavity
+- cerebrospinal fluid
+- glial cell
+- epyndemal cell
+- microglial cell
+- astrocyte
+- oligodendrocyte
+- cilia
+- neuroglia
+- branch
+- regulatory function
+- myelin sheath
+- mass
+- gyri
+- sulci
+- fissure
+- longitudinal fissure
+- lobe
+- frontal lobe
+- parietal lobe
+- temporal lobe
+- occipital lobe
+- insula
+- lateral sulcus
+- cranial bone
+- adjacent
+- cross section
+- gray matter
+- cerebral cortex
+- cell body
+- nonmyelinated fiber
+- white matter
+- myelinated fiber
+- basal nuclei
+- evolve
+- animal brain
+- conscious mind
+- interneuron
+- glia
+- blood vessel
+- sensory neuron
+- motor neuron
+- axon
+- axon terminal
+- nucleus
+- myelin
+- myelinated axon
+- dendrite
+- domain (cortex)
+- motor function
+- sensory function
+- bodily function
+- motor area
+- sensory area
+- association area
+- memory
+- language
+- lateralized
+- myth
+- left brain
+- right brain
+- voluntary motion
+- relegation
+- face
+- tounge
+- hand
+- homunculus
+- sensory homunculus
+- motor homunculus
+- disproportionate
+- movement planning
+- sequence
+- task
+- musical instrument
+- muscle
+- speach
+- eye movement
+- receptor
+- skin
+- perception
+- rational understanding
+- visual information
+- auditory information
+- olfactory cortex
+- odor
+- gustatory cortex
+- taste
+- visceral sensory area
+- visceral sensation
+- stomach
+- vestibular cortex
+- balance
+- equilibria
+- multimodal association area
+- anterior association area
+- posterior association area
+- limbic association area
+- learning
+- ANS
+- autonomic nervous system
+- body temperature
+- hunger
+- thirst
+- sleep cycle
+- emotion
+- physical response
+- endocrine system
+- pituitary gland
+- pineal gland
+- sleep regulation
+- muscle contraction
+- coordinated motion
+- aponeurosis
+- periosteum
+- bone
+- meningers
+- dura mater
+- arachnoid
+- pia matter
+- connective tissue membrane
+- periosteal layer
+- meningeal layer
+- vertebral column
+- skeletal system
+- transverse process
+- vertebral arch
+- lamina
+- pedicle
+- spinal nerve
+- superior articular process
+- inferior articular process
+- spinous process
+- ribs
+- dorsal horn
+- lateral horn
+- ventral horn
+- dorsal column
+- lateral column
+- central column
+- ventral column
+- butterfly
+- multipolar neuron
+- skeletal muscle
+- sensory nuclei
+- motor nuclei
+- somatic
+- visceral
+- dorsal root ganglion
+- dorsal root
+- posterior median sulcus
+- posterior gray commissure
+- posterior white column
+- posterior gray horn
+- lateral gray horn
+- lateral white column
+- anterior gray horn
+- anterior white column
+- anterior median fissure
+- anterior white commissure
+- anterior gray commissure
+- ascending
+- descending
+- transverse
+- pathway
+- nerve pathway
+- afferent
+- efferent
+- somatic nervous system
+- sympathetic
+- parasympathetic
+- opposing
+- conjunction
+
+---
+
+### Notes
+
+- brain is the most complex thing [discovered](https://www.ncbi.nlm.nih.gov/books/NBK234155/)
+    - Search for *what is the most complex thing in the universe*
+- brain lobes are named after cranial bones
+- basal nuclei = regions of gray matter within white matter
+- hemisphere => opposite side of the body
+
+---
+
+[Source](https://youtu.be/Eo3Dp0h5490)
+
+---
+
+done
