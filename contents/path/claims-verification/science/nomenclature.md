@@ -14,3 +14,8 @@ B to represent mahnetic field (because Maxwell wrote A & B)
 Eon, era, period, epoch, age
 
 ---
+
+Cervical (regional)
+Thoracic (regional)
+Lumbar (Analogical)
+Sacrum (Faith-based)
