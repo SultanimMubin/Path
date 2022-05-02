@@ -35,4 +35,5 @@
 
 - [3 blue 1 brown](https://www.youtube.com/c/3blue1brown)
 - [Michel van Biezen](https://www.youtube.com/c/MichelvanBiezen)
+- [Khan academy](https://www.youtube.com/c/khanacademy/)
 - [IPA chart](https://www.ipachart.com/)
