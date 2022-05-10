@@ -12,6 +12,7 @@
 - Reductionism
 - Progression over perfection
 - Acronyms & initialisms
+- Analogy
 
 ### Personal
 - Scattered (mine)
