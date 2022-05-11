@@ -1,5 +1,9 @@
 # Linguistics
 
+- 13 [Language Change and Historical Linguistics](historical-linguistics)
+
+---
+
 - [Definition](definition)
 - [Abstracts](abstract)
 - [Affix](affix)
@@ -12,7 +16,6 @@
 - [etymology](etymology)
 - [Acronym](acronym)
 - [Morphology](morphology)
-
 
 ### Resources
 
