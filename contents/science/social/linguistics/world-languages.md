@@ -4,7 +4,7 @@
 
 - language
 - linguist
-- mutual intelligebility
+- mutual intelligibility
 - political factor
 - resources
 - records
@@ -17,7 +17,7 @@
 - fuzzy distinction
 - speaking
 - understanding
-- mutually intelligle
+- mutually intelligible
 - saying
 - sound
 - word
@@ -106,7 +106,7 @@
 - Urdu
 - Pakistan
 - Arabic script
-- US english
+- US English
 - British English
 - divergence
 - direction
@@ -115,7 +115,7 @@
 - Arabic
 - seven language groups of China
 - Chinese
-- millenium
+- Millenium
 - writing system
 - England
 - European countries
@@ -123,7 +123,7 @@
 - capital
 - official monoligualism
 - bilingualism
-- state-sanctioned official language
+- the state-sanctioned official language
 - unified national identity
 - standardized language
 - teaching
@@ -137,7 +137,7 @@
 - Karbi
 - Runglo
 - residential school system
-- United States
+- the United States
 - Canada
 - government policy
 - deliberate
@@ -181,7 +181,7 @@
 - written records
 - Hebrew
 - Wampanoag
-- Massachussets
+- Massachusetts
 - Rhode Island
 - elders
 - revitalization
@@ -211,7 +211,7 @@
 ### Notes
 
 - 7000 languages in the world
-- Spanish went from a dialet of Latin to a different language
+- Spanish went from a dialect of Latin to a different language
 
 ---
 
