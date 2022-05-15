@@ -1,0 +1,222 @@
+# World Languages: Crash Course Linguistics #14
+
+### Concepts
+
+- language
+- linguist
+- mutual intelligebility
+- political factor
+- resources
+- records
+- dialect
+- complicated
+- diversity
+- social structure
+- human language
+- complication
+- fuzzy distinction
+- speaking
+- understanding
+- mutually intelligle
+- saying
+- sound
+- word
+- grammar
+- language change
+- time
+- Spanish
+- Latin
+- moment
+- kids
+- parents
+- chain
+- generations
+- gradual change
+- space
+- spacetime
+- conclusion
+- gradient
+- dialect chain
+- dialect continuum
+- French
+- Spain
+- Italy
+- official
+- Paris
+- Rome
+- Madrid
+- Greenlandic
+- Inuktitut
+- Greenland
+- Northern Canada
+- Arctic Circle
+- Himalayan mountains
+- Tibetan
+- geographical feature
+- disruption
+- variety
+- migration
+- homeland
+- diaspora communities
+- original culture
+- original community
+- talking
+- signing
+- slang
+- group
+- official language count
+- researcher
+- signed language
+- stability
+- deaf-community signed language
+- deaf
+- common language
+- Nicaraguan Sign Language
+- population
+- French Sign Language
+- genetic deafness
+- hearing (opposite to deaf)
+- Village Sign Language
+- Kata Kolak
+- Indonesia
+- Central Taurus Sign Language
+- Turkey
+- Al-Sayid Bedouin Sign Language
+- Israel
+- Adamorobe Sign Language
+- Ghana
+- Signed Language
+- American Sign Language
+- American school for the deaf
+- Old French Signed language
+- Martha's Vineyard Signed language
+- identity
+- politics
+- individual
+- community
+- government
+- similar
+- different
+- consequence
+- alphabet
+- language suppression
+- Hindi
+- India
+- Devanagari script
+- Urdu
+- Pakistan
+- Arabic script
+- US english
+- British English
+- divergence
+- direction
+- reinforcement
+- Sanskrit
+- Arabic
+- seven language groups of China
+- Chinese
+- millenium
+- writing system
+- England
+- European countries
+- upper-class people
+- capital
+- official monoligualism
+- bilingualism
+- state-sanctioned official language
+- unified national identity
+- standardized language
+- teaching
+- school
+- regional dialect
+- eradication
+- unity
+- speaker
+- vibrant
+- Turung
+- Karbi
+- Runglo
+- residential school system
+- United States
+- Canada
+- government policy
+- deliberate
+- indigenous children
+- yardstick
+- language ideology
+- belief
+- language variety
+- language use
+- true
+- media
+- classes
+- tools
+- studying
+- preservation
+- dictionary
+- lexicographer
+- process
+- project
+- funding
+- university
+- sponsorship
+- prestige
+- private company
+- profit
+- novels
+- movies
+- podcasts
+- learning resources
+- textbooks
+- tech tools
+- keyboards
+- apps
+- speech recognition
+- edition
+- spellcheck
+- translation dictionary
+- dropdown menu
+- ancestral language
+- language revitalization
+- written records
+- Hebrew
+- Wampanoag
+- Massachussets
+- Rhode Island
+- elders
+- revitalization
+- transmission
+- interruption
+- learning environment
+- language nest
+- immersion school
+- children
+- adults
+- continued learning
+- recordings of stories
+- Maori
+- Hawaiian
+- official recognition
+- tech platform
+- linguistic justice
+- people's right
+- mother-tongue
+- language visibility
+- discrimination
+- nation
+- linguistic experience
+
+---
+
+### Notes
+
+- 7000 languages in the world
+- Spanish went from a dialet of Latin to a different language
+
+---
+
+[Source](https://youtu.be/Nxyo83cQjhI)
+
+---
+
+done
