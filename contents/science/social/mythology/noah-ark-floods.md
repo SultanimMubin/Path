@@ -1,0 +1,156 @@
+# Noah's Ark and Floods in the Ancient Near East: Crash Course World Mythology #16
+
+### Concepts
+
+- god
+- creation
+- Earth
+- destroying
+- floods
+- Thoth
+- story of the flood
+- bible
+- Noah
+- Ark
+- culture
+- flood myth
+- euhemerism
+- complex society
+- river
+- predictable
+- Nile river
+- irrigation
+- divine
+- Sobek
+- crocodile
+- healing
+- protection
+- theme
+- myth
+- primordial water
+- creation source
+- life
+- symbolism
+- purification ritual
+- baptism
+- prenuptial cleansings
+- reenactment
+- Mesopotamia
+- The Epic of Gilgamesh
+- Utnapishtim
+- Gilgamesh
+- Shurupakk
+- Euphrates
+- Anu (god)
+- Enlil
+- Ninurta
+- Ennugi
+- Ea (god)
+- kith
+- kin
+- wild beasts
+- hour of destruction
+- storm
+- flood-weapon
+- seven
+- porthole
+- mankind
+- mount Nimush
+- bird
+- dry land
+- dove
+- perch
+- swallow (bird)
+- raven
+- sacrifice
+- am-scray
+- oat-bay
+- lickety-split
+- survival
+- sage
+- warrior
+- lion
+- wolf
+- plague
+- immortal
+- All's well that ends well
+- gold
+- silver
+- divinity
+- angry divinity
+- order
+- chosen person
+- wildlife
+- Babylonian
+- punishment
+- Old Testament
+- sinfulness
+- wickedness
+- repented
+- creeping
+- Anansi
+- Yahweh
+- command
+- instruction
+- rainstorm
+- fourty
+- Summerian myth
+- heart
+- smite
+- covenant
+- inscrutable
+- sin-cleansing
+- Zoroastrian flood
+- biblical flood
+- babylonian flood
+- Yima
+- species
+- repopulation
+- mountain castle
+- floodwater
+- Ahura Mazda
+- creator god
+- multiplication
+- inhabitant
+- Ovid
+- Metamorpheses
+- Jupiter
+- mortal
+- contamination
+- delicious
+- fire
+- Olympus
+- Neptune
+- wind
+- humanity
+- Deucalion
+- Pyrrha
+- piety
+- sparing
+- giving thanks
+- prayer
+- stone
+- shoulder
+- Mediterranean
+- ambivalent
+- influencing
+- cultural transmission
+- region
+- righteous
+- meaning
+- tragedy
+- story
+
+---
+
+### Notes
+
+- Myths might be rooted in history => euhemerism
+
+---
+
+[Source](https://youtu.be/VA3j5_vKQfc)
+
+---
+
+done
