@@ -1,4 +1,5 @@
 ﻿# Applied sciences
 
-- [Touch typing](touch-typing)
+- [Artificial intelligence](artificial-intelligence/index)
 - [Pharmacology](pharmacology/index)
+- [Touch typing](touch-typing)

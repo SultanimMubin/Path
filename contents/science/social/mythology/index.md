@@ -1,6 +1,6 @@
 # Mythology
 
-- 17 [Noah's Ark and Floods in the Ancient Near East]
+- 17 [Noah's Ark and Floods in the Ancient Near East](noah-ark-floods)
 
 ---
 

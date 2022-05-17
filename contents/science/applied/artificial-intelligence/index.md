@@ -1,6 +1,6 @@
 # Artificial intelligence
 
-- 7 Natural Language Processing [nlp]
+- 7 [Natural Language Processing](nlp)
 
 ---
 
