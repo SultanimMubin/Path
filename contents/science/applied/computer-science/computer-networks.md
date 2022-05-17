@@ -1,0 +1,204 @@
+# Computer Networks: Crash Course Computer Science #28
+
+### Concepts
+
+- internet
+- keystroke
+- video streaming
+- article
+- ordering
+- reading
+- video chat
+- tweeting
+- computer
+- send
+- recieve
+- information
+- global telecommunication network
+- letter
+- express mail
+- email
+- latency
+- transfering
+- global economy
+- speed of light
+- modern world
+- fiber optic cable
+- globe
+- low cost machine
+- desk
+- data
+- resource
+- sharing
+- principle
+- technique
+- fundamental
+- organization
+- research lab
+- company
+- information exchange
+- facilitation
+- faster
+- more reliable
+- punch card
+- reel
+- magnetic tape
+- sneakernet
+- physical resource
+- printer
+- storage drive
+- attached
+- LAN
+- local area network
+- machine
+- university campus
+- LAN technology
+- ethernet
+- Xerox PARC
+- series
+- connected
+- common ethernet cable
+- tranmist
+- electrical signal
+- cable
+- transmission
+- intention
+- problem
+- solving
+- solution
+- MAC address
+- media access control
+- unique
+- header
+- prefix
+- listening
+- processing
+- address
+- WiFi
+- Carrier Sense Multiple Access
+- CSMA
+- transmission medium
+- copper wire
+- radio wave
+- simultaneous
+- rate
+- bandwidth
+- drawback
+- network traffic
+- silence
+- carrier
+- probability
+- collision
+- signal
+- wire
+- pause
+- backlog
+- fix
+- re-transmit
+- random period
+- network congestion
+- backing off behavior
+- exponentially growing
+- wait time
+- Exponential Backoff
+- transmission protocol
+- efficiency
+- shrinking
+- shared carrier
+- Collision Domain
+- a.k.a
+- likelihood
+- Network Switch
+- forwarding
+- The Internet
+- inter-network
+- inter-network communication
+- path
+- location
+- routing
+- allocation
+- communication line
+- exclusive use
+- telephone system
+- telephone line
+- human operator
+- Circut Switching
+- destination
+- traffic
+- inflexible
+- expensive
+- unused capacity
+- military
+- bank
+- dedicated circut
+- data center
+- Message Switching
+- postal system
+- dedicated route
+- stop (networking)
+- HOP
+- table (HOP)
+- destination address
+- reliable
+- fault-tolerant
+- mail hub
+- hub
+- network router
+- hop count
+- routing problem
+- bandwidth waste
+- error detection
+- hop limit
+- network clogging
+- kilobyte
+- packet
+- chopping
+- IP
+- internet protocol
+- standard
+- IP address
+- 8-bit
+- number
+- dot
+- server
+- bottleneck
+- millisecond
+- load balancing
+- congenstion control
+- order
+- out of order
+- TCP/IP
+- Packet Switching
+- decentralized
+- central authority
+- single point of failure
+- nuclear attack
+- cold war
+- ICMP
+- Internet Control Message Protocol
+- BGP
+- Border Gateway Protocol
+- package-switched network
+- ARPANET
+- Advanced Research Projects Agency
+- satelite link
+- wifi-connected refrigrator
+- thermostat
+- smart appliance
+- internet of things
+- tube
+- transmission protocol
+- higher-level
+- World Wide Web
+
+---
+
+### Notes
+
+---
+
+[Source](https://youtu.be/3QhU9jd03a0)
+
+---
+
+done
