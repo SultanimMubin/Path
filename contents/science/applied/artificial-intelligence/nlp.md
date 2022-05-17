@@ -1,0 +1,190 @@
+# Natural Language Processing: Crash Course AI #7
+
+### Concepts
+
+- AI
+- language
+- knowledge transfer
+- brain
+- spoken
+- written
+- component
+- sentence
+- word
+- character
+- letter
+- culture
+- English
+- Chinese
+- problem
+- solving
+- machine learning
+- technology
+- image processing
+- computer
+- interaction
+- question
+- search engine
+- smartphone
+- talking
+- Google Translate
+- natural language processing
+- nlp
+- natural language understanding
+- nlu
+- letter combinations
+- meaning
+- spam email
+- instruction
+- self-driving car
+- natural language generation
+- nlg
+- knowledge
+- translation
+- summurization
+- document
+- chat
+- symbol
+- ambigious
+- context
+- sound
+- attachment
+- enthusiastic
+- sarcastic
+- inherent
+- telling
+- learning
+- mistake
+- potential mistake
+- word comparison
+- morphology
+- root word
+- rule
+- person
+- action
+- doing
+- knowing
+- felidae
+- scientific family
+- distributional semantics
+- linguistics
+- insight
+- linguist
+- John Firth
+- math
+- expression
+- technique
+- count vector
+- article
+- same word
+- common words
+- algorithm
+- download
+- Wikipedia
+- function words
+- stop words
+- language structure
+- convey
+- precision
+- specification
+- plural
+- conjugation
+- simplified
+- example
+- representation
+- relationships
+- similarities
+- unsupervised learning
+- image
+- model
+- internal representation
+- generation
+- prediction
+- encoder-decoder model
+- thinking
+- remembering
+- reading
+- encoder
+- decoder
+- thought
+- decision
+- saying
+- doing
+- framework
+- game
+- fill in the blank
+- unsupervised learning model
+- language modeling
+- task
+- guess
+- unsupervised cluster
+- word group
+- identification
+- pronoun
+- piece of information
+- capturing
+- choosing
+- answer
+- key details
+- hearing
+- Ray Mooney
+- neural network
+- data
+- data collection
+- text
+- book
+- RNN
+- Recurrent Neural Network
+- loop
+- single hidden layer
+- input layer
+- hidden layer
+- output layer
+- modifying words
+- grammatical property
+- feature
+- measurement
+- pixel value
+- random representation
+- vector
+- number
+- gibberish
+- single layer network
+- score
+- vocabulary
+- interpretation
+- backpropagation
+- weight
+- decoder prediction layer
+- encoder RNN
+- plot
+- visualization
+- word representation
+- researcher
+- Google
+- training
+- Newton
+- universe
+- lingustic representation
+- word cluster
+- iceberg
+- translation system
+- Siri
+- Alexa
+- household robot
+- aquisition
+- gadget
+
+---
+
+### Notes
+
+- Words have no meaning on their own. We assign meaning, to symbols.
+
+---
+
+[Source](https://youtu.be/oi0JXuL19TA)
+
+---
+
+done
