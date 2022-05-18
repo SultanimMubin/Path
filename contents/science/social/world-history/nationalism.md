@@ -1,0 +1,162 @@
+# Samurai, Daimyo, Matthew Perry, and Nationalism: Crash Course World History #34
+
+### Concepts
+
+- nationalism
+- global phenomenon
+- nineteenth century
+- USSR
+- Rhodesia
+- South Vietnam
+- Sudan
+- South Sudan
+- Yugoslavia
+- globe (spherical model of the Earth)
+- inaccuracy
+- Slovakia
+- East Pakistan
+- Lithuania
+- Asia
+- European history
+- Bismarck
+- Germany
+- Mazzini
+- Garibaldi
+- Itally
+- Mustafa Kemal
+- Ataturk
+- Turkey
+- Muhammad Ali (egypt nationalist)
+- Egypt
+- Lincoln
+- British dominion
+- Canada
+- Australia
+- New Zealean
+- federated state
+- independent state
+- queen
+- Balkans
+- Greece
+- independence
+- Christian principalities
+- Ottomans
+- India
+- political party
+- Indian National Congress
+- China
+- dynastic system
+- Hitler
+- Mussolini
+- Hirohito
+- homogenous
+- mythologized
+- unitary polity
+- modern nation-state
+- nationa-state
+- centralized government
+- authority
+- claiming authority
+- excersizing authority
+- distinctive territory
+- linguisitc homogeneity
+- cultural homogeneity
+- Han dynasty
+- historian
+- nationhood
+- Ulysses (novel)
+- James Joyce
+- Irish diaspora
+- Jewish diaspora
+- diaspora
+- territory
+- common heritage
+- organic process
+- culturally-similar people
+- formalization
+- connection
+- construction
+- government
+- patriatism
+- compulsary military service
+- statue
+- national heroes
+- public education
+- nationalizing project
+- school
+- textbook
+- nationalizing narrative
+- Texas
+- whitewashing
+- early American history
+- urbanization
+- industralization
+- urbanite
+- Prague
+- Czech
+- Austro-Hungarian Empire
+- bureaucracy
+- system of education
+- military
+- opposition
+- idea of otherness
+- Irish
+- emergin nation
+- Napoleonic wars
+- French
+- Indian Rebellion
+- homogenous people
+- American Civil War
+- Virginian
+- New Yorker
+- Pensylvanian
+- antebellum nation
+- These United States
+- The United States
+- multiethnic
+- land-based empire
+- Ottoman Empire
+- Serbs
+- Romanians
+- Bulgarians
+- Albanian
+- Turkish
+- Egyption Arabic
+- ruling family
+- Egyptian
+- Japan
+- feudal
+- late sixteenth century
+- warrior landowners
+- consolidating power
+- Tokugawa family
+- bakufu
+- leyasu
+- Toyotomi Hideyoshi
+- emperor
+- figurehead
+- shogun
+- efficiency
+- forward-thinking policy
+- stability
+- governmental virtue
+- centralization
+- local lord
+- daimyo
+- bureaucrat
+
+---
+
+### Notes
+
+- nation-state
+    - state = centralized government
+    - nation = language & culture
+
+---
+
+[Source](https://youtu.be/Nosq94oCl_M)
+
+---
+
+up to 5:50
