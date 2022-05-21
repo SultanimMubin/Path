@@ -1,0 +1,233 @@
+# Retrosynthesis and Liquid-Liquid Extraction: Crash Course Organic Chemistry #34
+
+### Concepts
+
+- organic chemistry
+- Germany
+- Nazi
+- military
+- Enigma machine
+- typewriter
+- exchangeable
+- gear
+- send
+- recieve
+- secret message
+- encryption
+- wire
+- plugboard
+- unbreakable code
+- flaw
+- Polish
+- cryptologist
+- reverse engineering
+- component
+- British
+- decryption
+- World War II
+- cryptological technique
+- step
+- complicated
+- organic molecule
+- retrosynthesis
+- liquid-liquid extraction
+- organic synthesis
+- construction
+- complex
+- carbon-based
+- structure
+- medicine
+- starting material
+- synthesis practice problem
+- target compound
+- reagent
+- reaction condition
+- intermediate compound
+- mechanism arrow pushing
+- stereochemistry
+- regiochemistry
+- reaction
+- practice
+- example
+- synthesis problem
+- multistep synthesis
+- spot the difference
+- carbon
+- atom
+- numbering carbon atoms
+- sulfur
+- main chain
+- product
+- molecule
+- chiral carbon
+- S-enantiomer
+- priority
+- ranking
+- surrounding group
+- hydroxyl group
+- carbon chain number
+- puzzle piece
+- alcohol
+- nucleophile
+- good nucleophile
+- ingredient
+- substitution reaction
+- hydroxide
+- leaving group
+- poor leaving group
+- sulfunate
+- halide
+- ether
+- epoxide
+- tosylate
+- mesylate
+- SN2 reaction
+- inverting stereochemistry
+- R-enantiomer
+- S-enantiomer product
+- halide-forming reaction
+- bromide formation
+- phosphorus tribromide
+- bond
+- break bond
+- starting fragment
+- arrow
+- retrosynthesis arrow
+- more complex molecule
+- chemical
+- racemic mixture
+- enantiomer
+- retrosynthesis problem
+- amide
+- carboxylic acid derivative
+- carboxylic acid
+- functional group
+- functional group interconversion
+- FGI
+- primary alcohol
+- oxidization
+- aldehyde
+- organometallic reagent
+- carbon dioxide
+- disconnection (retrosynthesis)
+- retrosynthetic step
+- squiglly line
+- forward reaction
+- carbonyl group
+- dipole
+- electrophilic
+- carbon-carbon bond
+- ketone
+- bromide
+- retrosynthetic analysis
+- bromobenzene
+- magnesium
+- metal
+- Grignard reagent
+- attack
+- nucleophilically
+- alkoxide
+- aqueous solution
+- hydrochloric acid
+- protonation
+- P-Br-3
+- aqueous hydrochloric acid
+- reactive
+- acid chloride
+- ester
+- Fischer esterification reaction
+- diethylamine
+- solvent
+- reaction scheme
+- inorganic salt
+- table salt
+- nonpolar
+- organic solvent
+- oil
+- dissolve
+- organic phase
+- organic chemical
+- aqueous phase
+- diethyl ether
+- hydrochloric acid solution
+- magnesium salt
+- inorganic
+- immiscible
+- aqueous solvent
+- layer
+- vinegar
+- salad dressing
+- floating
+- lab
+- immiscible solvent
+- organic compound
+- side product
+- butylbenzene
+- safety glasses
+- separatory funnel
+- liquid
+- valve
+- stopcock
+- funnel
+- mixture
+- suspended
+- ring stand
+- stopper
+- pressure
+- gas
+- vent
+- dense
+- aqueous layer
+- HCl solution
+- ether solution
+- sodium hydroxide
+- deprotonation
+- polar salt
+- water-soluble
+- neutral compound
+- drain off
+- solid
+- filtering
+- drying
+- evaporation
+- organic solvent
+- purified carboxylic acid
+- landmark
+- road map
+- purification step
+- Mold Medicine Map
+- Dr. Sheehan
+- forward synthesis
+- penicillin V
+- skill
+- nature
+- natural product
+- sensitive
+- isolation
+- strained ring
+- beta lactem ring
+- hydrolysis
+- fungus
+- imminum ion
+- synthetic step
+- amino acid
+- valine
+- penicillin synthesis
+- synthetic polymer
+
+---
+
+### Notes
+
+- organic synthesis
+    - starting materials
+    - steps (as few as possible)
+    - target compound
+
+---
+
+[Source](https://youtu.be/oi3bcICQd40)
+
+---
+
+done

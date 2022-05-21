@@ -55,4 +55,12 @@
 - 103 [Fries rearrangement](fries-rearrangement)
 - 104 [Wolff-Kishner Reduction](wolff-kishner-reduction)
 
+[Source](https://www.youtube.com/playlist?list=PLybg94GvOJ9GtvOUYLW601u1Oiaoat2UF)
+
 ## [Practice problems](practice-problems/index)
+
+---
+
+- 34 [Retrosynthesis and Liquid-Liquid Extraction](retrosynthesis)
+
+[Source](https://www.youtube.com/playlist?list=PL8dPuuaLjXtONguuhLdVmq0HTKS0jksS4)
