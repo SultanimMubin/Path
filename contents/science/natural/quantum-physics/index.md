@@ -1,6 +1,8 @@
 # Quantum Physics
 
 - 16 [Size of atom](size-of-atom)
+- 27 [Solving the Schrodinger equation](solving-schrodinger-equation)
+- 30 [Wave Functions in Quantum Mechanics](wave-functions)
 
 ---
 
