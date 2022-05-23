@@ -1,5 +1,7 @@
 ﻿# Astronomy
 
+[Professor Dave Explains](https://www.youtube.com/playlist?list=PLybg94GvOJ9E9BcCODbTNw2xU4b1cWSi6)
+
 - [Introductin](introduction)
 - [Big bang](big-bang)
 - [Stellar evolution](stellar-evolution)
@@ -17,3 +19,9 @@
 - 38 [Sizes of stars](sizes-of-stars)
 - 39 [Types of binary star systems](types-of-binary-star-systems)
 - 40 [Warped Spacetime, Gravitational Lensing, and Gravitational Waves (Corroborating General Relativity)](warped-spacetime-gravitational-lensing-gravitational-waves)
+
+---
+
+[Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL)
+
+- 44 [Dark Energy, Cosmology part 2](dark-energy)
