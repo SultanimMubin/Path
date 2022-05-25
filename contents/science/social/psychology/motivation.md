@@ -1,0 +1,224 @@
+# The Power of Motivation: Crash Course Psychology #17
+
+### Concepts
+
+- Aran Rolston
+- Will to survive
+- harnessing
+- psychological force
+- hunger
+- thirst
+- desire
+- family
+- human community
+- tenacity
+- motivation
+- need
+- biological need
+- social need
+- emotional need
+- psychologist
+- theory
+- drive
+- behavior
+- instinct
+- innate drive
+- instinct theory
+- tendency
+- complex
+- chaotic
+- process
+- evolution
+- accident
+- palentologist
+- Stephen Jay Gould
+- spandrels
+- trait
+- adaptive
+- byproduct
+- unlearned behavior
+- pattern
+- fixed pattern
+- species
+- genetically-predisposed instincts
+- learning
+- understanding
+- genetic
+- individual experience
+- psychological need
+- compel
+- reduction
+- drive-reduction theory
+- drive-reduction behavior
+- drive reduction
+- homeostasis
+- physiological balance
+- incentive
+- positive stimuli
+- negative stimuli
+- enticing
+- repeling
+- complicated
+- over-simplification
+- honoring
+- spiritual
+- political
+- cause
+- optimal arousal
+- tension
+- stimulation
+- relaxation
+- bored
+- lonely
+- level of arousal
+- non-sexual
+- overstimulated
+- stressed
+- intense
+- adrelanine junky
+- satiated
+- engaging
+- Abraham Maslow
+- shuffling of priorities
+- hierarchy of needs
+- pyramid
+- physiological need
+- food
+- water
+- air
+- moderate temperature
+- safety
+- love
+- belonging
+- esteem
+- respect
+- self-actualization
+- spiritual growth
+- self-transcendence
+- empirical research
+- higher-level needs
+- personality
+- culture
+- school of thought
+- sex
+- need to belong
+- sexual motivation
+- survival
+- recreation
+- procreation
+- bonding
+- sex hormone
+- sociocultural
+- external stimuli
+- genteel
+- personal
+- value
+- sensation
+- blood-sugar
+- Glucose
+- energy
+- source of energy
+- tissue
+- brain
+- hypothalamus
+- monitoring
+- blood chemistry
+- hunger hormone
+- ghrelin
+- trigger
+- feel
+- metabolism
+- conversion
+- calory
+- gender
+- age
+- mood
+- sweet
+- genetic taste
+- fatty food
+- taste preference
+- conditioning
+- experience
+- aversion
+- gross
+- conscientious objector
+- medical research
+- Ancel Keys
+- Minnesota Hunger Experiment
+- semistarvation
+- volunteer
+- starving
+- ethics
+- feeding
+- normal diet
+- caloric intake
+- rehabilitation
+- weight
+- educational activity
+- goal
+- starvation period
+- strength
+- heart rate
+- body temperature
+- dramatic
+- dream
+- obssession
+- social activity
+- irritable
+- anxious
+- depressed
+- devastating
+- psychological effect
+- fundamental need
+- decline
+- need to belong
+- social animals
+- social bonding
+- thriving
+- sharing
+- resources
+- responsibility
+- protection
+- support
+- group
+- autonomy
+- sense of persoanl control
+- connected
+- independent
+- denial
+- ignored
+- rejected
+- evidence
+- study
+- community
+- health
+- ostracism
+- social exclusion
+- punishment
+- exile
+- time-out
+- prisoner
+- solitary confinement
+- separation
+
+---
+
+### Notes
+
+- motivation theories:
+    - an evolutionary perspective
+    - drive-reduction
+    - optimal arousal
+    - Maslow's hierarchy of needs
+- common needs in theories:
+    - sex
+    - hunger
+    - need to belong
+
+---
+
+[Source](https://youtu.be/9hdSLiHaJz8)
+
+---
+
+done
