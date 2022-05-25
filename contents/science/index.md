@@ -39,3 +39,7 @@
 - [Free science lessons](https://www.youtube.com/c/Freesciencelessons)
 - [Fuse school](https://www.youtube.com/c/fuseschool)
 - [IPA chart](https://www.ipachart.com/)
+
+---
+
+> any sufficiently advanced technology is indistinguishable from magic
