@@ -1,5 +1,7 @@
 ﻿# Biology
 
+[Professor Dave Explains](https://www.youtube.com/playlist?list=PLybg94GvOJ9HH3IbmPRCfU4knUiBJPq1Z)
+
 - 1 [Introduction](introduction)
 - 6 [Cell cycle](cell-cycle)
 - 8 [Meiosis](meiosis)
@@ -27,4 +29,12 @@
 - 32 [Types of sexual selection](types-of-sexual-selection)
 - 33 [Conflict, Spite, and Reciprocity](conflict-spite-reciprocity)
 
-### [Source 2](https://www.youtube.com/playlist?list=PLwL0Myd7Dk1F0iQPGrjehze3eDpco1eVz)
+---
+
+[Amoeba Sisters](https://www.youtube.com/playlist?list=PLwL0Myd7Dk1F0iQPGrjehze3eDpco1eVz)
+
+---
+
+[Crash Course](https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF)
+
+- 11 [DNA Structure and Replication](dna-structure-replication)

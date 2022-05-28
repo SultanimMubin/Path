@@ -1,0 +1,183 @@
+# DNA Structure and Replication: Crash Course Biology #10
+
+### Concepts
+
+- double-helix
+- complicated molecule
+- complex
+- cell
+- untangling
+- DNA
+- replication
+- evolution
+- genetics
+- deoxyrobinucleic acid
+- genetic instructions
+- information
+- programming
+- cell activity
+- letter code
+- assembly instructions
+- living thing
+- somatic cell
+- chromosome
+- molecule
+- protein
+- nuclus
+- nucleic acid
+- ribonucleic acid
+- RNA
+- biological molecule
+- carbohydrate
+- lipid
+- protein
+- polymer
+- molecular unit
+- nucleotide
+- polynucleotide
+- microscopic
+- five-carbon sugar molecule
+- ribose
+- phosphate group
+- nitrogen base
+- ingredient
+- deoxyribose
+- genetic coding
+- adenine
+- thymine
+- cytosine
+- guanine
+- living organism
+- spiral
+- staircase
+- intertwined
+- ladder
+- twisted
+- backbone
+- sugar-phosphate bond
+- helix
+- chemically
+- direction
+- strand
+- 5th carbon
+- 5 prime
+- 3 prime
+- 5 prime to 3 prime
+- 3 prime to 5 prime
+- chain
+- nitrougenous base
+- hydrogen bond
+- bond
+- base pair
+- GC base pair
+- AT base pair
+- base sequence
+- chromosome 1
+- genome
+- strand of DNA
+- counterpart
+- suger-phosphate backbone
+- nucleotide base
+- single-stranded molecule
+- uracil
+- base
+- DNA replication
+- James Watson
+- Francis Crick
+- discovering
+- genetic information
+- Swiss
+- biologist
+- Friedrich Miescher
+- studying
+- white blood cell
+- bathing
+- warm alchohol
+- enzyme
+- digestion
+- substance
+- nuclein
+- scientist
+- science
+- Rosalind Franklin
+- biophysicist
+- London
+- technique
+- x-ray diffraction
+- helical structure
+- theory
+- image
+- Nature (magazine)
+- Noble Prize Committee
+- ovarian cancer
+- technology
+- photograph
+- radiation exposure
+- Noble Prize
+- posthumously
+- copying
+- cell division
+- template
+- Helicase
+- gene
+- unzip
+- unwinding
+- slicing
+- replication fork
+- leading strand
+- lagging strand
+- complementary DNA strands
+- unwound section
+- DNA polymerase
+- matching nucleotide
+- main stem
+- primer (DNA polymerase)
+- RNA primase
+- RNA primer
+- synthesis
+- DNA ligase
+- proofreading
+
+---
+
+### Notes
+
+- DNA = most complicated molecule
+- body cells count => claims = from 30 trillions to 100 trillions
+- DNA of all cells stretched = 600 times the distance of the Earth to the Sun
+- Human genome = [3.2 billion nucleotides](https://www.ncbi.nlm.nih.gov/books/NBK21134/)
+- paring:
+    - adenine with thymine
+    - guanine with cytosin
+- chromosome 1 base pairs count = 247 million
+    - 200 thousand pages
+- RNA vs DNA
+    - single-stranded vs. double-stranded
+    - uracile vs. thymine
+    - ribose vs. deoxyribose
+- DNA discovery
+    - white blood cells
+    - warm alcohol => removing lipids
+    - enzymes => removing proteins
+    - something remained
+- Replication
+    - helicase = slicing hydrogen bonds
+    - leading strand
+        - DNA polymerase
+            - starts from RNA primase
+    - lagging strand
+        - Okazagi fragment
+            - RNA primer
+        - DNA polymerase
+            - starts from RNA primase
+        - DNA ligase glues segments
+- DNA polymerase can only copy in the direction of 5 prime to 3 prime
+- DNA replication error rate = 1 in 10 billion nucleotides
+
+---
+
+[Source](https://youtu.be/8kK2zwjRV0M)
+
+---
+
+done
