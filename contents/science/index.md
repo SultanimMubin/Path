@@ -39,6 +39,8 @@
 - [Free science lessons](https://www.youtube.com/c/Freesciencelessons)
 - [Fuse school](https://www.youtube.com/c/fuseschool)
 - [IPA chart](https://www.ipachart.com/)
+- [Animated biology With arpan](https://www.youtube.com/channel/UClpeLlEHyJOcPQPxXUwwomA/videos)
+- [Ninja nerd](https://www.youtube.com/c/NinjaNerdScience/playlists)
 
 ---
 
