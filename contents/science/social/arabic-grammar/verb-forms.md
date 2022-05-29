@@ -112,6 +112,29 @@
         </tr>
         <tr>
             <td rowspan=3>
+                مُفاعَلَةْ
+                <br/>
+                II
+            </td>
+            <td>فاعَلَ</td>
+            <td>يُفاعِلُ</td>
+            <td>فِعالاً و مُفاعَلَةً</td>
+            <td>مُفاعِلٌ</td>
+        </tr>
+        <tr>
+            <td>فوعِلَ</td>
+            <td>يُفاعَلُ</td>
+            <td>فِعالاً و مُفاعَلَةً</td>
+            <td>مُفاعَلٌ</td>
+        </tr>
+        <tr>
+            <td>فاعِلْ</td>
+            <td>لا تُفاعِلْ</td>
+            <td>مُفاعَلٌ</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan=3>
                 اِفْعالْ
                 <br/>
                 IV
@@ -240,6 +263,16 @@
   - Denominative
 - قَتَلَ = killed. قَتَّلَ = killed with force, killed many people (massacre), killed many times, killed THEM
 - کَتَبَ = wrote. کَتَّبَ = forced to write
+
+### مُفاعَلَةْ (III)
+
+- Usually
+  - Needs indirect object
+    - with
+    - against
+- Words from this family often imply that the action is directed from one individual/party towards
+another individual/party. The word عاقَبَ for example, means to punish. Punishment is something that
+one individual/party does to another.
 
 ---
 
