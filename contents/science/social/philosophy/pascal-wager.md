@@ -120,7 +120,7 @@
 - Soren Kierkegaard
 - Danish
 - fideism
-- tenant
+- tenet
 - absurd
 - shcool of thought
 - faith
