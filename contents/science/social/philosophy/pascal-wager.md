@@ -1,0 +1,182 @@
+# Indiana Jones & Pascal's Wager: Crash Course Philosophy #15
+
+### Concepts
+
+- useful fiction
+- choose
+- believe
+- life
+- easier
+- pragmatism
+- pragmatist
+- true belief
+- less important
+- belief
+- practical
+- improvement
+- convincing
+- useful belief
+- philosophical movement
+- American
+- William James
+- ideological ancestor
+- mathematician
+- philosopher
+- Blaise Pascal
+- knowledge
+- metaphysics
+- ethics
+- issue
+- God
+- God's existence
+- theist
+- history
+- argument
+- real
+- actual
+- reasoning
+- Pascal's wager
+- gambler's argument
+- religious belief
+- thinking
+- reason
+- answer
+- choose blindly
+- abstain
+- infinite reward
+- heaven
+- infinite punishment
+- hell
+- smart bet
+- argue
+- slightest chance
+- chance
+- stakes are so high
+- incomplete information
+- decision
+- odds
+- greatest benefit
+- math
+- wrong
+- straight
+- narrow
+- service
+- deity
+- cost
+- lifestyle
+- covet
+- logic
+- in the name of X
+- personal benefit
+- believer
+- bless
+- inherent benefits
+- security
+- ordered world
+- meaningful world
+- death
+- comforting
+- motives
+- safest bet
+- self-interested
+- how & why
+- will (verb)
+- brainwashing
+- conviction
+- walk the walk
+- talk the talk
+- church
+- praying
+- disingenious
+- ingrained
+- belief system
+- last crucade
+- allegory
+- pragmatic belief
+- action
+- trilogy
+- agnostic
+- relic
+- power
+- temple
+- ancient
+- test of faith
+- kneel
+- name of God
+- jump
+- abyss
+- going through the motions
+- eventual
+- critic
+- fake it till you make it
+- household
+- immersed
+- culture
+- adult
+- ineffective
+- unhappiness
+- medicine
+- maximize
+- Soren Kierkegaard
+- Danish
+- fideism
+- tenant
+- absurd
+- shcool of thought
+- faith
+- evidence
+- wonder
+- mystery
+- irrational
+- brain
+- leap to faith
+- step
+- surrender
+- philosophy of religion
+- Bertrand Russle
+- china teapot
+- orbiting
+- sun
+- earth
+- mars
+- teapot-ist
+- disprove
+- statute
+- weekly service
+- appeal
+- Ateapot-ist
+- evidence-based argument
+- expedient
+- Russel's teapot
+- Flying Spaghetti Monster
+- right
+- denying
+- kill
+- justification
+- adjudicate
+- religious pragmatism
+- existentialism
+- movement
+- existentialist
+
+---
+
+### Notes
+
+- pragmatism
+    - working belief > true belief
+- Pascal's wager
+    - less related to the real existence of God
+    - more related to the practicality of believing in God's existence
+- Pascal's technique
+    - brainwash yourself into true belief
+- Circular faith:
+    - I have faith in things I choose to have faith in
+
+---
+
+[Source](https://youtu.be/S93jMOqF-oE)
+
+---
+
+done
