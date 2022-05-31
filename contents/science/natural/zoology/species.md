@@ -1,0 +1,190 @@
+# What is a Species? Crash Course Zoology #13
+
+### Concepts
+
+- taxonomic sandwich
+- animal
+- abbreviated latin name
+- common ancestor
+- horse
+- donkey
+- zebra
+- genus
+- equus
+- equus quagga
+- plains zebra
+- equus ferus caballus
+- domestic horse
+- equus africanus
+- evolution
+- species
+- mate
+- hinny
+- zorse
+- zonkey
+- mule
+- repdocuce
+- scientist
+- kingdom
+- phylum
+- class
+- order
+- family
+- genus
+- specific
+- feature
+- closest evolutionary relatives
+- taxonomic rank
+- animal type
+- breed
+- generation
+- Savannah cat
+- diversity
+- the species problem
+- baby
+- rubidus
+- hydbrid iguanna
+- microtaxonomy
+- subfield
+- organization
+- exception
+- Beefalo
+- zoologist
+- classification
+- US endangered species act
+- law
+- legal protection
+- organism
+- method
+- observation
+- the morphological species concept
+- member
+- size
+- shape
+- color
+- physical characteristics
+- biological species concept
+- natural population
+- interbreeding population
+- reproductively isolated
+- genetic material
+- sexual reproduction
+- fertile offspring
+- hybrid
+- develop
+- DNA
+- setrile
+- asexual reporoduction
+- aphids
+- cloning
+- female ligar
+- potentially interbreeding
+- wild
+- zoo
+- cohesion species concept
+- population
+- series of populations
+- genetic cohesion
+- demographic cohesion
+- gene
+- trait
+- mulard
+- liger
+- phylogenetic species concept
+- evolutionary history
+- unique
+- same common ancestor
+- subpopulation
+- black bear
+- everglades
+- ursus americanus fioridanus
+- tundra
+- rocky mountains
+- ursus americanus cinnamomum
+- DNA comparison
+- technique
+- DNA barcoding
+- individual
+- genetic similarity
+- genome
+- DNA sequence
+- definition
+- tool
+- California
+- Santa Barbara
+- behavior
+- morphology
+- specimen
+- lab
+- researcher
+- record
+- manuscript
+- field observations
+- floil
+- rear organ
+- hotes
+- metazoan family tree
+- sex organ
+- diet
+- age
+- creature
+- Ursidae
+- false thumb
+- panda
+- spectecled bear
+- grizzly
+- Ursus
+- academic journal
+- whale
+- sheep
+- art
+- geographic feature
+- interbreeding
+- categorize
+- gene flow
+- pizzly bear
+- parent
+- offspring
+- africanized bee
+- dzo
+- paradise spider
+- habronattus
+- introgression
+- male
+- ornament
+- courtship dance
+- notorious
+- gene pool
+- bushy eyebrow
+- brow
+- gene flow chaos
+- ring species
+- larus gull
+- arctic
+- european herring gull
+- american herring gull
+- east siberian herring gull
+- north pole
+- circle
+- lesser black-backed gull
+- northwestern Europe
+- western fence lizard
+- human-defined categories
+- mystery
+
+---
+
+### Notes
+
+- donkeys are more related to zebras, than horses
+- species problem:
+    - what happens if two different types of animals have babies?
+- rate of discovering new animal species: 11,000 per year
+
+---
+
+[Source](https://youtu.be/gmERYByX7_s)
+
+---
+
+done
