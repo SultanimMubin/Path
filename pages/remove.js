@@ -62,8 +62,6 @@ const Remove = ({ content }) => {
 
 export default Remove
 
-
-
 export async function getServerSideProps({ params, res }) {
     var targetFile = path.join.apply(null, [process.cwd(), "pages", "crash.js"])
     if (!fs.existsSync(targetFile)) {
@@ -71,7 +69,10 @@ export async function getServerSideProps({ params, res }) {
     }
     var content = fs.readFileSync(targetFile, 'utf8')
     codes.forEach(code => {
-        content = content.replace(new RegExp(`^\s*"${code}".*$`, 'im'), '')
+        var pattern = `\\s*"${code}".*`
+        var reg = new RegExp(pattern, 'i')
+        console.log(reg.test(content), pattern)
+        content = content.replace(reg, '')
     })
     try {
         fs.writeFileSync(targetFile, content);
