@@ -71,7 +71,6 @@ export async function getServerSideProps({ params, res }) {
     codes.forEach(code => {
         var pattern = `\\s*"${code}".*`
         var reg = new RegExp(pattern, 'i')
-        console.log(reg.test(content), pattern)
         content = content.replace(reg, '')
     })
     try {
