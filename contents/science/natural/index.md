@@ -14,6 +14,7 @@
 - [Mycoloty](mycology/index)
 - [Neurology](neurology/index)
 - [Organic chemistry](organic-chemistry/index)
+- [Particle physics](particle-physics/index)
 - [Quantum physics](quantum-physics/index)
 - [Zoology](zoology/index)
                 
