@@ -1,0 +1,193 @@
+# Globalization and Trade and Poverty: Crash Course Economics #16
+
+### Concepts
+
+- economics
+- poverty
+- extreme poverty
+- problem
+- easy
+- difficult
+- understand
+- United Nations
+- Millenium Development Goals
+- deadline
+- child mortality
+- gender equality
+- reduction
+- promotion
+- disease
+- eradication
+- hunger
+- standard of living
+- poverty line
+- poverty threshold
+- condition
+- deprivation
+- basic human needs
+- food
+- safe drinking water
+- sanitation facility
+- health
+- shelter
+- education
+- information
+- absolute poverty
+- goal
+- progress
+- success
+- World Bank
+- improvement
+- climate change
+- threat
+- global poverty
+- right direction
+- income ineuqality
+- electricity
+- complicated
+- factor
+- access
+- humanitarian aid
+- policy
+- international organization
+- contribution
+- globalization
+- trade
+- culture
+- economy
+- interconnected
+- free trade
+- developing economy
+- growth
+- world trade
+- World War II
+- free trade aggreement
+- technological advance
+- transportation
+- communication
+- goods
+- services
+- innovation
+- idea
+- mobile phone
+- economist
+- Jeffrey Sachs
+- transformative technology
+- banking
+- payment system
+- price
+- best price
+- production
+- cell phone tower
+- telephone line
+- leapfrogging
+- efficient
+- cost effective
+- technology
+- opportunity
+- sell
+- product
+- labor
+- global marketplace
+- globalized trade
+- downside
+- statistician
+- Hans Roslling
+- globalization deficiency
+- competitor
+- company
+- cheapest
+- buy
+- make
+- source
+- labor intensive product
+- wage
+- regulation
+- corporation
+- stockholder
+- profit
+- consumer
+- overseas
+- high wage worker
+- low wage foreign worker
+- hazardous
+- working conditions
+- job
+- average wage
+- developed country
+- multiplier effect
+- local businesses
+- Paul Krugmen
+- Bangeladeshi
+- Bandgladesh
+- opponent
+- outsourcing
+- exploitation
+- oppression
+- economic colonialism
+- profits before people
+- protectionist policy
+- tarrif
+- limitation
+- foreign worker
+- argument
+- minimum wage law
+- safe working conditions
+- environment
+- child labor
+- law enforcement
+- public awareness
+- international community
+- worker
+- annual publication
+- forced labor
+- officials
+- media
+- awareness
+- sustainability
+- expert
+- growing global economy
+- deforestation
+- pollution
+- consumer goods
+- future
+- livable
+- participation
+- individual
+- local
+- microcredit
+- Muhammad Yunus
+- Nobel Peace Prize
+- rural area
+- loan
+- borrower
+- fund
+- plan
+- income
+- small business
+- private lender
+- government
+- nonprofit organization
+- poor
+- entrepreneur
+- survive
+- creativity
+- sustainable income
+- emerge
+
+---
+
+### Notes
+
+- [UN poverty page](https://www.un.org/en/global-issues/ending-poverty)
+    - extreme poverty = less than $1.9 a day
+        - [$2.29 in 2021](https://en.wikipedia.org/wiki/Extreme_poverty)
+    - 2015 => 10% of world's population (more than 700 million people)
+    - 2016 => 50% of world's population did not have any social protection
+- [UN global issues](https://www.un.org/en/global-issues)
+
+---
+
+[Source](https://youtu.be/9MpVjxxpExM)
+
+---
