@@ -1,0 +1,175 @@
+# The Polymer Explosion: Crash Course Engineering #20
+
+### Concepts
+
+- material
+- problem
+- metals
+- ceramics
+- best choice
+- polymer
+- phenomenon
+- monomer
+- chain
+- molecule
+- react
+- density
+- stiff
+- strong
+- ductile
+- pliable
+- complex shape
+- chemical
+- volatile environment
+- chemistry lab
+- composition
+- elastic
+- elastomer
+- rubber
+- cross-linking
+- bond
+- 3D
+- polymer network
+- net
+- vulcanized
+- process
+- sulfur
+- strenghthening
+- plastic bag
+- seat cover
+- tire
+- research
+- pre-Columbian Mexico
+- Central America
+- latex
+- fluid
+- sap
+- plant
+- juice
+- morning glory plant
+- rubber goods
+- sandal
+- rubber band
+- bouncing ball
+- experiment
+- common glue
+- polymer chain
+- polyvinyl acetate
+- borax solution
+- mixture
+- cornstarch
+- slime
+- ingredient
+- measurement
+- evidence
+- application
+- celluloid
+- hardening
+- hardened material
+- natural polymer
+- cellulose
+- billiard ball
+- ivory
+- flammable
+- pool table
+- explosive
+- silk
+- substitute
+- fabric
+- Hermann Staudinger
+- German
+- chemist
+- force
+- unknown force
+- molecular chain
+- Noble Prize for Chemistry
+- foundation
+- plastics industry
+- scientist
+- synthetic substitute
+- synthetic rubber
+- nylon
+- World War II
+- wartime restriction
+- natural material
+- synthetic polymer
+- war
+- Allies
+- inflatable tank
+- decoy
+- battlefield
+- Ghost Army
+- fake
+- soldier
+- engineer
+- design
+- gas mask
+- gear
+- polyethylene
+- PE
+- polyvinyl chloride
+- PVC
+- polyethylene terephthalate
+- PET
+- plastic
+- packaging material
+- bottle
+- rigid
+- flexible
+- buildings
+- construction
+- plastic pipe
+- window frame
+- door frame
+- disastrous event
+- soft
+- bendable
+- plasticizer
+- thick
+- viscous
+- imitation leather
+- flooring
+- inflatable products
+- fiber
+- clothing
+- photographic film
+- magnetic recording tape
+- tough
+- lightweight
+- kevlar
+- bullet proof
+- teflon
+- water resistant
+- slippery solid
+- concentration
+- moving fluid
+- friction
+- fluid internal friction
+- polymeric drag reduction
+- flow
+- pressure
+- fire hose
+- floor
+- firefighter
+- solution
+- hose
+- thought excersize
+- innovative
+- properties
+- electrical engineering
+
+---
+
+### Notes
+
+- polymer = long, repeating chain of monomers
+- polymers can be used to send water higher for firefighting hoses
+- polymer wide usage => from 1940s
+
+---
+
+[Source](https://youtu.be/XjDDHnByfuo)
+
+---
+
+done
