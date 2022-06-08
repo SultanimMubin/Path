@@ -162,7 +162,8 @@
 
 ### Notes
 
-- polymer = long, repeating chain of monomers
+- material choice matters
+- polymer is long
 - polymers can be used to send water higher for firefighting hoses
 - polymer wide usage => from 1940s
 
