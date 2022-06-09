@@ -1,0 +1,177 @@
+# Changing the Blueprints of Life - Genetic Engineering: Crash Course Engineering #38
+
+### Concepts
+
+- engineer
+- mechanical part
+- electronic circutry
+- improvement
+- useful
+- life
+- living organism
+- scientific research
+- genetic engineering
+- blueprint
+- DNA
+- DNA editing
+- gene
+- field
+- living being
+- nature (nature of living beings)
+- controvarsy
+- design
+- material
+- treatment
+- cure
+- disease
+- molecule
+- cell
+- growth
+- function
+- sugar phosphate
+- strand
+- spiral
+- double helix
+- genetic content
+- base (chemistry)
+- adenine
+- cytosine
+- guanine
+- thymine
+- biological code
+- information
+- structure
+- operation
+- sequence
+- reproduction
+- cellular machinery
+- translation
+- protein
+- evolution
+- genetic inheritance
+- petal
+- cultivation
+- bredding
+- resilient
+- domestication
+- genicisit
+- Norman Borlaug
+- International Maize and Wheat Improvement Center
+- maize
+- wheat
+- cereal product
+- yield
+- crop breeding technique
+- resistant
+- stem rust
+- fungus
+- shrivel
+- stem
+- plant
+- disease-resistant wheat
+- cross-breed
+- Japanese
+- variety
+- trait
+- famine
+- India
+- Pakistan
+- Green Revolution
+- starvation
+- Noble Peace Prize
+- accuracy
+- toolkit
+- challenge
+- foot shortage
+- biofuel
+- ethanol
+- corn
+- algae
+- fuel
+- diatom
+- cell wall
+- silica
+- glass house
+- nano-engineering
+- surface
+- biosensor
+- explosive
+- detection
+- drug delivery
+- synthesize
+- efficiency
+- medical
+- medication
+- bacteria
+- enzyme
+- chemical process
+- pharmaceutical drug
+- p450 (enzyme)
+- cancer treatment
+- factory
+- drug production process
+- insulin
+- genetic treatment
+- organism
+- mutation
+- DNA-copying process
+- base pair
+- transcription
+- hypertrophic cardiomypathy
+- muscle
+- blood
+- embryo
+- carrier gene
+- intelligence
+- species
+- technique
+- optogenetics
+- CRISPR
+- sensitive
+- light
+- brain cell
+- National Academy of Engineering
+- Grand Challenges of 21st Century
+- mammal
+- neuron
+- variable
+- change
+- measurement
+- scientific testing
+- ion channel receptor
+- chemical channel
+- switch
+- activation
+- deactivation
+- neurotransmitter
+- virus
+- host
+- malfunction
+- light sensitive protein
+- opsin
+- light pulse
+- beam
+- fiber optic cable
+- researcher
+- motion circut
+- mice
+- sleep
+- fruit fly
+- waking up
+- light flash
+- motor cortex
+- sleep cycle
+- parallel structure
+- 
+
+---
+
+### Notes
+
+---
+
+[Source](https://youtu.be/FY_ZUEKWhBc)
+
+---
+
+up to 8:20
