@@ -33,3 +33,6 @@ Why no feminist complains and nags about being a garbage man?
 ### Child
 
 - oxytocin & breastfeeding
+
+### Questions
+If men and women are euqal, why sports are segragated by gender? 
