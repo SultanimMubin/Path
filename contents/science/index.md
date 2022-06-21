@@ -41,6 +41,7 @@
 - [IPA chart](https://www.ipachart.com/)
 - [Animated biology With arpan](https://www.youtube.com/channel/UClpeLlEHyJOcPQPxXUwwomA/videos)
 - [Ninja nerd](https://www.youtube.com/c/NinjaNerdScience/playlists)
+- [Jared Owen](https://youtube.com/c/JaredOwen)
 
 ---
 
