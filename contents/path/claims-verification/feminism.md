@@ -7,6 +7,7 @@
 - [FIDE world rankings](https://en.wikipedia.org/wiki/FIDE_world_rankings)
 - [Noble Prize Winners](https://www.nobelprize.org/prizes/lists/all-nobel-prizes/)
   - Let's only consider 21 century
+  - Exclude peace and literature
 
 ### Anatomical/physiological proofs
 
