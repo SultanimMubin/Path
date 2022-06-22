@@ -1,5 +1,10 @@
 ﻿# Justice in Iran
 
+Note: all examples are based on human evil, not natural evil
+
+Thus they can't be compared to:
+طائرکم عندالله
+
 <p>من قویا معتقدم در جمهوری اسلامی ایران، عدالت وجود نداره و حکومتی که داریم ظالمه. اینها تجربه های من به عنوان شخص حقیقی و حقوقی در این کشوره برای مصادیق ظلم:</p>
 
 <ul>
