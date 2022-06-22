@@ -8,6 +8,8 @@
 - [Noble Prize Winners](https://www.nobelprize.org/prizes/lists/all-nobel-prizes/)
   - Let's only consider 21 century
   - Exclude peace and literature
+  - [Table by gender](https://stats.areppim.com/stats/stats_nobel_sexxcat.htm)
+  - [Chart by gender](https://www.statista.com/chart/2805/nobel-prize-winners-by-gender/)
 
 ### Anatomical/physiological proofs
 
