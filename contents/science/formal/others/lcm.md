@@ -28,6 +28,12 @@
 
 ### Notes
 
+- finding LCM
+    - prime factorization
+    - include the largest count of each prime factor
+        - if 2 is repeated 3 times in one, and 4 times in the other, include 4 group
+    - multiply them
+
 ---
 
 [Source](https://youtu.be/sae1IoToQ0M)
