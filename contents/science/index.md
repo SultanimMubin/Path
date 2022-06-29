@@ -42,7 +42,7 @@
 - [Animated biology With arpan](https://www.youtube.com/channel/UClpeLlEHyJOcPQPxXUwwomA/videos)
 - [Ninja nerd](https://www.youtube.com/c/NinjaNerdScience/playlists)
 - [Jared Owen](https://youtube.com/c/JaredOwen)
-
+- ScienceClick English
 ---
 
 > any sufficiently advanced technology is indistinguishable from magic
