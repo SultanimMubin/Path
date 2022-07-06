@@ -5,6 +5,7 @@
 - [Stack Overflow, gender of IT professionals](https://insights.stackoverflow.com/survey/2021#section-demographics-gender)
 - [Forbes, list of rich people](https://www.forbes.com/real-time-billionaires/)
 - [FIDE world rankings](https://en.wikipedia.org/wiki/FIDE_world_rankings)
+- [FIDE data](https://ratings.fide.com/rankings.phtml)
 - [Noble Prize Winners](https://www.nobelprize.org/prizes/lists/all-nobel-prizes/)
   - Let's only consider 21 century
   - Exclude peace and literature
