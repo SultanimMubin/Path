@@ -1,5 +1,10 @@
 # Temp thoughts
 
+Should a virtuous person with high position argue with an evil person who has a low status?
+Because the fame of the virtuous person might make that evil guy famous and make others slip too.
+
+---
+
 Pain killers (analgesic) in this world are signs that there could be a world in which pain does not exist.
 
 ---
