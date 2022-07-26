@@ -1,6 +1,7 @@
 # Path
 
 [Flowchart of finding the truth](flowchart)
+    - [The bullet version](flowchart/bullet)
 
 ### Pillars
 - Intelligent design

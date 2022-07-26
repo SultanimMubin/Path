@@ -22,7 +22,7 @@ const Flowchart = () => {
 
     const items = [
         {
-            title: "Distrust in all claims",
+            title: "Distrust in all claims (skepticism)",
             subtitle: "I lost my trust in everyone. Family, parents, friends, government, media, scientists, spiritual leaders. I could not find a fair person to listen to and trust. Thus I had to become the change I wish I could see in the world."
         },
         {

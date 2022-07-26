@@ -37,6 +37,16 @@ jobs:
       - name: Copy Sultanimmubin/Path to root
         run: |
           cp -r $GITHUB_WORKSPACE/Sultanimmubin/Path /Sultanimmubin/Path 
+
+      - name: Get Sultanimmubin/Common using actions/checkout@v2
+        uses: actions/checkout@v2
+        with:
+          repository: Sultanimmubin/Common
+          token: ${{ secrets.PAT }}
+          path: Sultanimmubin/Common
+      - name: Copy Sultanimmubin/Common to root
+        run: |
+          cp -r $GITHUB_WORKSPACE/Sultanimmubin/Common /Sultanimmubin/Common 
       
       - name: Build production docker
         run: |
