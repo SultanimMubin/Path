@@ -1,5 +1,5 @@
 hummingberd
 
-bosyon dynamics
+boston dynamics
 
-chcken head stabilization
+chicken head stabilization
