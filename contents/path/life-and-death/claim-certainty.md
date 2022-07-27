@@ -1,6 +1,11 @@
-﻿<h1>قعطیت کلام</h1>
+﻿# Claim certainty
 
-<p>محمد از کجا میدونسته که ما به مرگ غلبه نمیکنیم؟</p>
-<p>مثلا فرض کنیم محمد قرآن رو از خودش گفته، و فرض کنیم میخواست راجع به بیماری فلج اطفال صحبت کنه. و مینوشت "هیچ گاه فلج اطفال از بین نخواهد رفت. از هر 10 نفر حتما یک نفر فلج خواهد شد".</p>
-<p>بعد ما میومدیم جلو و فلج اطفال رو ریشه کن میکردیم. اینجا "مثال نقض" پیدا میکردیم تو قرآن.</p>
-<p>اما راجع به مرگ صحبت شده با قطعیت و این قطعیت هنوز شکسته نشده. این خودش برای من یه نشانه است.</p>
+How Muhammad knew that we wouldn't be overcoming death?
+
+Let's say Muhammad authored the Quran himself. And let's say he would talk about Polio in it, saying, "Polio will never vanish. One out of each ten would be trialed with polio".
+
+And we would eradicate Polio as a species, which would mean that the Quran has predicted something wrong.
+
+But Quran confidently talks about death, and this certainty has not been broken yet. Not even close. It's not even touched yet.
+
+This is a sign for me of the truth.
